@@ -1,6 +1,6 @@
 # 🔌 Hardware & Electrical (ECE)
 
-**56 roles** · updated `2026-09-04 05:16 UTC` · [← all categories](../README.md)
+**56 roles** · updated `2026-09-04 05:47 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the other locations (20 extra postings folded in); every one is in [`listings.json`](../data/listings.json).
 
@@ -50,7 +50,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | IMEG | Electrical Engineering New Graduate \| Jacksonville, FL | — | Jacksonville, FL | $75,000–$78,000 | 17d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Jacksonville-FL/Electrical-Engineering-New-Graduate---Jacksonville--FL_R-16468) |
 | WSP | Early Career Electrical Engineer - Buildings | — | Dallas, TX | — | 17d | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93517) |
 | IMEG | Electrical Engineering New Grad \| Columbia, SC | — | Columbia, SC | — | 17d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Columbia-SC/Electrical-Engineering-New-Grad---Columbia--SC_R-16343) |
-| Boom Supersonic | Electrical or Embedded Controls Engineer (Early Career, Exceptional Talent) | — | Centennial, CO | — | 17d | [apply](https://ats.rippling.com/boom-supersonic/jobs/dd8a32fb-b2d4-4052-a8e4-6aaab31af70c) |
+| Boom Supersonic | Electrical or Embedded Controls Engineer (Early Career, Exceptional Talent) | — | Centennial, CO | — | 18d | [apply](https://ats.rippling.com/boom-supersonic/jobs/dd8a32fb-b2d4-4052-a8e4-6aaab31af70c) |
 | First Quality | Shift Controls Engineer (New Grads Welcome) | — | Macon, GA | — | 18d | [apply](https://firstquality.wd5.myworkdayjobs.com/FIRSTQUALITY/job/US-GA-Macon/Shift-Controls-Engineer--Entry-Level-_R11447) |
 | Qnity | 2026 Entry Level Rotational Program: Chemical, Mechanical & Electrical Engineering – Qnity Electronics | 2026 | DE | — | 19d | [apply](https://qnity.wd503.myworkdayjobs.com/en-US/Jobs/job/Wimington-Delaware/XMLNAME-2026-Entry-Level-Rotational-Program--Chemical--Mechanical---Electrical-Engineering---Qnity-Electronics_248862W) |
 | IMEG | Electrical Engineering New Grad \| Urbandale, IA | — | IA | $78,000–$80,000 | 19d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Urbandale-IA/Electrical-Engineering-New-Grad---Rock-Island--IL_R-15386) |

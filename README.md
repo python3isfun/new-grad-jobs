@@ -1,10 +1,12 @@
 # 🎓 New Grad Tech Jobs — auto-updated daily
 
-**273 live new-grad roles** (330 postings) · last updated `2026-09-04 05:16 UTC`
+**273 live new-grad roles** (330 postings) · last updated `2026-09-04 05:47 UTC`
 
 Entry-level and new-graduate roles for students finishing their degree. Every listing links straight to the employer's own application page — no aggregator reposts, no dead links: postings that have closed are removed on the next update.
 
 ⭐ **Star / watch this repo** to see new postings in your GitHub feed.
+
+🧑‍🎓 Still in school? See **[Tech Internships](https://github.com/python3isfun/intern-jobs)**.
 
 ## Browse by category
 

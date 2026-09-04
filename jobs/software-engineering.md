@@ -1,6 +1,6 @@
 # 💻 Software Engineering
 
-**185 roles** · updated `2026-09-04 05:16 UTC` · [← all categories](../README.md)
+**185 roles** · updated `2026-09-04 05:47 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the other locations (35 extra postings folded in); every one is in [`listings.json`](../data/listings.json).
 
@@ -159,7 +159,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Clarum | AI-Native Engineer, New Grad (Ingeniero/a de Software AI-Native — Inicio de Carrera) - Mexico City (Hybrid) | — | — | — | 9d | [apply](https://job-boards.greenhouse.io/clara/jobs/5215613007) |
 | Freeform | Software Engineer (New Grad Summer 2027) | Summer 2027 | CA | — | 14d | [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003) |
 | BSN SPORTS, A VARSITY BRANDS COMPANY | Software Engineer - Early Career 🛂 | — | Farmers Branch, TX | — | 16d | [apply](https://varsitybrands.wd503.myworkdayjobs.com/ExternalCareerSite/job/TX---Farmers-Branch/Software-Engineer---Early-Career_JR113366-1) |
-| Boom Supersonic | Software Engineer (Early Career, Exceptional Talent) | — | Centennial, CO | — | 17d | [apply](https://ats.rippling.com/boom-supersonic/jobs/a6ea239b-70a4-4d72-b7d8-3ab1312568dc) |
+| Boom Supersonic | Software Engineer (Early Career, Exceptional Talent) | — | Centennial, CO | — | 18d | [apply](https://ats.rippling.com/boom-supersonic/jobs/a6ea239b-70a4-4d72-b7d8-3ab1312568dc) |
 | Palantir Technologies | Forward Deployed Software Engineer, New Grad - US Government | — | NY +1 | $135,000–$145,000 | 19d | [apply](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca) |
 | Palantir Technologies | Forward Deployed Software Engineer, New Grad - Commercial | — | Chicago, IL +3 | $135,000–$145,000 | 19d | [apply](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40) |
 | Palantir Technologies | Forward Deployed Software Engineer, New Grad - Intel, US Government | — | D.C., WA | $135,000–$145,000 | 19d | [apply](https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382) |

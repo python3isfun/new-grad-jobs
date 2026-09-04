@@ -1,6 +1,6 @@
 # 📊 Data & Analytics
 
-**11 roles** · updated `2026-09-04 05:16 UTC` · [← all categories](../README.md)
+**11 roles** · updated `2026-09-04 05:47 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the other locations (1 extra postings folded in); every one is in [`listings.json`](../data/listings.json).
 
