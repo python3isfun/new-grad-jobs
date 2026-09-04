@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T05:47:12.819439+00:00",
+ "generated_at": "2026-09-04T06:22:38.535197+00:00",
  "count": 330,
  "segment": "new_grad",
  "source": "employer career-site crawl + rule-based segment classifier",
@@ -20,7 +20,8 @@
    "term": "2026",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Rail Control Systems Engineer Graduate 2027",
@@ -38,7 +39,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Predictive Analytics Global Early Career Professional",
@@ -56,7 +58,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "no_sponsorship"
+   "visa": "no_sponsorship",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Customer Analytics & Insights Global Early Career Professional",
@@ -74,7 +77,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "no_sponsorship"
+   "visa": "no_sponsorship",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Entry-Level Electrical Engineer (Power)",
@@ -92,7 +96,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "2027 Early Career Electrical Engineer",
@@ -110,7 +115,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "2026 Early Career Electrical Engineer",
@@ -128,7 +134,8 @@
    "term": "2026",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "2026 Early Career Software Engineer",
@@ -146,7 +153,8 @@
    "term": "2026",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "2027 Early Career Software Engineer",
@@ -164,7 +172,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "2027 Early Career Flight Software Engineer",
@@ -182,7 +191,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "IT Security & Compliance Specialist I - EHRA - Early Career",
@@ -200,7 +210,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Fundamental Research Analyst - 2027 Graduate Program - (August Start)",
@@ -218,7 +229,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Entry Level Software Design Release Engineer",
@@ -236,7 +248,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "sponsors"
+   "visa": "sponsors",
+   "h1b_approvals_latest_fy": 267
   },
   {
    "title": "Students and New Grad Opportunities - IT USA",
@@ -254,7 +267,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Early Career Substation Electrical Engineer",
@@ -272,7 +286,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "New Graduate Engineer, Silicon Engineering",
@@ -290,7 +305,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
@@ -308,7 +324,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "New Graduate Engineer, Electrical (Starshield)",
@@ -326,7 +343,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
@@ -344,7 +362,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
@@ -362,7 +381,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
@@ -380,7 +400,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "New Graduate Engineer, Software",
@@ -398,7 +419,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
@@ -416,7 +438,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "New Graduate Engineer, Silicon Engineering",
@@ -434,7 +457,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "New Graduate Engineer, Silicon Engineering",
@@ -452,7 +476,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
@@ -470,7 +495,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
@@ -488,7 +514,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "New Graduate Engineer, Software  - '26/'27  (Starlink)",
@@ -506,7 +533,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "New Graduate Engineer, Electrical (Starship)",
@@ -524,7 +552,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "New Graduate Engineer, Software (Starship)",
@@ -542,7 +571,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "New Graduate Engineer, Software (Application Software)",
@@ -560,7 +590,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
@@ -578,7 +609,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Graduate | Idaho Falls, ID",
@@ -596,7 +628,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "WaveLogic Software Developer - New Grad",
@@ -614,7 +647,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Entry Level Software Engineer",
@@ -632,7 +666,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "sponsors"
+   "visa": "sponsors",
+   "h1b_approvals_latest_fy": 267
   },
   {
    "title": "Entry Level Software Engineer",
@@ -650,7 +685,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "sponsors"
+   "visa": "sponsors",
+   "h1b_approvals_latest_fy": 267
   },
   {
    "title": "Entry Level Software Quality & Testing Engineer",
@@ -668,7 +704,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "sponsors"
+   "visa": "sponsors",
+   "h1b_approvals_latest_fy": 267
   },
   {
    "title": "Developer Technology Engineer, AI - New College Graduate 2026",
@@ -686,7 +723,8 @@
    "term": "2026",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 394
   },
   {
    "title": "Early Career Electrical SCADA/Studies Engineer",
@@ -704,7 +742,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "AI Engineer/Anthropic-Campus Hire - US West",
@@ -722,7 +761,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Graduate | Seattle, WA",
@@ -740,7 +780,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
@@ -758,7 +799,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 27
   },
   {
    "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
@@ -776,7 +818,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 27
   },
   {
    "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
@@ -794,7 +837,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 27
   },
   {
    "title": "Entry Level Electrical Engineer",
@@ -812,7 +856,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "no_sponsorship"
+   "visa": "no_sponsorship",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Entry Level Electrical Engineer",
@@ -830,7 +875,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "no_sponsorship"
+   "visa": "no_sponsorship",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Entry Level Electrical Engineer",
@@ -848,7 +894,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "no_sponsorship"
+   "visa": "no_sponsorship",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Software Engineer (Entry-Level) - C++",
@@ -866,7 +913,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 20
   },
   {
    "title": "Embedded Linux Software Engineer (Junior/Early Career)",
@@ -884,7 +932,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Software Test Engineer Graduate (AI) - 2027 Start",
@@ -902,7 +951,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Backend Software Engineer Graduate (TikTok-PGC-Creator Strategy) - 2027 Start",
@@ -920,7 +970,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "AI Engineer Graduate (Client Arch) - 2027 Start",
@@ -938,7 +989,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (E-Commerce Recommendation Live) - 2027 Start",
@@ -956,7 +1008,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (TikTok Global Live) - 2027 Start",
@@ -974,7 +1027,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (Ads Delivery) - 2027 Start",
@@ -992,7 +1046,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "AI Full-Stack Engineer Graduate (TikTok Shop - SEA) - 2027 Start",
@@ -1010,7 +1065,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (Recommendation) - 2027 Start (PhD)",
@@ -1028,7 +1084,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (Global E-commerce-Search) - 2027 Start",
@@ -1046,7 +1103,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (Foundation Platform) - 2027 Start",
@@ -1064,7 +1122,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (Ads Measurement Signal Technology) - 2027 Start",
@@ -1082,7 +1141,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (Global E-Commerce, Recommendation) - 2027 Start",
@@ -1100,7 +1160,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (E-Commerce Governance) - 2027 Start (PhD)",
@@ -1118,7 +1179,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Scientist Graduate (TikTok Trust and Safety) - 2027 Start (PhD)",
@@ -1136,7 +1198,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (Data-Global E-Commerce-Search) - 2027 Start (PhD)",
@@ -1154,7 +1217,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (E-Commerce Recommendation Live) - 2027 Start",
@@ -1172,7 +1236,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Backend Software Engineer Graduate (Risk & Response) - 2027 Start",
@@ -1190,7 +1255,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (Data Arch - E-commerce) - 2027 Start",
@@ -1208,7 +1274,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (Video-on-Demand Algorithm) - 2027 Start",
@@ -1226,7 +1293,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Data Scientist Graduate (Multimedia) - 2027 Start",
@@ -1244,7 +1312,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Frontend Software Engineer Graduate (Global CRM) - 2027 Start",
@@ -1262,7 +1331,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (TikTok Recommendation Platform) - 2027 Start",
@@ -1280,7 +1350,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Scientist Graduate (TikTok Trust and Safety) - 2027 Start (PhD)",
@@ -1298,7 +1369,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Fullstack Software Engineer Graduate (Global E-commerce) - 2027 Start",
@@ -1316,7 +1388,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Backend Software Engineer Graduate (Emerging Products & AI Safety) - 2027 Start",
@@ -1334,7 +1407,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "(General Hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start",
@@ -1352,7 +1426,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Backend Software Engineer Graduate (Feed Safety) - 2027 Start",
@@ -1370,7 +1445,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (E-Commerce Knowledge Graph) - 2027 Start (PhD)",
@@ -1388,7 +1464,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Backend Software Engineer Graduate (Global LIVE Fund Safety) - 2027 Start",
@@ -1406,7 +1483,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (E-Commerce Recommendation Mall) - 2027 Start",
@@ -1424,7 +1502,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Neural Graphics and World Models Research Scientist/Software Engineer Graduate (TikTok, Engine&Tools) - 2027 Start (PhD)",
@@ -1442,7 +1521,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (Transaction Platform) - 2027 Start",
@@ -1460,7 +1540,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Backend Software Engineer Graduate (TikTok-PGC-Digital Content Center) - 2027 Start",
@@ -1478,7 +1559,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Data Engineer Graduate (Monetization Data) - 2027 Start",
@@ -1496,7 +1578,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "(General Hire)Machine Learning Engineer Graduate (TikTok Recommendation) - 2027 Start",
@@ -1514,7 +1597,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "(General Hire) Machine Learning Scientist Graduate (TikTok Recommendation) - 2027 Start (PhD)",
@@ -1532,7 +1616,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Data Engineer Graduate (Data Platform Global Live) - 2027 Start",
@@ -1550,7 +1635,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Backend Software Engineer Graduate (Business Governance) - 2027 Start",
@@ -1568,7 +1654,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Software Engineer Graduate (TikTok Content Ecology) - 2027 Start (PhD)",
@@ -1586,7 +1673,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (Ads Signal & Measurement) - 2027 Start",
@@ -1604,7 +1692,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "(General Hire) Machine Learning Engineer Graduate (Performance Monetization) - 2027 Start (PhD)",
@@ -1622,7 +1711,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Data Engineer Graduate (Data Platform E-commerce) - 2027 Start",
@@ -1640,7 +1730,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (E-Commerce Governance) - 2027 Start",
@@ -1658,7 +1749,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "AI Engineer (LLM/Multimodal) Graduate\uff08TikTok Search\uff09 - 2027 Start (PhD)",
@@ -1676,7 +1768,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Data Scientist Graduate (E-Commerce Governance) - 2027 Start",
@@ -1694,7 +1787,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Backend Engineer Graduate (User Growth) - 2027 Start",
@@ -1712,7 +1806,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (TikTok Recommendation Architecture) - 2027 Start",
@@ -1730,7 +1825,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (Global E-Commerce, Risk Control) - 2027 Start (PhD)",
@@ -1748,7 +1844,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Data Engineer Graduate (Monetization Data) - 2027 Start",
@@ -1766,7 +1863,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (Global E-Commerce, Risk Control) - 2027 Start",
@@ -1784,7 +1882,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (Global CRM) - 2027 Start",
@@ -1802,7 +1901,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Backend Engineer Graduate (TikTok Shop - Europe) - 2027 Start",
@@ -1820,7 +1920,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Frontend Software Engineer Graduate (Ads Interface) - 2027 Start",
@@ -1838,7 +1939,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (Global E-Commerce, User Growth) - 2027 Start",
@@ -1856,7 +1958,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (Brand Ads) - 2027 Start (PhD)",
@@ -1874,7 +1977,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (TikTok-Data-Search-Basic Ranking) - 2027 Start (PhD)",
@@ -1892,7 +1996,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (E-Commerce Recommendation Live) - 2027 Start (PhD)",
@@ -1910,7 +2015,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (Global Advertising Data Platform) - 2027 Start",
@@ -1928,7 +2034,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (E-Commerce Recommendation Mall) - 2027 Start",
@@ -1946,7 +2053,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "AI Engineer (LLM/Multimodal) Graduate\uff08TikTok Search\uff09 - 2027 Start",
@@ -1964,7 +2072,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (Ads Infra) - 2027 Start",
@@ -1982,7 +2091,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (Ads Interface) - 2027 Start",
@@ -2000,7 +2110,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (TikTok Trust and Safety) - 2027 Start",
@@ -2018,7 +2129,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Backend Software Engineer Graduate (Machine Moderation Platform) - 2027 Start",
@@ -2036,7 +2148,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Backend Software Engineer Graduate (Creation Platform) - 2027 Start",
@@ -2054,7 +2167,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Data Scientist Graduate (Multimedia) - 2027 Start",
@@ -2072,7 +2186,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (TikTok-Data-Search-Search Quality) - 2027 Summer Start (PhD)",
@@ -2090,7 +2205,8 @@
    "term": "Summer 2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (Foundation Platform) - 2027 Start",
@@ -2108,7 +2224,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (Commercial AI-CRM and Transaction) - 2027 Start",
@@ -2126,7 +2243,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Ops Engineer Graduate (Ads Infra) - 2027 Start",
@@ -2144,7 +2262,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (E-Commerce Governance) - 2027 Start (PhD)",
@@ -2162,7 +2281,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (E-Commerce Governance) - 2027 Start",
@@ -2180,7 +2300,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Backend Software Engineer Graduate (Global LIVE Transaction) - 2027 Start",
@@ -2198,7 +2319,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Strategy & Analytics Associate Graduate (TikTok Shop) - 2027 Start (MBA)",
@@ -2216,7 +2338,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (Brand Ads) - 2027 Start",
@@ -2234,7 +2357,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "(General hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start",
@@ -2252,7 +2376,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Big Data Engineer Graduate (TikTok Recommendation Architecture) - 2027 Start",
@@ -2270,7 +2395,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer/Mobile Engineer Graduate (Ads Core Demonstration) - 2027 Start",
@@ -2288,7 +2414,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "(General Hire) Machine Learning Engineer Graduate (Performance Monetization) - 2027 Start",
@@ -2306,7 +2433,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (TikTok Search Architecture) - 2027 Start",
@@ -2324,7 +2452,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (Data Arch - E-commerce) - 2027 Start",
@@ -2342,7 +2471,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (TikTok Trust and Safety) - 2027 Start",
@@ -2360,7 +2490,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (TikTok-Data-Search-Search Quality) - 2027 Start",
@@ -2378,7 +2509,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Strategy & Analytics Associate Graduate (TikTok Shop-Resource Management) - 2027 Start (MBA)",
@@ -2396,7 +2528,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Backend Software Engineer Graduate (Global E-commerce) - 2027 Start",
@@ -2414,7 +2547,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (Business Integrity) - 2027 Start",
@@ -2432,7 +2566,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Mobile Software Engineer Graduate (Global E-commerce) - 2027 Start",
@@ -2450,7 +2585,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (Video-on-Demand Algorithm) - 2027 Start",
@@ -2468,7 +2604,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Big Data Engineer Graduate (TikTok Recommendation Architecture) - 2027 Start",
@@ -2486,7 +2623,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (Media Engine) - 2027 Start",
@@ -2504,7 +2642,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Backend Software Engineer Graduate (Creation Platform) - 2027 Start",
@@ -2522,7 +2661,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Backend Software Engineer Graduate (Global E-commerce) - 2027 Start",
@@ -2540,7 +2680,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Mobile Software Engineer Graduate (Social) - 2027 Start",
@@ -2558,7 +2699,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Backend Software Engineer Graduate (Global Live Data Platform) - 2027 Start",
@@ -2576,7 +2718,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (App Ads and Gaming) - 2027 Start",
@@ -2594,7 +2737,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate\uff08TikTok Search\uff09 - 2027 Start",
@@ -2612,7 +2756,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate(Ads Infrastructure) - 2027 Start",
@@ -2630,7 +2775,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (TikTok-Data-Search-Basic Ranking) - 2027 Start",
@@ -2648,7 +2794,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (Ads Targeting)- 2027 Start",
@@ -2666,7 +2813,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (TikTok Search Data Infra) - 2027 Start",
@@ -2684,7 +2832,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (Data-Global E-Commerce-Search) - 2027 Start",
@@ -2702,7 +2851,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (Media Engine) - 2027 Start",
@@ -2720,7 +2870,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Site Reliability Engineer Graduate (Global SRE) - 2027 Start",
@@ -2738,7 +2889,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Development Engineer Graduate (TikTok - Testing - Growth) - 2027 Start",
@@ -2756,7 +2908,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (Global E-Commerce, Risk Control) - 2027 Start",
@@ -2774,7 +2927,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (Search Ads) - 2027 Start",
@@ -2792,7 +2946,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Data Engineer Graduate (Data Platform - Global Live) - 2027 Start",
@@ -2810,7 +2965,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (Ads Signal & Measurement) - 2027 Start",
@@ -2828,7 +2984,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Data Scientist Graduate (TikTok Platform Safety) - 2027 Start (PhD)",
@@ -2846,7 +3003,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning MLOps Engineer Graduate (MLOps) - 2027 Start",
@@ -2864,7 +3022,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (Audio Understanding) - 2027 Start (PhD)",
@@ -2882,7 +3041,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (Commerce Ads) - 2027 Start",
@@ -2900,7 +3060,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Backend Software Engineer Graduate (Social) - 2027 Start",
@@ -2918,7 +3079,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (AI Agent & Global Revenue Platform) - 2027 Start",
@@ -2936,7 +3098,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (TikTok-Data-Search-Visual Search) - 2027 Start",
@@ -2954,7 +3117,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (Ads Delivery) - 2027 Start",
@@ -2972,7 +3136,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (TikTok Vertical Recommendation) - 2027 Start",
@@ -2990,7 +3155,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (Recommendation Infrastructure) - 2027 Start",
@@ -3008,7 +3174,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (TikTok-Data-Search-Recommendation) - 2027 Start",
@@ -3026,7 +3193,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (TikTok-Data-Search-Local Service) - 2027 Start",
@@ -3044,7 +3212,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (Quality and Efficiency Technology) - 2027 Start",
@@ -3062,7 +3231,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Backend Software Engineer Graduate (TikTok - Data Lifecycle Management) - 2027 Start",
@@ -3080,7 +3250,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (Global E-Commerce, Search) - 2027 Start",
@@ -3098,7 +3269,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (Global E-Commerce) - 2027 Start",
@@ -3116,7 +3288,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "(General Hire) Machine Learning Scientist Graduate (TikTok Recommendation) - 2026 Start (PhD)",
@@ -3134,7 +3307,8 @@
    "term": "2026",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (E-Commerce Knowledge Graph) - 2027 Start",
@@ -3152,7 +3326,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (E-Commerce Recommendation Video) - 2027 Start",
@@ -3170,7 +3345,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Research Scientist Graduate (Business Integrity) - 2026 Start (PhD)",
@@ -3188,7 +3364,8 @@
    "term": "2026",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (E-Commerce Knowledge Graph) - 2027 Start (PhD)",
@@ -3206,7 +3383,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (Data Arch - AI/ML Infrastructure) - 2026 Start (PhD)",
@@ -3224,7 +3402,8 @@
    "term": "2026",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Software Engineer Graduate (Data Arch - Data Ecosystem ) - 2026 (PhD)",
@@ -3242,7 +3421,8 @@
    "term": "2026",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "AI Machine Learning Engineer Graduate (TikTok Search) - 2026 Start (PhD)",
@@ -3260,7 +3440,8 @@
    "term": "2026",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Backend Engineer Graduate (TikTok Recommendation Architecture) - 2026 Start (PhD)",
@@ -3278,7 +3459,8 @@
    "term": "2026",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (E-Commerce Recommendation Mall) - 2027 Start (PhD)",
@@ -3296,7 +3478,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Site Reliability Engineer Graduate (Global SRE- GMPT) - 2027 Start",
@@ -3314,7 +3497,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (Global E-Commerce, Risk Control) - 2027 Start (PhD)",
@@ -3332,7 +3516,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (TikTok Shop - SEA) - 2027 Start",
@@ -3350,7 +3535,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (TikTok-Data-Search-Visual Search) - 2027 Start (PhD)",
@@ -3368,7 +3554,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (Global E-Commerce) - 2027 Start (PhD)",
@@ -3386,7 +3573,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (Global E-Commerce, Search) - 2027 Start (PhD)",
@@ -3404,7 +3592,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (Global E-Commerce, Recommendation) - 2027 Start (PhD)",
@@ -3422,7 +3611,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Machine Learning Engineer Graduate (Global E-Commerce, User Growth) - 2027 Start (PhD)",
@@ -3440,7 +3630,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
   },
   {
    "title": "Assoc, Software Engineer (New Grad - Salt Lake City, UT) 1 1 1",
@@ -3458,7 +3649,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "SRE Monitoring Platform Software Engineer (Early Career / Temporary)",
@@ -3476,7 +3668,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "New Grad Electrical Engineer I - Winter/Summer 2027",
@@ -3494,7 +3687,8 @@
    "term": "Winter 2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "no_sponsorship"
+   "visa": "no_sponsorship",
+   "h1b_approvals_latest_fy": 10
   },
   {
    "title": "Electronics Engineer New Grad",
@@ -3512,7 +3706,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Point72 Academy Coffee Chats \u2014 Class of 2029 (US)",
@@ -3530,7 +3725,8 @@
    "term": "2029",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 16
   },
   {
    "title": "Software Engineer - New Grad",
@@ -3548,7 +3744,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Early Career Consult Program \u2013 Network Support Associate",
@@ -3566,7 +3763,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Graduate | Broomall, PA",
@@ -3584,7 +3782,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Early Career Electrical Engineer (Distribution)",
@@ -3602,7 +3801,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Early Career Electrical Engineer (ESSP)",
@@ -3620,7 +3820,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Early Career Electrical Engineer (ESSP)",
@@ -3638,7 +3839,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Early Career Electrical Engineer",
@@ -3656,7 +3858,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Early Career Electrical Engineer (ESSP)",
@@ -3674,7 +3877,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "IT Operations Specialist (New Grad, Austin, In-Person)",
@@ -3692,7 +3896,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Graduate | Long Island, NY",
@@ -3710,7 +3915,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Graduate | New York, NY",
@@ -3728,7 +3934,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Graduate | New York, NY",
@@ -3746,7 +3953,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Software Engineer I, Perception (New Grad)",
@@ -3764,7 +3972,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "citizenship"
+   "visa": "citizenship",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Software Engineer I, Full Stack (New Grad)",
@@ -3782,7 +3991,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "citizenship"
+   "visa": "citizenship",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Software Engineer I, Data Science (New Grad)",
@@ -3800,7 +4010,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "citizenship"
+   "visa": "citizenship",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Software Engineer I, Spacecraft Simulation (New Grad)",
@@ -3818,7 +4029,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "citizenship"
+   "visa": "citizenship",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Flight Software Engineer I (New Grad)",
@@ -3836,7 +4048,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "citizenship"
+   "visa": "citizenship",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Software Engineer I, QA (New Grad)",
@@ -3854,7 +4067,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "citizenship"
+   "visa": "citizenship",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "DevOps Engineer I (New Grad)",
@@ -3872,7 +4086,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "citizenship"
+   "visa": "citizenship",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "AI-Native Engineer, New Grad (Ingeniero/a de Software AI-Native \u2014 Inicio de Carrera) - Mexico City (Hybrid)",
@@ -3890,7 +4105,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Entry Level Electrical Engineer",
@@ -3908,7 +4124,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "no_sponsorship"
+   "visa": "no_sponsorship",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineer, Early Career",
@@ -3926,7 +4143,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Graduate | Philadelphia, PA",
@@ -3944,7 +4162,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Graduate | Chicago, IL",
@@ -3962,7 +4181,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Junior Controls Engineer",
@@ -3980,7 +4200,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineer New Grad | Cincinnati, OH",
@@ -3998,7 +4219,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Graduate | Billings, MT",
@@ -4016,7 +4238,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineer (New Grad Summer 2027)",
@@ -4034,7 +4257,8 @@
    "term": "Summer 2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Software Engineer (New Grad Summer 2027)",
@@ -4052,7 +4276,8 @@
    "term": "Summer 2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Graduate Developer Programme Chicago 2027",
@@ -4070,7 +4295,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "sponsors"
+   "visa": "sponsors",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Controls Engineering New Graduate | Omaha, NE",
@@ -4088,7 +4314,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Graduate | Farmington Hills, MI",
@@ -4106,7 +4333,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Grad | Rogers, AR",
@@ -4124,7 +4352,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Graduate | Kansas City, MO",
@@ -4142,7 +4371,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Graduate | Greenwood Village, CO",
@@ -4160,7 +4390,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Graduate | St. Louis, MO",
@@ -4178,7 +4409,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Graduate",
@@ -4196,7 +4428,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Graduate | St. Louis, MO",
@@ -4214,7 +4447,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Entry-level Electrical Engineer",
@@ -4232,7 +4466,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Graduate Program in Technology & Analytics - (Expression of Interest)",
@@ -4250,7 +4485,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Graduate | Rock Island, IL",
@@ -4268,7 +4504,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Graduate | Urbandale, IA",
@@ -4286,7 +4523,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Graduate | Rock Island, IL",
@@ -4304,7 +4542,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Graduate | Rock Island, IL",
@@ -4322,7 +4561,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Graduate | Rock Island, IL",
@@ -4340,7 +4580,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Graduate | Buffalo, NY",
@@ -4358,7 +4599,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Software Engineer - Early Career",
@@ -4376,7 +4618,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "no_sponsorship"
+   "visa": "no_sponsorship",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Graduate FPGA Engineer (2027 Start)",
@@ -4394,7 +4637,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Graduate Quantitative Researcher (2027 Start)",
@@ -4412,7 +4656,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Graduate | Jacksonville, FL",
@@ -4430,7 +4675,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Early Career Electrical Engineer - Buildings",
@@ -4448,7 +4694,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Grad | Columbia, SC",
@@ -4466,7 +4713,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical or Embedded Controls Engineer (Early Career, Exceptional Talent)",
@@ -4484,7 +4732,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Software Engineer (Early Career, Exceptional Talent)",
@@ -4502,7 +4751,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Shift Controls Engineer (New Grads Welcome)",
@@ -4520,7 +4770,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Forward Deployed Software Engineer, New Grad - US Government",
@@ -4538,7 +4789,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 24
   },
   {
    "title": "Forward Deployed Software Engineer, New Grad - Commercial",
@@ -4556,7 +4808,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 24
   },
   {
    "title": "Forward Deployed Software Engineer, New Grad - Commercial",
@@ -4574,7 +4827,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 24
   },
   {
    "title": "Forward Deployed Software Engineer, New Grad - Intel, US Government",
@@ -4592,7 +4846,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 24
   },
   {
    "title": "Forward Deployed Software Engineer, New Grad - Commercial",
@@ -4610,7 +4865,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 24
   },
   {
    "title": "Forward Deployed Software Engineer, New Grad - US Government",
@@ -4628,7 +4884,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 24
   },
   {
    "title": "Forward Deployed Software Engineer, New Grad - UK Government",
@@ -4646,7 +4903,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 24
   },
   {
    "title": "Forward Deployed Software Engineer, New Grad - Commercial",
@@ -4664,7 +4922,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 24
   },
   {
    "title": "Software Engineer, New Grad - Infrastructure",
@@ -4682,7 +4941,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 24
   },
   {
    "title": "Software Engineer, New Grad",
@@ -4700,7 +4960,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 24
   },
   {
    "title": "Software Engineer, New Grad - Infrastructure",
@@ -4718,7 +4979,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 24
   },
   {
    "title": "Software Engineer, New Grad",
@@ -4736,7 +4998,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 24
   },
   {
    "title": "Software Engineer, New Grad - Infrastructure",
@@ -4754,7 +5017,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 24
   },
   {
    "title": "Software Engineer, New Grad - Defense",
@@ -4772,7 +5036,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 24
   },
   {
    "title": "Software Engineer, New Grad - Defense",
@@ -4790,7 +5055,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 24
   },
   {
    "title": "Software Engineer, New Grad",
@@ -4808,7 +5074,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 24
   },
   {
    "title": "Software Engineer, New Grad - Production Infrastructure",
@@ -4826,7 +5093,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 24
   },
   {
    "title": "Software Engineer, New Grad - Defense",
@@ -4844,7 +5112,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 24
   },
   {
    "title": "Software Engineer, New Grad - Production Infrastructure",
@@ -4862,7 +5131,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 24
   },
   {
    "title": "Software Engineer, New Grad - Production Infrastructure",
@@ -4880,7 +5150,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 24
   },
   {
    "title": "2026 Entry Level Rotational Program: Chemical, Mechanical & Electrical Engineering \u2013 Qnity Electronics",
@@ -4898,7 +5169,8 @@
    "term": "2026",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Early Career Software Engineer - Applied AI",
@@ -4916,7 +5188,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineering New Grad | Urbandale, IA",
@@ -4934,7 +5207,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Early Career Electrical Engineer - Power Systems",
@@ -4952,7 +5226,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "[2027] Software Engineer, Early Career | Roblox",
@@ -4970,7 +5245,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 48
   },
   {
    "title": "Junior Actuarial Consultant \u2013 Analytics Solutions",
@@ -4988,7 +5264,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Early Career Consult Program - Associate AI Engineer",
@@ -5006,7 +5283,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Software Engineer, Autonomous Vehicles Software Systems - Early Career",
@@ -5024,7 +5302,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 267
   },
   {
    "title": "Early Career Electrical Engineer - Site Projects Engineering",
@@ -5042,7 +5321,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Early Career Electrical Systems and Controls Engineer - Hypersonics",
@@ -5060,7 +5340,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "citizenship"
+   "visa": "citizenship",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineer (Jr or recent graduate opportunity)",
@@ -5078,7 +5359,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Early Career - Advanced Process Control Applications Engineer (Kuala Lumpur, Federal Territory of Kuala Lumpur, MY, 50088)",
@@ -5096,7 +5378,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Entry-Level Electrical Engineer",
@@ -5114,7 +5397,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "New Grads 2027 - Software Engineer - Perception/Computer Vision",
@@ -5132,7 +5416,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "New Grads 2027 - Software Engineer, Algorithm",
@@ -5150,7 +5435,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "New Grad Software Engineer",
@@ -5168,7 +5454,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Software Engineer, New Grad 2026",
@@ -5186,7 +5473,8 @@
    "term": "2026",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Electrical Engineer (New Grad December 2026)",
@@ -5204,7 +5492,8 @@
    "term": "2026",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Software Engineer (New Grad December 2026)",
@@ -5222,7 +5511,8 @@
    "term": "2026",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Early Career Substation Electrical Engineer",
@@ -5240,7 +5530,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Frontend Engineer - New Grad",
@@ -5258,7 +5549,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Backend Engineer - New Grad",
@@ -5276,7 +5568,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "2026 Early Career System Hardware Design Engineer",
@@ -5294,7 +5587,8 @@
    "term": "2026",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "no_sponsorship"
+   "visa": "no_sponsorship",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Junior AI Developer",
@@ -5312,7 +5606,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "2026 Early Career Embedded Software Engineer",
@@ -5330,7 +5625,8 @@
    "term": "2026",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "no_sponsorship"
+   "visa": "no_sponsorship",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Machine Learning Engineer - New Grad 2026",
@@ -5348,7 +5644,8 @@
    "term": "2026",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Junior Salesforce Developer",
@@ -5366,7 +5663,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "JUNIOR SOFTWARE DEVELOPER (BI)",
@@ -5384,7 +5682,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Experian Graduate Program in Technology & Analytics",
@@ -5402,7 +5701,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Early Career - AI for Analog Design Engineer",
@@ -5420,7 +5720,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Junior Ubuntu Software Engineer",
@@ -5438,7 +5739,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Junior Algorithmic Trader",
@@ -5456,7 +5758,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Quantitative Researcher (Ph.D.) - 2027 Graduate Program - (August Start)",
@@ -5474,7 +5777,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Early Career Substation Electrical Engineer",
@@ -5492,7 +5796,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based)",
@@ -5510,7 +5815,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Early Career Substation Electrical Engineer",
@@ -5528,7 +5834,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Junior Quantitative Researcher (Ph.D.)",
@@ -5546,7 +5853,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Network Support (New Grads 2026)",
@@ -5564,7 +5872,8 @@
    "term": "2026",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 66
   },
   {
    "title": "Early Career Substation Electrical Engineer",
@@ -5582,7 +5891,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Junior Power Platform Developer",
@@ -5600,7 +5910,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "no_sponsorship"
+   "visa": "no_sponsorship",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Software Engineer (Entry-Level) - Python",
@@ -5618,7 +5929,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 20
   },
   {
    "title": "Junior Quantitative Developer & Strategist",
@@ -5636,7 +5948,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 20
   },
   {
    "title": "Quantitative Trader \u2013 2027 Graduate Program (August Start)",
@@ -5654,7 +5967,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Software Engineer \u2013 2027 Graduate Program (August Start)",
@@ -5672,7 +5986,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Quantitative Trader \u2013 2027 Graduate Program (February Start)",
@@ -5690,7 +6005,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Quantitative Trader \u2013 2027 Graduate Program (August Start)",
@@ -5708,7 +6024,8 @@
    "term": "2027",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Software Developer- New Graduate",
@@ -5726,7 +6043,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Hardware Developer- New Graduate",
@@ -5744,7 +6062,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Junior .NET Developer",
@@ -5762,7 +6081,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Early Career Building Electrical Engineer",
@@ -5780,7 +6100,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Entry Level Electrical Engineer",
@@ -5798,7 +6119,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "no_sponsorship"
+   "visa": "no_sponsorship",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Early Career Software Engineer \u2013 Applied AI",
@@ -5816,7 +6138,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Software Engineer, Early Career",
@@ -5834,7 +6157,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Junior Quantitative Trader",
@@ -5852,7 +6176,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Early Career Substation Electrical Engineer",
@@ -5870,7 +6195,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Early Career Electrical Engineer",
@@ -5888,7 +6214,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Quantitative Researcher, Early Career",
@@ -5906,7 +6233,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Software Engineer (Early Career)",
@@ -5924,7 +6252,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": ""
+   "visa": "",
+   "h1b_approvals_latest_fy": null
   },
   {
    "title": "Junior Software Engineer",
@@ -5942,7 +6271,8 @@
    "term": "",
    "evidence": null,
    "classifier": "regex-only",
-   "visa": "citizenship"
+   "visa": "citizenship",
+   "h1b_approvals_latest_fy": null
   }
  ]
 }

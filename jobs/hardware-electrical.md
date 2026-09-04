@@ -1,6 +1,6 @@
 # 🔌 Hardware & Electrical (ECE)
 
-**56 roles** · updated `2026-09-04 05:47 UTC` · [← all categories](../README.md)
+**56 roles** · updated `2026-09-04 06:22 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the other locations (20 extra postings folded in); every one is in [`listings.json`](../data/listings.json).
 
@@ -8,7 +8,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 
 | Company | Role | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|
-| Egis | Rail Control Systems Engineer Graduate 2027 | 2027 | Brisbane, CA | — | today | [apply](https://jobs.egis-group.com/job/rail-control-systems-engineer-graduate-2027-in-brisbane-jid-8887) |
+| Egis | Rail Control Systems Engineer Graduate 2027 | 2027 | Brisbane, CA | — | 1d | [apply](https://jobs.egis-group.com/job/rail-control-systems-engineer-graduate-2027-in-brisbane-jid-8887) |
 | Arcadis | Entry-Level Electrical Engineer (Power) | — | Columbus, OH | $54,648–$81,972 | 1d | [apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43843) |
 | Anduril Industries | 2027 Early Career Electrical Engineer | 2027 | Atlanta, WA | $86,000–$114,000 | 1d | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5136925007?gh_jid=5136925007) |
 | Anduril Industries | 2026 Early Career Electrical Engineer | 2026 | Costa Mesa, CO | $90,000–$110,000 | 1d | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007) |

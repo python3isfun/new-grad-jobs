@@ -1,6 +1,6 @@
 # 🎓 New Grad Tech Jobs — auto-updated daily
 
-**273 live new-grad roles** (330 postings) · last updated `2026-09-04 05:47 UTC`
+**273 live new-grad roles** (330 postings) · last updated `2026-09-04 06:22 UTC`
 
 Entry-level and new-graduate roles for students finishing their degree. Every listing links straight to the employer's own application page — no aggregator reposts, no dead links: postings that have closed are removed on the next update.
 
@@ -37,12 +37,12 @@ Machine-readable: [`data/listings.json`](data/listings.json) — all 330 rows, w
 
 At most 2 per employer, so one big hirer cannot fill the page. Full lists are in the category pages.
 
-**Legend:** 🛂 does **not** sponsor visas · 🇺🇸 requires US citizenship · 🌏 sponsorship available. Shown only where the posting says so explicitly; no marker means the posting did not state it, not that it sponsors.
+**Legend:** 🛂 does **not** sponsor visas · 🇺🇸 requires US citizenship · 🌏 sponsorship available · 🌐 employer approved 10+ H-1Bs in FY2023 ([USCIS data](https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub)) — past record, not a promise for this role. Shown only where the posting says so explicitly; no marker means the posting did not state it, not that it sponsors.
 
 | Company | Role | Category | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|---|
 | Ciena Corporation | Platform Software Developer - 2026 New Grads | 💻 Software Engineering | 2026 | GA | $69,900–$111,700 | today | [apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Platform-Software-Developer---2026-New-Grads_R031084-1) |
-| Egis | Rail Control Systems Engineer Graduate 2027 | 🔌 Hardware & Electrical (ECE) | 2027 | Brisbane, CA | — | today | [apply](https://jobs.egis-group.com/job/rail-control-systems-engineer-graduate-2027-in-brisbane-jid-8887) |
+| Egis | Rail Control Systems Engineer Graduate 2027 | 🔌 Hardware & Electrical (ECE) | 2027 | Brisbane, CA | — | 1d | [apply](https://jobs.egis-group.com/job/rail-control-systems-engineer-graduate-2027-in-brisbane-jid-8887) |
 | Safelite | Predictive Analytics Global Early Career Professional 🛂 | 📊 Data & Analytics | — | Columbus, OH | — | 1d | [apply](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Predictive-Analytics-Global-Early-Career-Professional_JR74275) |
 | Safelite | Customer Analytics & Insights Global Early Career Professional 🛂 | 📊 Data & Analytics | — | Columbus, OH | — | 1d | [apply](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Customer-Analytics---Insights-Global-Early-Career-Professional_JR74210) |
 | Arcadis | Entry-Level Electrical Engineer (Power) | 🔌 Hardware & Electrical (ECE) | — | Columbus, OH | $54,648–$81,972 | 1d | [apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43843) |
@@ -58,14 +58,14 @@ At most 2 per employer, so one big hirer cannot fill the page. Full lists are in
 | IMEG | Electrical Engineering New Graduate \| Idaho Falls, ID | 🔌 Hardware & Electrical (ECE) | — | Idaho Falls, ID | — | 2d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Idaho-Falls-ID/Electrical-Engineering-New-Graduate---Idaho-Falls--ID_R-16420) |
 | Ciena | WaveLogic Software Developer - New Grad | 💻 Software Engineering | — | GA | $68,900–$110,100 | 2d | [apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R031608) |
 | General Motors | Entry Level Software Engineer 🌏 | 💻 Software Engineering | — | MI +1 | — | 2d | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202618756) |
-| NVIDIA | Developer Technology Engineer, AI - New College Graduate 2026 | 💻 Software Engineering | 2026 | CA | — | 3d | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2026_JR2024557) |
+| NVIDIA | Developer Technology Engineer, AI - New College Graduate 2026 🌐 | 💻 Software Engineering | 2026 | CA | — | 3d | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2026_JR2024557) |
 | WSP | Early Career Electrical SCADA/Studies Engineer | 🔌 Hardware & Electrical (ECE) | — | Clarkston, WA | $60,600–$83,300 | 3d | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92494) |
 | NewRocket | AI Engineer/Anthropic-Campus Hire - US West | 💻 Software Engineering | — | Remote | — | 3d | [apply](https://www.newrocket.com/careers/job?gh_jid=6163518004&gh_jid=6163518004) |
 | IMEG | Electrical Engineering New Graduate \| Seattle, WA | 🔌 Hardware & Electrical (ECE) | — | WA | $76,000–$80,000 | 3d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Seattle-WA/Electrical-Engineering-New-Graduate---Seattle--WA_R-16573) |
-| LexisNexis Risk Solutions | Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January) | 💻 Software Engineering | — | Alpharetta, GA | $59,200–$98,600 | 3d | [apply](https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1) |
-| LexisNexis Risk Solutions | Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June) | 💻 Software Engineering | — | Boca Raton, FL | $59,200–$98,600 | 3d | [apply](https://relx.wd3.myworkdayjobs.com/relx/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023) |
+| LexisNexis Risk Solutions | Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January) 🌐 | 💻 Software Engineering | — | Alpharetta, GA | $59,200–$98,600 | 3d | [apply](https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1) |
+| LexisNexis Risk Solutions | Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June) 🌐 | 💻 Software Engineering | — | Boca Raton, FL | $59,200–$98,600 | 3d | [apply](https://relx.wd3.myworkdayjobs.com/relx/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023) |
 | Dewberry | Entry Level Electrical Engineer 🛂 | 🔌 Hardware & Electrical (ECE) | — | Peoria, IL +4 | $82,500–$85,000 | 3d | [apply](https://careers-dewberry.icims.com/jobs/16219/entry-level-electrical-engineer/job) |
-| AKUNA CAPITAL | Software Engineer (Entry-Level) - C++ | 📈 Quant & Trading | — | Chicago, IL | — | 3d | [apply](https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085) |
+| AKUNA CAPITAL | Software Engineer (Entry-Level) - C++ 🌐 | 📈 Quant & Trading | — | Chicago, IL | — | 3d | [apply](https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085) |
 
 _Full lists are in the category pages above._
 
@@ -100,9 +100,9 @@ _Full lists are in the category pages above._
 | Solar Champs | Machine Learning Engineer - New Grad 2026 | 💻 Software Engineering | 2026 | Ny; San Francisco, CA | $150,000–$175,000 | 27d | [apply](https://about.nextdoor.com/careers-list/?gh_jid=7264954) |
 | Maven Securities | Graduate Developer Programme Chicago 2027 🌏 | 📈 Quant & Trading | 2027 | IL | $140,000–$170,000 | 14d | [apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048802) |
 | Bitdeer (NASDAQ: BTDR) | SRE Monitoring Platform Software Engineer (Early Career / Temporary) | 💻 Software Engineering | — | San Jose, CA | $105,000–$155,000 | 7d | [apply](https://bitdeer.breezy.hr/p/ed6314823d0c-sre-monitoring-platform-software-engineer-early-career-temporary) |
-| Palantir Technologies | Software Engineer, New Grad | 💻 Software Engineering | — | Denver, CO +1 | $145,000–$155,000 | 19d | [apply](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29) |
-| Palantir Technologies | Software Engineer, New Grad - Infrastructure | 💻 Software Engineering | — | Palo Alto, CA +1 | $145,000–$155,000 | 19d | [apply](https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d) |
-| General Motors | Software Engineer, Autonomous Vehicles Software Systems - Early Career | 💻 Software Engineering | — | CA | $99,400–$153,900 | 19d | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759) |
+| Palantir Technologies | Software Engineer, New Grad 🌐 | 💻 Software Engineering | — | Denver, CO +1 | $145,000–$155,000 | 19d | [apply](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29) |
+| Palantir Technologies | Software Engineer, New Grad - Infrastructure 🌐 | 💻 Software Engineering | — | Palo Alto, CA +1 | $145,000–$155,000 | 19d | [apply](https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d) |
+| General Motors | Software Engineer, Autonomous Vehicles Software Systems - Early Career 🌐 | 💻 Software Engineering | — | CA | $99,400–$153,900 | 19d | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759) |
 
 ## 📍 Top locations
 
