@@ -1,6 +1,6 @@
 # 🎓 New Grad Tech Jobs — auto-updated daily
 
-**273 live new-grad roles** (330 postings) · last updated `2026-09-04 06:22 UTC`
+**273 live new-grad roles** (330 postings) · last updated `2026-09-04 06:23 UTC`
 
 Entry-level and new-graduate roles for students finishing their degree. Every listing links straight to the employer's own application page — no aggregator reposts, no dead links: postings that have closed are removed on the next update.
 
@@ -37,7 +37,7 @@ Machine-readable: [`data/listings.json`](data/listings.json) — all 330 rows, w
 
 At most 2 per employer, so one big hirer cannot fill the page. Full lists are in the category pages.
 
-**Legend:** 🛂 does **not** sponsor visas · 🇺🇸 requires US citizenship · 🌏 sponsorship available · 🌐 employer approved 10+ H-1Bs in FY2023 ([USCIS data](https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub)) — past record, not a promise for this role. Shown only where the posting says so explicitly; no marker means the posting did not state it, not that it sponsors.
+**Legend:** 🛂 does **not** sponsor visas · 🇺🇸 requires US citizenship · 🌏 sponsorship available · 🌐 employer approved 10+ H-1Bs in FY2023 ([USCIS data](https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub)) — past record, not a promise for this role. 🛂/🇺🇸/🌏 come from the posting's own text; 🌐 from public USCIS records. No marker means neither source says anything — not that the employer won't sponsor.
 
 | Company | Role | Category | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|---|

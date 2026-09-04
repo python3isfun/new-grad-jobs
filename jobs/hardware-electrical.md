@@ -1,10 +1,10 @@
 # 🔌 Hardware & Electrical (ECE)
 
-**56 roles** · updated `2026-09-04 06:22 UTC` · [← all categories](../README.md)
+**56 roles** · updated `2026-09-04 06:23 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the other locations (20 extra postings folded in); every one is in [`listings.json`](../data/listings.json).
 
-**Legend:** 🛂 does **not** sponsor visas · 🇺🇸 requires US citizenship. Shown only where the posting says so explicitly; no marker means the posting did not state it, not that it sponsors.
+**Legend:** 🛂 does **not** sponsor visas · 🇺🇸 requires US citizenship. 🛂/🇺🇸/🌏 come from the posting's own text; 🌐 from public USCIS records. No marker means neither source says anything — not that the employer won't sponsor.
 
 | Company | Role | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|

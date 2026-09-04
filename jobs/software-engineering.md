@@ -1,10 +1,10 @@
 # 💻 Software Engineering
 
-**185 roles** · updated `2026-09-04 06:22 UTC` · [← all categories](../README.md)
+**185 roles** · updated `2026-09-04 06:23 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the other locations (35 extra postings folded in); every one is in [`listings.json`](../data/listings.json).
 
-**Legend:** 🛂 does **not** sponsor visas · 🇺🇸 requires US citizenship · 🌏 sponsorship available · 🌐 employer approved 10+ H-1Bs in FY2023 ([USCIS data](https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub)) — past record, not a promise for this role. Shown only where the posting says so explicitly; no marker means the posting did not state it, not that it sponsors.
+**Legend:** 🛂 does **not** sponsor visas · 🇺🇸 requires US citizenship · 🌏 sponsorship available · 🌐 employer approved 10+ H-1Bs in FY2023 ([USCIS data](https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub)) — past record, not a promise for this role. 🛂/🇺🇸/🌏 come from the posting's own text; 🌐 from public USCIS records. No marker means neither source says anything — not that the employer won't sponsor.
 
 | Company | Role | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|
