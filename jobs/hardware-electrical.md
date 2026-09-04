@@ -1,6 +1,6 @@
 # 🔌 Hardware & Electrical (ECE)
 
-**56 roles** · updated `2026-09-04 06:23 UTC` · [← all categories](../README.md)
+**55 roles** · updated `2026-09-04 16:43 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the other locations (20 extra postings folded in); every one is in [`listings.json`](../data/listings.json).
 
@@ -13,9 +13,9 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Anduril Industries | 2027 Early Career Electrical Engineer | 2027 | Atlanta, WA | $86,000–$114,000 | 1d | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5136925007?gh_jid=5136925007) |
 | Anduril Industries | 2026 Early Career Electrical Engineer | 2026 | Costa Mesa, CO | $90,000–$110,000 | 1d | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007) |
 | WSP | Early Career Substation Electrical Engineer | — | San Diego, CA +5 | $76,800–$93,800 | 2d | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94480) |
-| SpaceX | New Graduate Engineer, Silicon Engineering | — | Redmond, WA +2 | $125,000–$165,000 | 2d | [apply](https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002) |
-| SpaceX | New Graduate Engineer, Electrical - '26/'27 (Starlink) | — | Redmond, WA +1 | $105,000–$145,000 | 2d | [apply](https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002) |
 | SpaceX | New Graduate Engineer, Electrical (Starshield) | — | Hawthorne, CA | $105,000–$122,500 | 2d | [apply](https://boards.greenhouse.io/spacex/jobs/8483305002?gh_jid=8483305002) |
+| SpaceX | New Graduate Engineer, Electrical - '26/'27 (Starlink) | — | Bastrop, TX +1 | — | 2d | [apply](https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002) |
+| SpaceX | New Graduate Engineer, Silicon Engineering | — | Palo Alto, CA +2 | $135,000–$175,000 | 2d | [apply](https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002) |
 | SpaceX | New Graduate Engineer, Electrical (Starship) | — | Starbase, TX | — | 2d | [apply](https://boards.greenhouse.io/spacex/jobs/8729124002?gh_jid=8729124002) |
 | IMEG | Electrical Engineering New Graduate \| Idaho Falls, ID | — | Idaho Falls, ID | — | 2d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Idaho-Falls-ID/Electrical-Engineering-New-Graduate---Idaho-Falls--ID_R-16420) |
 | WSP | Early Career Electrical SCADA/Studies Engineer | — | Clarkston, WA | $60,600–$83,300 | 3d | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92494) |
@@ -24,22 +24,21 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | HNTB | New Grad Electrical Engineer I - Winter/Summer 2027 🛂 | Winter 2027 | MO | — | 8d | [apply](https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Kansas-City-MO/New-Grad-Electrical-Engineer-I---Winter-Summer-2027_R-31351-1) |
 | BubblyNet | Electronics Engineer New Grad | — | — | — | 8d | [apply](https://bubblynet.applytojob.com/apply/pUNG58sGD8/Electronics-Engineer-New-Grad) |
 | IMEG | Electrical Engineering New Graduate \| Broomall, PA | — | Broomall, PA | — | 9d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Broomall-PA/Electrical-Engineering-New-Graduate---Broomall--PA_R-16644) |
-| WSP | Early Career Electrical Engineer (Distribution) | — | Spring, TX | — | 9d | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93943) |
 | WSP | Early Career Electrical Engineer (ESSP) | — | Salt Lake City, UT +2 | — | 9d | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94035) |
 | WSP | Early Career Electrical Engineer | — | Fort Mill, SC +1 | — | 9d | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94117) |
+| IMEG | Electrical Engineering New Graduate \| New York, NY | — | NY +1 | $76,000–$80,000 | 9d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/New-York-NY/Electrical-Engineering-New-Graduate---New-York--NY_R-16643) |
 | IMEG | Electrical Engineering New Graduate \| Long Island, NY | — | — | $76,000–$80,000 | 9d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Long-Island/Electrical-Engineering-New-Graduate---Long-Island--NY_R-16637) |
-| IMEG | Electrical Engineering New Graduate \| New York, NY | — | NY +1 | $76,000–$80,000 | 9d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/New-York-NY/Electrical-Engineering-New-Graduate---New-York--NY_R-16638) |
-| Burgess & Niple | Electrical Engineer, Early Career | — | Fredrick, MD | — | 10d | [apply](https://job-boards.greenhouse.io/burgessniple/jobs/4355674009) |
+| Burgess & Niple | Electrical Engineer, Early Career | — | Fredrick, MD | — | 11d | [apply](https://job-boards.greenhouse.io/burgessniple/jobs/4355674009) |
 | IMEG | Electrical Engineering New Graduate \| Philadelphia, PA | — | Philadelphia, PA | — | 13d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Philadelphia-PA/Electrical-Engineering-New-Graduate---Philadelphia--PA_R-16630) |
 | IMEG | Electrical Engineering New Graduate \| Chicago, IL | — | Chicago, IL | $76,000–$78,000 | 13d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Chicago-IL/Electrical-Engineering-New-Graduate---Chicago--IL_R-16477) |
 | Gotion Inc. | Junior Controls Engineer | — | Manteno, IL | — | 13d | [apply](https://job-boards.greenhouse.io/gotion/jobs/8612261002) |
-| IMEG | Electrical Engineer New Grad \| Cincinnati, OH | — | Cincinnati, OH | $78,000–$80,000 | 13d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Cincinnati-OH/Electrical-Engineer-New-Grad---Cincinnati--OH_R-16515) |
+| IMEG | Electrical Engineer New Grad \| Cincinnati, OH | — | Cincinnati, OH | $78,000–$80,000 | 14d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Cincinnati-OH/Electrical-Engineer-New-Grad---Cincinnati--OH_R-16515) |
 | IMEG | Electrical Engineering New Graduate \| Billings, MT | — | Billings, MT | — | 14d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Billings-MT/Electrical-Engineering-New-Graduate---Billings--MT_R-16568) |
-| Freeform | Electrical Engineer (New Grad Summer 2027) | Summer 2027 | CA | — | 14d | [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895658003) |
+| Freeform | Electrical Engineer (New Grad Summer 2027) | Summer 2027 | CA | — | 15d | [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895658003) |
 | IMEG | Controls Engineering New Graduate \| Omaha, NE | — | Omaha, NE | — | 15d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Omaha-NE/Controls-Engineering-New-Graduate---Omaha--NE_R-16581) |
 | IMEG | Electrical Engineering New Graduate \| Farmington Hills, MI | — | Detroit Metro, MI | $76,000–$79,000 | 15d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Detroit-Metro-MI/Electrical-Engineering-New-Graduate---Farmington-Hills--MI_R-16473) |
-| IMEG | Electrical Engineering New Grad \| Rogers, AR | — | Rogers, AR | — | 15d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Rogers-AR/Electrical-Engineering-New-Grad---Rogers--AR_R-16500) |
 | IMEG | Electrical Engineering New Graduate \| Kansas City, MO | — | Kansas City, MO | — | 15d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Kansas-City-MO/Electrical-Engineering-New-Graduate---Kansas-City--MO_R-16407) |
+| IMEG | Electrical Engineering New Grad \| Rogers, AR | — | Rogers, AR | — | 15d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Rogers-AR/Electrical-Engineering-New-Grad---Rogers--AR_R-16500) |
 | IMEG | Electrical Engineering New Graduate \| Greenwood Village, CO | — | Denver Metro, CO | $76,000–$80,000 | 15d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Denver-Metro-CO/Electrical-Engineering-New-Graduate---Greenwood-Village--CO_R-16555) |
 | IMEG | Electrical Engineering New Graduate \| St. Louis, MO | — | MO +1 | — | 15d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/St-Louis-MO/Electrical-Engineering-New-Graduate_R-16516) |
 | IMEG | Electrical Engineering New Graduate | — | MO | — | 15d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/St-Louis-MO/Electrical-Engineering-New-Graduate_R-16404) |
@@ -51,7 +50,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | WSP | Early Career Electrical Engineer - Buildings | — | Dallas, TX | — | 17d | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93517) |
 | IMEG | Electrical Engineering New Grad \| Columbia, SC | — | Columbia, SC | — | 17d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Columbia-SC/Electrical-Engineering-New-Grad---Columbia--SC_R-16343) |
 | Boom Supersonic | Electrical or Embedded Controls Engineer (Early Career, Exceptional Talent) | — | Centennial, CO | — | 18d | [apply](https://ats.rippling.com/boom-supersonic/jobs/dd8a32fb-b2d4-4052-a8e4-6aaab31af70c) |
-| First Quality | Shift Controls Engineer (New Grads Welcome) | — | Macon, GA | — | 18d | [apply](https://firstquality.wd5.myworkdayjobs.com/FIRSTQUALITY/job/US-GA-Macon/Shift-Controls-Engineer--Entry-Level-_R11447) |
+| First Quality | Shift Controls Engineer (New Grads Welcome) | — | Macon, GA | — | 19d | [apply](https://firstquality.wd5.myworkdayjobs.com/FIRSTQUALITY/job/US-GA-Macon/Shift-Controls-Engineer--Entry-Level-_R11447) |
 | Qnity | 2026 Entry Level Rotational Program: Chemical, Mechanical & Electrical Engineering – Qnity Electronics | 2026 | DE | — | 19d | [apply](https://qnity.wd503.myworkdayjobs.com/en-US/Jobs/job/Wimington-Delaware/XMLNAME-2026-Entry-Level-Rotational-Program--Chemical--Mechanical---Electrical-Engineering---Qnity-Electronics_248862W) |
 | IMEG | Electrical Engineering New Grad \| Urbandale, IA | — | IA | $78,000–$80,000 | 19d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Urbandale-IA/Electrical-Engineering-New-Grad---Rock-Island--IL_R-15386) |
 | Aspen Technology | Early Career Electrical Engineer - Power Systems | — | Medina, MN | $64,200–$80,200 | 19d | [apply](https://aspentech.wd5.myworkdayjobs.com/AspenTech/job/Medina-Minnesota/Early-Career-Electrical-Engineer---Power-Systems_R8196) |
@@ -60,8 +59,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | EMCOR Facilities Services | Electrical Engineer (Jr or recent graduate opportunity) | — | Raleigh, NC | — | 19d | [apply](https://careers-emcorgroup.icims.com/jobs/51563/electrical-engineer-%28jr-or-recent-graduate-opportunity%29/job) |
 | ExxonMobil | Early Career - Advanced Process Control Applications Engineer (Kuala Lumpur, Federal Territory of Kuala Lumpur, MY, 50088) | — | — | — | 19d | [apply](https://jobs.exxonmobil.com/job/Kuala-Lumpur-Early-Career-Advanced-Process-Control-Applications-Engineer-Fede-50088/1393239600/) |
 | Peraton | Entry-Level Electrical Engineer | — | Aberdeen Proving Ground, MD | $66,000–$106,000 | 19d | [apply](https://careers-peraton.icims.com/jobs/169322/entry-level-electrical-engineer/job) |
-| Freeform | Electrical Engineer (New Grad December 2026) | 2026 | CA | $110,000–$125,000 | 20d | [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826644003) |
-| TP-Link | 2026 Early Career System Hardware Design Engineer 🛂 | 2026 | — | $100,000–$120,000 | 23d | [apply](https://apply.workable.com/j/428D85D8DC) |
+| Freeform | Electrical Engineer (New Grad December 2026) | 2026 | CA | $110,000–$125,000 | 21d | [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826644003) |
+| TP-Link | 2026 Early Career System Hardware Design Engineer 🛂 | 2026 | — | $100,000–$120,000 | 24d | [apply](https://apply.workable.com/j/428D85D8DC) |
 | Texas Instruments | Early Career - AI for Analog Design Engineer | — | Dallas, TX | — | 29d | [apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011659) |
 | WSP | Early Career Building Electrical Engineer | — | Philadelphia, PA | — | 65d | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90288) |
 
