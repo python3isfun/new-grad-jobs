@@ -1,9 +1,28 @@
 {
- "generated_at": "2026-09-07T16:20:37.321331+00:00",
+ "generated_at": "2026-09-08T16:21:19.008846+00:00",
  "count": 341,
  "segment": "new_grad",
  "source": "employer career-site crawl + rule-based segment classifier",
  "listings": [
+  {
+   "title": "Data Engineer Graduate (Data Platfrom TikTok BP) - 2027 Start",
+   "company": "TikTok",
+   "employer_id": "tiktok",
+   "city": "San Jose",
+   "state": "CA",
+   "remote": false,
+   "profession": "software",
+   "salary_min": null,
+   "salary_max": null,
+   "apply_url": "https://lifeattiktok.com/search/7681779180341709109",
+   "first_seen": "2026-09-07T18:31:48.630000+00:00",
+   "posted": null,
+   "term": "2027",
+   "evidence": null,
+   "classifier": "regex-only",
+   "visa": "h1b_history",
+   "h1b_approvals_latest_fy": 148
+  },
   {
    "title": "Electrical Engineering New Graduate | Buffalo, NY",
    "company": "IMEG",
@@ -4375,25 +4394,6 @@
    "h1b_approvals_latest_fy": null
   },
   {
-   "title": "Software Engineer Recent Graduate San Jose California United States Of America",
-   "company": "PayPal",
-   "employer_id": "paypal",
-   "city": null,
-   "state": null,
-   "remote": false,
-   "profession": "software",
-   "salary_min": null,
-   "salary_max": null,
-   "apply_url": "https://paypal.eightfold.ai/careers/job/274921995088-software-engineer-recent-graduate-san-jose-california-united-states-of-america",
-   "first_seen": "2026-08-24T00:00:00+00:00",
-   "posted": "2026-08-24T00:00:00+00:00",
-   "term": "",
-   "evidence": null,
-   "classifier": "regex-only",
-   "visa": "h1b_history",
-   "h1b_approvals_latest_fy": 332
-  },
-  {
    "title": "Electrical Engineering New Graduate | Philadelphia, PA",
    "company": "IMEG",
    "employer_id": "imeg",
@@ -4946,7 +4946,7 @@
   },
   {
    "title": "Shift Controls Engineer (New Grads Welcome)",
-   "company": "First Quality Baby Products, LLC",
+   "company": "First Quality",
    "employer_id": "first-quality",
    "city": "Macon",
    "state": "GA",
