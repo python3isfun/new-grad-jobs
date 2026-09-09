@@ -1,6 +1,6 @@
 # 📊 Data & Analytics
 
-**10 roles** · updated `2026-09-08 16:21 UTC` · [← all categories](../README.md)
+**11 roles** · updated `2026-09-09 16:27 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the other locations (1 extra postings folded in); every one is in [`listings.json`](../data/listings.json).
 
@@ -8,15 +8,16 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 
 | Company | Role | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|
-| Safelite | Customer Analytics & Insights Global Early Career Professional 🛂 | — | Columbus, OH | — | 5d | [apply](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Customer-Analytics---Insights-Global-Early-Career-Professional_JR74210) |
-| Safelite | Predictive Analytics Global Early Career Professional 🛂 | — | Columbus, OH | — | 5d | [apply](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Predictive-Analytics-Global-Early-Career-Professional_JR74275) |
-| Experian | Graduate Program in Technology & Analytics - (Expression of Interest) | — | Cyberjaya | — | 6d | [apply](https://jobs.experian.com/job/graduate-program-in-technology-and-analytics-expression-of-interest-in-cyberjaya-malaysia-jid-5238) |
-| TikTok | Data Scientist Graduate (Multimedia) - 2027 Start 🌐 | 2027 | San Jose, CA +1 | — | 10d | [apply](https://lifeattiktok.com/search/7670288355678177589) |
-| TikTok | Data Scientist Graduate (E-Commerce Governance) - 2027 Start 🌐 | 2027 | Seattle, WA | — | 10d | [apply](https://lifeattiktok.com/search/7674027218993154357) |
-| TikTok | Strategy & Analytics Associate Graduate (TikTok Shop) - 2027 Start (MBA) 🌐 | 2027 | Los Angeles, CA | — | 10d | [apply](https://lifeattiktok.com/search/7673802858366535989) |
-| TikTok | Strategy & Analytics Associate Graduate (TikTok Shop-Resource Management) - 2027 Start (MBA) 🌐 | 2027 | Seattle, WA | — | 10d | [apply](https://lifeattiktok.com/search/7673798891330586933) |
-| TikTok | Data Scientist Graduate (TikTok Platform Safety) - 2027 Start (PhD) 🌐 | 2027 | NY | — | 10d | [apply](https://lifeattiktok.com/search/7670832868019030277) |
-| Experian | Experian Graduate Program in Technology & Analytics | — | Sofia | — | 33d | [apply](https://jobs.experian.com/job/experian-graduate-program-in-technology-and-analytics-in-sofia-bulgaria-jid-5552) |
-| Agoda | Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based) | — | — | — | 46d | [apply](https://job-boards.greenhouse.io/agoda/jobs/6904499) |
+| Scotiabank | GBM - Client Insights & Analytics - New Grad | — | — | — | today | [apply](https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&amp;-Analytics-New-Grad-ON/605897517/) |
+| Safelite | Predictive Analytics Global Early Career Professional 🛂 | — | Columbus, OH | — | 6d | [apply](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Predictive-Analytics-Global-Early-Career-Professional_JR74275) |
+| Safelite | Customer Analytics & Insights Global Early Career Professional 🛂 | — | Columbus, OH | — | 6d | [apply](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Customer-Analytics---Insights-Global-Early-Career-Professional_JR74210) |
+| Experian | Graduate Program in Technology & Analytics - (Expression of Interest) | — | Cyberjaya | — | 7d | [apply](https://jobs.experian.com/job/graduate-program-in-technology-and-analytics-expression-of-interest-in-cyberjaya-malaysia-jid-5238) |
+| TikTok | Data Scientist Graduate (Multimedia) - 2027 Start 🌐 | 2027 | San Jose, CA +1 | — | 11d | [apply](https://lifeattiktok.com/search/7670288355678177589) |
+| TikTok | Data Scientist Graduate (E-Commerce Governance) - 2027 Start 🌐 | 2027 | Seattle, WA | — | 11d | [apply](https://lifeattiktok.com/search/7674027218993154357) |
+| TikTok | Strategy & Analytics Associate Graduate (TikTok Shop) - 2027 Start (MBA) 🌐 | 2027 | Los Angeles, CA | — | 11d | [apply](https://lifeattiktok.com/search/7673802858366535989) |
+| TikTok | Strategy & Analytics Associate Graduate (TikTok Shop-Resource Management) - 2027 Start (MBA) 🌐 | 2027 | Seattle, WA | — | 11d | [apply](https://lifeattiktok.com/search/7673798891330586933) |
+| TikTok | Data Scientist Graduate (TikTok Platform Safety) - 2027 Start (PhD) 🌐 | 2027 | NY | — | 11d | [apply](https://lifeattiktok.com/search/7670832868019030277) |
+| Experian | Experian Graduate Program in Technology & Analytics | — | Sofia | — | 34d | [apply](https://jobs.experian.com/job/experian-graduate-program-in-technology-and-analytics-in-sofia-bulgaria-jid-5552) |
+| Agoda | Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based) | — | — | — | 47d | [apply](https://job-boards.greenhouse.io/agoda/jobs/6904499) |
 
 [← back to the front page](../README.md)
