@@ -1,6 +1,6 @@
 # 🖥️ IT & Infrastructure
 
-**5 roles** · updated `2026-09-09 16:27 UTC` · [← all categories](../README.md)
+**5 roles** · updated `2026-09-10 16:31 UTC` · [← all categories](../README.md)
 
 Newest first.
 
@@ -8,10 +8,10 @@ Newest first.
 
 | Company | Role | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|
-| Department of Information Technology | IT Security & Compliance Specialist I - EHRA - Early Career | — | NC | $75,818–$90,000 | 6d | [apply](https://nc.wd108.myworkdayjobs.com/en-US/NC_Careers/job/Wake-County-NC/IT-Security---Compliance-Specialist-I---EHRA---Early-Career_JR-123125) |
-| Nutrien | Students and New Grad Opportunities - IT USA | — | — | — | 7d | [apply](https://jobs.nutrien.com/North-America/job/Urbandale-Students-and-New-Grad-Opportunities-IT-USA-IA-50322/605741017/) |
-| Kyndryl | Early Career Consult Program – Network Support Associate | — | TX | $55,200–$99,240 | 14d | [apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Network-Support-Associate_R-67487) |
-| Texas Sports Academy | IT Operations Specialist (New Grad, Austin, In-Person) | — | — | $25.00/hr–$25.00/hr | 14d | [apply](https://apply.workable.com/j/01F86864A1) |
-| Fortinet | Network Support (New Grads 2026) 🌐 | 2026 | Atlanta, GA | — | 50d | [apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22204) |
+| Department of Information Technology | IT Security & Compliance Specialist I - EHRA - Early Career | — | NC | $75,818–$90,000 | 7d | [apply](https://nc.wd108.myworkdayjobs.com/en-US/NC_Careers/job/Wake-County-NC/IT-Security---Compliance-Specialist-I---EHRA---Early-Career_JR-123125) |
+| Nutrien | Students and New Grad Opportunities - IT USA | — | — | — | 8d | [apply](https://jobs.nutrien.com/North-America/job/Urbandale-Students-and-New-Grad-Opportunities-IT-USA-IA-50322/605741017/) |
+| Kyndryl | Early Career Consult Program – Network Support Associate | — | TX | $55,200–$99,240 | 15d | [apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Network-Support-Associate_R-67487) |
+| Texas Sports Academy | IT Operations Specialist (New Grad, Austin, In-Person) | — | — | $25.00/hr–$25.00/hr | 15d | [apply](https://apply.workable.com/j/01F86864A1) |
+| Fortinet | Network Support (New Grads 2026) 🌐 | 2026 | Atlanta, GA | — | 51d | [apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22204) |
 
 [← back to the front page](../README.md)
