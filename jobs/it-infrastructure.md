@@ -1,6 +1,6 @@
 # 🖥️ IT & Infrastructure
 
-**4 roles** · updated `2026-09-16 16:32 UTC` · [← all categories](../README.md)
+**4 roles** · updated `2026-09-17 16:30 UTC` · [← all categories](../README.md)
 
 Newest first.
 
@@ -8,9 +8,9 @@ Newest first.
 
 | Company | Role | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|
-| Nutrien | Students and New Grad Opportunities - IT USA | — | — | — | 14d | [apply](https://jobs.nutrien.com/North-America/job/Urbandale-Students-and-New-Grad-Opportunities-IT-USA-IA-50322/605741017/) |
-| Kyndryl | Early Career Consult Program – Network Support Associate | — | TX | $55,200–$99,240 | 21d | [apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Network-Support-Associate_R-67487) |
-| Texas Sports Academy | IT Operations Specialist (New Grad, Austin, In-Person) | — | — | $25.00/hr–$25.00/hr | 21d | [apply](https://apply.workable.com/j/01F86864A1) |
-| Fortinet | Network Support (New Grads 2026) 🌐 | 2026 | Atlanta, GA | — | 57d | [apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22204) |
+| Nutrien | Students and New Grad Opportunities - IT USA | — | — | — | 15d | [apply](https://jobs.nutrien.com/North-America/job/Urbandale-Students-and-New-Grad-Opportunities-IT-USA-IA-50322/605741017/) |
+| Kyndryl | Early Career Consult Program – Network Support Associate | — | TX | $55,200–$99,240 | 22d | [apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Network-Support-Associate_R-67487) |
+| Texas Sports Academy | IT Operations Specialist (New Grad, Austin, In-Person) | — | — | $25.00/hr–$25.00/hr | 22d | [apply](https://apply.workable.com/j/01F86864A1) |
+| Fortinet | Network Support (New Grads 2026) 🌐 | 2026 | Atlanta, GA | — | 58d | [apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22204) |
 
 [← back to the front page](../README.md)
