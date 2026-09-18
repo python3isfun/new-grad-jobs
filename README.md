@@ -1,6 +1,6 @@
 # 🎓 New Grad Tech Jobs — auto-updated daily
 
-**286 live new-grad roles** (355 postings) · last updated `2026-09-17 16:30 UTC`
+**294 live new-grad roles** (363 postings) · last updated `2026-09-18 16:20 UTC`
 
 Entry-level and new-graduate roles for students finishing their degree. Every listing links straight to the employer's own application page — no aggregator reposts, no dead links: postings that have closed are removed on the next update.
 
@@ -12,26 +12,27 @@ Entry-level and new-graduate roles for students finishing their degree. Every li
 
 | Category | Open roles | New this week |
 |---|---:|---:|
-| [💻 Software Engineering](jobs/software-engineering.md) | 189 | 2 |
-| [📈 Quant & Trading](jobs/quant-trading.md) | 18 | 0 |
-| [🔌 Hardware & Electrical (ECE)](jobs/hardware-electrical.md) | 64 | 9 |
-| [📊 Data & Analytics](jobs/data-analytics.md) | 11 | 0 |
-| [🖥️ IT & Infrastructure](jobs/it-infrastructure.md) | 4 | 0 |
+| [💻 Software Engineering](jobs/software-engineering.md) | 190 | 16 |
+| [📈 Quant & Trading](jobs/quant-trading.md) | 20 | 4 |
+| [🔌 Hardware & Electrical (ECE)](jobs/hardware-electrical.md) | 67 | 13 |
+| [📊 Data & Analytics](jobs/data-analytics.md) | 12 | 2 |
+| [🖥️ IT & Infrastructure](jobs/it-infrastructure.md) | 5 | 1 |
 
 ## Browse by term
 
 | Term | Roles |
 |---|---:|
-| 2026 | 14 |
-| Summer 2027 | 8 |
+| Fall 2026 | 1 |
+| 2026 | 13 |
+| Summer 2027 | 9 |
 | Winter 2027 | 1 |
-| 2027 | 154 |
+| 2027 | 157 |
 | 2029 | 1 |
-| _not stated_ | 177 |
+| _not stated_ | 181 |
 
 _Term is read from the posting title; `not stated` means the employer did not say, not that the role is unavailable._
 
-Machine-readable: [`data/listings.json`](data/listings.json) — all 355 rows, with extra fields.
+Machine-readable: [`data/listings.json`](data/listings.json) — all 363 rows, with extra fields.
 
 ## 🆕 Latest 25 roles
 
@@ -41,31 +42,31 @@ At most 2 per employer, so one big hirer cannot fill the page. Full lists are in
 
 | Company | Role | Category | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|---|
-| SpaceX | New Graduate Engineer, Security Software (Starshield) | 💻 Software Engineering | — | DC +1 | — | 5d | [apply](https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002) |
-| General Motors LLC | Entry-Level Manufacturing Controls/Electrical Engineer 🌏 | 🔌 Hardware & Electrical (ECE) | — | — | — | 5d | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Defiance-Ohio-United-States-of-America/Entry-Level-Manufacturing-Controls-Electrical-Engineer_JR-202620159) |
-| WSP | Early Career Electrical Engineer- Summer 2027 | 🔌 Hardware & Electrical (ECE) | Summer 2027 | Columbia, MD +4 | — | 6d | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95118) |
-| Shimmick | New Grad-Electrical Field Engineer | 🔌 Hardware & Electrical (ECE) | — | Unavailable, CA +2 | $80,000–$95,000 | 6d | [apply](https://careers-shimmick.icims.com/jobs/3103/new-grad-electrical-field-engineer/job) |
-| Qnity | 2026 Entry Level Rotational Program: Chemical, Mechanical & Electrical Engineering – Qnity Electronics | 🔌 Hardware & Electrical (ECE) | 2026 | DE | — | 7d | [apply](https://qnity.wd503.myworkdayjobs.com/en-US/Jobs/job/Wimington-Delaware/XMLNAME-2026-Entry-Level-Rotational-Program--Chemical--Mechanical---Electrical-Engineering---Qnity-Electronics_248862W) |
-| Wonderschool | Early Career Software Engineer - Applied AI | 💻 Software Engineering | — | San Francisco, CA | $100,000–$120,000 | 7d | [apply](https://jobs.macventurecapital.com/companies/wonderschool/jobs/45818062-early-career-software-engineer-applied-ai) |
-| TP-Link | 2026 Early Career Embedded Software Engineer 🛂 | 💻 Software Engineering | 2026 | — | $100,000–$120,000 | 7d | [apply](https://apply.workable.com/j/F943A617EC) |
-| TP-Link | 2026 Early Career System Hardware Design Engineer 🛂 | 🔌 Hardware & Electrical (ECE) | 2026 | — | $100,000–$120,000 | 7d | [apply](https://apply.workable.com/j/428D85D8DC) |
-| First Quality | Shift Controls Engineer (New Grads Welcome) | 🔌 Hardware & Electrical (ECE) | — | Macon, GA | — | 7d | [apply](https://firstquality.wd5.myworkdayjobs.com/FIRSTQUALITY/job/US-GA-Macon/Shift-Controls-Engineer--Entry-Level-_R11447) |
-| Roblox | \[2027\] Software Engineer, Early Career \| Roblox 🌐 | 💻 Software Engineering | 2027 | — | — | 7d | [apply](https://careers.roblox.com/jobs/8072244) |
-| Aspen Technology | Early Career Electrical Engineer - Power Systems | 🔌 Hardware & Electrical (ECE) | — | Medina, MN | $64,200–$80,200 | 7d | [apply](https://aspentech.wd5.myworkdayjobs.com/AspenTech/job/Medina-Minnesota/Early-Career-Electrical-Engineer---Power-Systems_R8196) |
-| Capital One Canada | Associate, Software Engineer, New Grad Card Expansion | 💻 Software Engineering | — | — | — | 7d | [apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320) |
-| EMCOR Facilities Services | Electrical Engineer (Jr or recent graduate opportunity) | 🔌 Hardware & Electrical (ECE) | — | Raleigh, NC | — | 7d | [apply](https://careers-emcorgroup.icims.com/jobs/51563/electrical-engineer-%28jr-or-recent-graduate-opportunity%29/job) |
-| Beyond New Horizons | Early Career Electrical Systems and Controls Engineer - Hypersonics 🇺🇸 | 🔌 Hardware & Electrical (ECE) | — | Arnold Afb, TN | $78,000–$100,000 | 7d | [apply](https://careers-bnh.icims.com/jobs/23958/early-career-electrical-systems-and-controls-engineer---hypersonics/job) |
-| General Motors | Software Engineer, Autonomous Vehicles Software Systems - Early Career 🌐 | 💻 Software Engineering | — | CA | $99,400–$153,900 | 7d | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759) |
-| D3 Search | Frontend Engineer - New Grad | 💻 Software Engineering | — | Los Angeles, CA | — | 7d | [apply](https://job-boards.greenhouse.io/d3/jobs/4915213008) |
-| D3 Search | Backend Engineer - New Grad | 💻 Software Engineering | — | Los Angeles, CA | — | 7d | [apply](https://job-boards.greenhouse.io/d3/jobs/4915295008) |
-| Peraton | Entry-Level Electrical Engineer | 🔌 Hardware & Electrical (ECE) | — | Aberdeen Proving Ground, MD | $66,000–$106,000 | 7d | [apply](https://careers-peraton.icims.com/jobs/169322/entry-level-electrical-engineer/job) |
-| Palantir Technologies | Forward Deployed Software Engineer, New Grad - Commercial 🌐 | 💻 Software Engineering | — | Chicago, IL +3 | $135,000–$145,000 | 7d | [apply](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40) |
-| Palantir Technologies | Forward Deployed Software Engineer, New Grad - US Government 🌐 | 💻 Software Engineering | — | D.C., WA +1 | $135,000–$145,000 | 7d | [apply](https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb) |
-| IMEG | Electrical Engineering New Grad \| Urbandale, IA | 🔌 Hardware & Electrical (ECE) | — | IA | $78,000–$80,000 | 7d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Urbandale-IA/Electrical-Engineering-New-Grad---Rock-Island--IL_R-15386) |
-| IMEG | Electrical Engineering New Grad \| Columbia, SC | 🔌 Hardware & Electrical (ECE) | — | Columbia, SC | — | 7d | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Columbia-SC/Electrical-Engineering-New-Grad---Columbia--SC_R-16343) |
-| Framatome North America | Early Career Electrical Engineer - Site Projects Engineering | 🔌 Hardware & Electrical (ECE) | — | Richland, WA | $86,000–$91,000 | 7d | [apply](https://careers-framatome.icims.com/jobs/3014/early-career-electrical-engineer---site-projects-engineering/job) |
-| ExxonMobil | Early Career - Advanced Process Control Applications Engineer (Kuala Lumpur, Federal Territory of Kuala Lumpur, MY, 50088) | 🔌 Hardware & Electrical (ECE) | — | — | — | 7d | [apply](https://jobs.exxonmobil.com/job/Kuala-Lumpur-Early-Career-Advanced-Process-Control-Applications-Engineer-Fede-50088/1393239600/) |
-| Audible, Inc. - B13 | Software Development Engineer, Early Career | 💻 Software Engineering | — | Cambridge, MA +1 | — | 7d | [apply](https://www.audiblecareers.com/job/cambridge/software-development-engineer-early-career/27552/100193825568) |
+| Express Employment Professionals | Entry-Level IT Support Specialist (NEW GRADS) | 🖥️ IT & Infrastructure | — | Scottsdale, AZ | $23.00/hr–$25.00/hr | today | [apply](https://jobs.expresspros.com/job/details?jobControlNum=14593167) |
+| Credence | Entry-Level AI Software Engineer | 💻 Software Engineering | — | — | $90,000–$110,000 | today | [apply](https://apply.workable.com/j/BAD39E80E0) |
+| Safelite | Customer Analytics & Insights Global Early Career Professional 🛂 | 📊 Data & Analytics | — | Columbus, OH | — | today | [apply](https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/COLUMBUS-OH/Customer-Analytics---Insights-Global-Early-Career-Professional_JR74210) |
+| Saalex | Junior Systems Developer & Data Analyst | 💻 Software Engineering | — | — | $36.00/hr–$40.00/hr | today | [apply](https://apply.workable.com/j/758C0628C9) |
+| Dewberry | Junior Power Platform Developer 🛂 | 💻 Software Engineering | — | Tampa, FL | $81,000–$104,000 | today | [apply](https://careers-dewberry.icims.com/jobs/16383/junior-power-platform-developer/job) |
+| Ekimetrics | Junior Data Scientist & Marketing Effectiveness - Jan-March 2027 Start date | 📊 Data & Analytics | 2027 | — | — | today | [apply](https://jobs.lever.co/ekimetrics/23ede62a-a4c9-41e9-924f-0bb283438b5f) |
+| IMEG | Electrical Engineering New Graduate \| Rock Island, IL | 🔌 Hardware & Electrical (ECE) | — | Rock Island, IL +3 | $36.50/hr–$38.50/hr | today | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Rock-Island-IL/Electrical-Engineering-New-Graduate---Rock-Island--IL_R-16354) |
+| IMEG | Electrical Engineering New Graduate \| Urbandale, IA | 🔌 Hardware & Electrical (ECE) | — | Des Moines, IA | — | today | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Des-Moines-IA/Electrical-Engineering-New-Graduate---Urbandale--IA_R-16326) |
+| TikTok | Backend Software Engineer Graduate (Trust & Safety) - 2027 Start 🌐 | 💻 Software Engineering | 2027 | NY | — | today | [apply](https://lifeattiktok.com/search/7669692313913805061) |
+| DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US 🌐 | 💻 Software Engineering | Fall 2026 | Ca; Seattle, WA | $107,400–$158,000 | 1d | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) |
+| Maven Securities | Graduate Developer Programme Chicago 2027 🌏 | 📈 Quant & Trading | 2027 | IL | $140,000–$170,000 | 1d | [apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048802) |
+| Ernest Gordon Recruitment | Junior Sales Engineer (Electrical Distributor) | 🔌 Hardware & Electrical (ECE) | — | — | — | 2d | [apply](https://www.ernestgordonrecruitment.com/job/junior-sales-engineer-electrical-distributor-185457/) |
+| Old Mission | Floor Trader - 2027 Graduate Program (August Start) | 📈 Quant & Trading | 2027 | Chicago, IL | $80,000–$100,000 | 1d | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7993756003) |
+| WSP | Early Career Electrical Engineer (Mission Critical/Data Center) | 🔌 Hardware & Electrical (ECE) | — | Troy, NY | $58,200–$87,300 | 2d | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95348) |
+| SingleStore | Software Engineer-New Grad 2027 | 💻 Software Engineering | 2027 | — +1 | — | 2d | [apply](https://job-boards.greenhouse.io/singlestore/jobs/8205427) |
+| Point72 | Point72 Academy Coffee Chats — Class of 2029 (US) 🌐 | 📈 Quant & Trading | 2029 | — | — | 2d | [apply](https://boards.greenhouse.io/point72/jobs/8730093002?gh_jid=8730093002) |
+| AvePoint | Junior Salesforce Developer | 💻 Software Engineering | — | — | — | 3d | [apply](https://www.avepoint.com/careers/job-detail?gh_jid=6923685) |
+| AvePoint | JUNIOR SOFTWARE DEVELOPER (BI) | 💻 Software Engineering | — | — | — | 3d | [apply](https://www.avepoint.com/careers/job-detail?gh_jid=6820881) |
+| SCALE AI | Software Engineer - New Grad | 💻 Software Engineering | — | — +2 | — | 4d | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4730862005) |
+| BSN SPORTS, A VARSITY BRANDS COMPANY | Software Engineer - Early Career 🛂 | 💻 Software Engineering | — | Farmers Branch, TX | — | 4d | [apply](https://varsitybrands.wd503.myworkdayjobs.com/ExternalCareerSite/job/TX---Farmers-Branch/Software-Engineer---Early-Career_JR113366-1) |
+| Optiver | Graduate FPGA Engineer (2027 Start) | 📈 Quant & Trading | 2027 | — | — | 5d | [apply](https://www.optiver.com/join-us/jobs/technology/amsterdam/graduate-fpga-engineer-2027-start/) |
+| Nominal | Software Engineer - New Grad (Summer 2027) | 💻 Software Engineering | Summer 2027 | Austin, TX | — | 5d | [apply](https://jobs.gem.com/nominal/am9icG9zdDqzyjGh1V7-Ch-Nh0J_hwYU) |
+| INEOS | Electrical and Instrument Engineering Graduate 2027 | 🔌 Hardware & Electrical (ECE) | 2027 | — | — | 5d | [apply](https://careers.ineos.com/jobs/electrical-and-instrument-engineering-graduate-2027_18431/details) |
+| Clarum | AI-Native Engineer, New Grad (Ingeniero/a de Software AI-Native — Inicio de Carrera) - Mexico City (Hybrid) | 💻 Software Engineering | — | — | — | 6d | [apply](https://job-boards.greenhouse.io/clara/jobs/5215613007) |
+| SpaceX | New Graduate Engineer, Security Software (Starshield) | 💻 Software Engineering | — | Hawthorne, CA +1 | $130,000–$160,000 | 6d | [apply](https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002) |
 
 _Full lists are in the category pages above._
 
@@ -73,42 +74,42 @@ _Full lists are in the category pages above._
 
 | Employer | Open internships |
 |---|---:|
-| TikTok | 143 |
-| IMEG | 28 |
+| TikTok | 141 |
+| IMEG | 30 |
 | WSP | 22 |
 | SpaceX | 20 |
 | Palantir Technologies | 20 |
-| True Anomaly | 8 |
+| Old Mission | 8 |
+| Dewberry | 7 |
+| True Anomaly | 7 |
 | General Motors | 7 |
-| Old Mission | 7 |
-| Dewberry | 6 |
 | AKUNA CAPITAL | 5 |
 | Anduril Industries | 5 |
 | Freeform | 4 |
+| SCALE AI | 3 |
 | Shimmick | 3 |
 | Barclays Bank US | 3 |
-| BGE | 3 |
 
 ## 💰 Highest stated pay
 
 | Company | Role | Category | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|---|
-| Old Mission | Quantitative Researcher (Ph.D.) - 2027 Graduate Program - (August Start) | 📈 Quant & Trading | 2027 | Chicago, IL | $175,000–$250,000 | 49d | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7814534003) |
-| Old Mission | Junior Quantitative Researcher (Ph.D.) | 📈 Quant & Trading | — | Chicago, IL | $175,000–$250,000 | 57d | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=6309652003) |
-| SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | 💻 Software Engineering | — | Hawthorne, CA +2 | $140,000–$175,000 | 15d | [apply](https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002) |
-| SpaceX | New Graduate Engineer, Silicon Engineering | 🔌 Hardware & Electrical (ECE) | — | Palo Alto, CA +2 | $135,000–$175,000 | 15d | [apply](https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002) |
-| Maven Securities | Graduate Developer Programme Chicago 2027 🌏 | 📈 Quant & Trading | 2027 | IL | $140,000–$170,000 | 9d | [apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048802) |
-| SCALE AI | Software Engineer - New Grad | 💻 Software Engineering | — | San Francisco, CA | $124,000–$162,000 | 12d | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) |
-| Palantir Technologies | Software Engineer, New Grad - Defense 🌐 | 💻 Software Engineering | — | Palo Alto, CA +2 | $145,000–$155,000 | 7d | [apply](https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3) |
-| Palantir Technologies | Software Engineer, New Grad 🌐 | 💻 Software Engineering | — | NY +1 | $145,000–$155,000 | 7d | [apply](https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92) |
-| Bitdeer (NASDAQ: BTDR) | SRE Monitoring Platform Software Engineer (Early Career / Temporary) | 💻 Software Engineering | — | San Jose, CA | $105,000–$155,000 | 20d | [apply](https://bitdeer.breezy.hr/p/ed6314823d0c-sre-monitoring-platform-software-engineer-early-career-temporary) |
-| General Motors | Software Engineer, Autonomous Vehicles Software Systems - Early Career 🌐 | 💻 Software Engineering | — | CA | $99,400–$153,900 | 7d | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759) |
+| Old Mission | Quantitative Researcher (Ph.D.) - 2027 Graduate Program - (August Start) | 📈 Quant & Trading | 2027 | Chicago, IL | $175,000–$250,000 | 50d | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7814534003) |
+| Old Mission | Junior Quantitative Researcher (Ph.D.) | 📈 Quant & Trading | — | Chicago, IL | $175,000–$250,000 | 58d | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=6309652003) |
+| SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | 💻 Software Engineering | — | Hawthorne, CA +2 | $140,000–$175,000 | 16d | [apply](https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002) |
+| SpaceX | New Graduate Engineer, Silicon Engineering | 🔌 Hardware & Electrical (ECE) | — | Palo Alto, CA +2 | $135,000–$175,000 | 16d | [apply](https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002) |
+| Maven Securities | Graduate Developer Programme Chicago 2027 🌏 | 📈 Quant & Trading | 2027 | IL | $140,000–$170,000 | 1d | [apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048802) |
+| SCALE AI | Software Engineer - New Grad | 💻 Software Engineering | — | San Francisco, CA | $124,000–$162,000 | 13d | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) |
+| DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US 🌐 | 💻 Software Engineering | Fall 2026 | Ca; Seattle, WA | $107,400–$158,000 | 1d | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) |
+| Palantir Technologies | Software Engineer, New Grad - Production Infrastructure 🌐 | 💻 Software Engineering | — | Seattle, WA +2 | $145,000–$155,000 | 8d | [apply](https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af) |
+| Palantir Technologies | Software Engineer, New Grad 🌐 | 💻 Software Engineering | — | NY +1 | $145,000–$155,000 | 8d | [apply](https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92) |
+| General Motors | Software Engineer, Autonomous Vehicles Software Systems - Early Career 🌐 | 💻 Software Engineering | — | CA | $99,400–$153,900 | 8d | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759) |
 
 ## 📍 Top locations
 
-**CA** 123 · **NY** 50 · **WA** 40 · **IL** 21 · **TX** 12 · **CO** 7 · **MO** 6 · **PA** 5 · **GA** 5 · **MI** 5 · **NC** 4 · **OH** 4
+**CA** 120 · **NY** 49 · **WA** 41 · **IL** 22 · **TX** 13 · **CO** 7 · **MO** 6 · **OH** 5 · **PA** 5 · **GA** 5 · **MI** 5 · **FL** 3
 
-_1 remote · 36 postings have no location stated by the employer._
+_1 remote · 44 postings have no location stated by the employer._
 
 ---
 
