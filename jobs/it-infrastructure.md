@@ -1,6 +1,6 @@
 # 🖥️ IT & Infrastructure
 
-**4 roles** · updated `2026-09-20 16:29 UTC` · [← all categories](../README.md)
+**5 roles** · updated `2026-09-21 16:21 UTC` · [← all categories](../README.md)
 
 Newest first.
 
@@ -8,9 +8,10 @@ Newest first.
 
 | Company | Role | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|
-| Express Employment Professionals | Entry-Level IT Support Specialist (NEW GRADS) | — | Scottsdale, AZ | $23.00/hr–$25.00/hr | 2d | [apply](https://jobs.expresspros.com/job/details?jobControlNum=14593167) |
-| Nutrien | Students and New Grad Opportunities - IT USA | — | — | — | 18d | [apply](https://jobs.nutrien.com/North-America/job/Urbandale-Students-and-New-Grad-Opportunities-IT-USA-IA-50322/605741017/) |
-| Texas Sports Academy | IT Operations Specialist (New Grad, Austin, In-Person) | — | — | $25.00/hr–$25.00/hr | 25d | [apply](https://apply.workable.com/j/01F86864A1) |
-| Fortinet | Network Support (New Grads 2026) 🌐 | 2026 | Atlanta, GA | — | 61d | [apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22204) |
+| Kyndryl | Early Career Consult Program – Network Support Associate | — | TX | $55,200–$99,240 | 1d | [apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Network-Support-Associate_R-67487) |
+| Express Employment Professionals | Entry-Level IT Support Specialist (NEW GRADS) | — | Scottsdale, AZ | $23.00/hr–$25.00/hr | 3d | [apply](https://jobs.expresspros.com/job/details?jobControlNum=14593167) |
+| Nutrien | Students and New Grad Opportunities - IT USA | — | — | — | 19d | [apply](https://jobs.nutrien.com/North-America/job/Urbandale-Students-and-New-Grad-Opportunities-IT-USA-IA-50322/605741017/) |
+| Texas Sports Academy | IT Operations Specialist (New Grad, Austin, In-Person) | — | — | $25.00/hr–$25.00/hr | 26d | [apply](https://apply.workable.com/j/01F86864A1) |
+| Fortinet | Network Support (New Grads 2026) 🌐 | 2026 | Atlanta, GA | — | 62d | [apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22204) |
 
 [← back to the front page](../README.md)
