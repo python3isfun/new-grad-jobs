@@ -1,6 +1,6 @@
 # 📈 Quant & Trading
 
-**22 roles** · updated `2026-09-23 16:39 UTC` · [← all categories](../README.md)
+**22 roles** · updated `2026-09-24 16:43 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the other locations (1 extra postings folded in); every one is in [`listings.json`](../data/listings.json).
 
@@ -8,27 +8,27 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 
 | Company | Role | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|
-| Belvedere Trading, LLC | Early Career Talent Partner- Trading | — | Chicago, IL | — | today | [apply](https://jobs.lever.co/belvederetrading/fb74cb4d-a250-47c7-96a5-0450095add27) |
-| Belvedere Trading, LLC | Early Career Talent Partner- Technology & Platform | — | Chicago, IL | — | today | [apply](https://jobs.lever.co/belvederetrading/fd619115-ced7-4d59-bd2b-0948b5ee5fde) |
-| Maven Securities | Graduate Developer Programme Chicago 2027 🌏 | 2027 | IL | $140,000–$170,000 | 1d | [apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048802) |
-| AKUNA CAPITAL | Junior Quantitative Researcher 🌐 | — | Chicago, IL | $145,000–$145,000 | 5d | [apply](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541) |
-| Old Mission | Floor Trader - 2027 Graduate Program (August Start) | 2027 | Chicago, IL | $80,000–$100,000 | 7d | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7993756003) |
-| Point72 | Point72 Academy Coffee Chats — Class of 2029 (US) 🌐 | 2029 | — | — | 7d | [apply](https://boards.greenhouse.io/point72/jobs/8730093002?gh_jid=8730093002) |
-| Optiver | Graduate FPGA Engineer (2027 Start) | 2027 | — | — | 10d | [apply](https://www.optiver.com/join-us/jobs/technology/amsterdam/graduate-fpga-engineer-2027-start/) |
-| AKUNA CAPITAL | Junior Developer - C++ 🌐 | — | IL | — | 13d | [apply](https://www.akunacapital.com/careers/job/6690496/?gh_jid=6690496) |
-| Barclays Bank US | 2027 Quantitative Analytics Analyst Graduate Program New York 🌏 | 2027 | NY | — | 18d | [apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/XMLNAME-2027-Quantitative-Analytics-Analyst-Graduate-Program-New-York_JR-0000131452) |
-| AKUNA CAPITAL | Junior Quantitative Researcher - Deep Learning (Time Series) 🌐 | — | IL | — | 19d | [apply](https://www.akunacapital.com/careers/job/8175994/?gh_jid=8175994) |
-| Old Mission | Fundamental Research Analyst - 2027 Graduate Program - (August Start) | 2027 | Chicago, IL | $125,000–$125,000 | 21d | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7982061003) |
-| AKUNA CAPITAL | Software Engineer (Entry-Level) - C++ 🌐 | — | Chicago, IL | — | 23d | [apply](https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085) |
-| Transmarket Group Inc | Junior Algorithmic Trader | — | Chicago, IL | — | 51d | [apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151575007?gh_jid=5151575007) |
-| Old Mission | Quantitative Researcher (Ph.D.) - 2027 Graduate Program - (August Start) | 2027 | Chicago, IL | $175,000–$250,000 | 55d | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7814534003) |
-| Old Mission | Junior Quantitative Researcher (Ph.D.) | — | Chicago, IL | $175,000–$250,000 | 63d | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=6309652003) |
-| AKUNA CAPITAL | Software Engineer (Entry-Level) - Python 🌐 | — | Chicago, IL | — | 70d | [apply](https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230) |
-| AKUNA CAPITAL | Junior Quantitative Developer & Strategist 🌐 | — | Chicago, IL | — | 70d | [apply](https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687) |
-| Old Mission | Quantitative Trader – 2027 Graduate Program (August Start) | 2027 | — +1 | — | 71d | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796058003) |
-| Old Mission | Software Engineer – 2027 Graduate Program (August Start) | 2027 | Chicago, IL | $175,000–$200,000 | 71d | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796048003) |
-| Old Mission | Quantitative Trader – 2027 Graduate Program (February Start) | 2027 | Il Or New York, NY | $200,000–$200,000 | 71d | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796031003) |
-| Transmarket Group Inc | Junior Quantitative Trader | — | Chicago, IL | — | 112d | [apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151574007?gh_jid=5151574007) |
-| Aquatic Capital Management | Quantitative Researcher, Early Career | — | — | — | 146d | [apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489150002) |
+| Belvedere Trading, LLC | Early Career Talent Partner- Trading | — | Chicago, IL | — | 1d | [apply](https://jobs.lever.co/belvederetrading/fb74cb4d-a250-47c7-96a5-0450095add27) |
+| Belvedere Trading, LLC | Early Career Talent Partner- Technology & Platform | — | Chicago, IL | — | 1d | [apply](https://jobs.lever.co/belvederetrading/fd619115-ced7-4d59-bd2b-0948b5ee5fde) |
+| Maven Securities | Graduate Developer Programme Chicago 2027 🌏 | 2027 | IL | $140,000–$170,000 | 2d | [apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048802) |
+| AKUNA CAPITAL | Junior Quantitative Researcher 🌐 | — | Chicago, IL | $145,000–$145,000 | 6d | [apply](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541) |
+| Old Mission | Floor Trader - 2027 Graduate Program (August Start) | 2027 | Chicago, IL | $80,000–$100,000 | 8d | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7993756003) |
+| Point72 | Point72 Academy Coffee Chats — Class of 2029 (US) 🌐 | 2029 | — | — | 8d | [apply](https://boards.greenhouse.io/point72/jobs/8730093002?gh_jid=8730093002) |
+| Optiver | Graduate FPGA Engineer (2027 Start) | 2027 | — | — | 11d | [apply](https://www.optiver.com/join-us/jobs/technology/amsterdam/graduate-fpga-engineer-2027-start/) |
+| AKUNA CAPITAL | Junior Developer - C++ 🌐 | — | IL | — | 14d | [apply](https://www.akunacapital.com/careers/job/6690496/?gh_jid=6690496) |
+| Barclays Bank US | 2027 Quantitative Analytics Analyst Graduate Program New York 🌏 | 2027 | NY | — | 19d | [apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/XMLNAME-2027-Quantitative-Analytics-Analyst-Graduate-Program-New-York_JR-0000131452) |
+| AKUNA CAPITAL | Junior Quantitative Researcher - Deep Learning (Time Series) 🌐 | — | IL | — | 20d | [apply](https://www.akunacapital.com/careers/job/8175994/?gh_jid=8175994) |
+| Old Mission | Fundamental Research Analyst - 2027 Graduate Program - (August Start) | 2027 | Chicago, IL | $125,000–$125,000 | 22d | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7982061003) |
+| AKUNA CAPITAL | Software Engineer (Entry-Level) - C++ 🌐 | — | Chicago, IL | — | 24d | [apply](https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085) |
+| Transmarket Group Inc | Junior Algorithmic Trader | — | Chicago, IL | — | 52d | [apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151575007?gh_jid=5151575007) |
+| Old Mission | Quantitative Researcher (Ph.D.) - 2027 Graduate Program - (August Start) | 2027 | Chicago, IL | $175,000–$250,000 | 56d | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7814534003) |
+| Old Mission | Junior Quantitative Researcher (Ph.D.) | — | Chicago, IL | $175,000–$250,000 | 64d | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=6309652003) |
+| AKUNA CAPITAL | Software Engineer (Entry-Level) - Python 🌐 | — | Chicago, IL | — | 71d | [apply](https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230) |
+| AKUNA CAPITAL | Junior Quantitative Developer & Strategist 🌐 | — | Chicago, IL | — | 71d | [apply](https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687) |
+| Old Mission | Quantitative Trader – 2027 Graduate Program (August Start) | 2027 | — +1 | — | 72d | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796058003) |
+| Old Mission | Software Engineer – 2027 Graduate Program (August Start) | 2027 | Chicago, IL | $175,000–$200,000 | 72d | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796048003) |
+| Old Mission | Quantitative Trader – 2027 Graduate Program (February Start) | 2027 | Il Or New York, NY | $200,000–$200,000 | 72d | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796031003) |
+| Transmarket Group Inc | Junior Quantitative Trader | — | Chicago, IL | — | 113d | [apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151574007?gh_jid=5151574007) |
+| Aquatic Capital Management | Quantitative Researcher, Early Career | — | — | — | 147d | [apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489150002) |
 
 [← back to the front page](../README.md)

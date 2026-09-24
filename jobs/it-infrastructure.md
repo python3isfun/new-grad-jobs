@@ -1,6 +1,6 @@
 # 🖥️ IT & Infrastructure
 
-**5 roles** · updated `2026-09-23 16:39 UTC` · [← all categories](../README.md)
+**5 roles** · updated `2026-09-24 16:43 UTC` · [← all categories](../README.md)
 
 Newest first.
 
@@ -8,10 +8,10 @@ Newest first.
 
 | Company | Role | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|
-| Kyndryl | Early Career Consult Program – Network Support Associate | — | TX | $55,200–$99,240 | 3d | [apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Network-Support-Associate_R-67487) |
-| Express Employment Professionals | Entry-Level IT Support Specialist (NEW GRADS) | — | Scottsdale, AZ | $23.00/hr–$25.00/hr | 5d | [apply](https://jobs.expresspros.com/job/details?jobControlNum=14593167) |
-| Nutrien | Students and New Grad Opportunities - IT USA | — | — | — | 21d | [apply](https://jobs.nutrien.com/North-America/job/Urbandale-Students-and-New-Grad-Opportunities-IT-USA-IA-50322/605741017/) |
-| Texas Sports Academy | IT Operations Specialist (New Grad, Austin, In-Person) | — | — | $25.00/hr–$25.00/hr | 28d | [apply](https://apply.workable.com/j/01F86864A1) |
-| Fortinet | Network Support (New Grads 2026) 🌐 | 2026 | Atlanta, GA | — | 64d | [apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22204) |
+| Open ERA LLC | Desktop Support Technician - Entry Level | — | San Jose, CA | — | 1d | [apply](https://job-boards.greenhouse.io/neweratech/jobs/8817755002) |
+| Kyndryl | Early Career Consult Program – Network Support Associate | — | TX | $55,200–$99,240 | 4d | [apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Network-Support-Associate_R-67487) |
+| Express Employment Professionals | Entry-Level IT Support Specialist (NEW GRADS) | — | Scottsdale, AZ | $23.00/hr–$25.00/hr | 6d | [apply](https://jobs.expresspros.com/job/details?jobControlNum=14593167) |
+| Texas Sports Academy | IT Operations Specialist (New Grad, Austin, In-Person) | — | — | $25.00/hr–$25.00/hr | 29d | [apply](https://apply.workable.com/j/01F86864A1) |
+| Fortinet | Network Support (New Grads 2026) 🌐 | 2026 | Atlanta, GA | — | 65d | [apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22204) |
 
 [← back to the front page](../README.md)
