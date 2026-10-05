@@ -1,6 +1,6 @@
 # 🖥️ IT & Infrastructure
 
-**5 roles** · updated `2026-10-04 16:27 UTC` · [← all categories](../README.md)
+**5 roles** · updated `2026-10-05 16:32 UTC` · [← all categories](../README.md)
 
 Newest first.
 
@@ -8,10 +8,10 @@ Newest first.
 
 | Company | Role | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|
-| Ciena | IT Leadership Program - New Grads | — | MD | $58,500–$93,500 | 8d | [apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Baltimore/IT-Leadership-Program---New-Grads_R031776) |
-| Ryanair Engineering – Delivered by PAM GmbH | IT Labs Graduate Programme 2027 | 2027 | — | — | 9d | [apply](https://careers.ryanair.com/jobs/it-labs-graduate-programme-2027/) |
-| Texas Sports Academy | IT Operations Specialist (New Grad, Austin, In-Person) | — | — | $25.00/hr–$25.00/hr | 9d | [apply](https://apply.workable.com/j/01F86864A1) |
-| Open ERA LLC | Desktop Support Technician - Entry Level | — | San Jose, CA | — | 10d | [apply](https://job-boards.greenhouse.io/neweratech/jobs/8817755002) |
-| Fortinet | Network Support (New Grads 2026) 🌐 | 2026 | Atlanta, GA | — | 75d | [apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22204) |
+| Ciena | IT Leadership Program - New Grads | — | MD | $58,500–$93,500 | 9d | [apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Baltimore/IT-Leadership-Program---New-Grads_R031776) |
+| Ryanair Engineering – Delivered by PAM GmbH | IT Labs Graduate Programme 2027 | 2027 | — | — | 10d | [apply](https://careers.ryanair.com/jobs/it-labs-graduate-programme-2027/) |
+| Texas Sports Academy | IT Operations Specialist (New Grad, Austin, In-Person) | — | — | $25.00/hr–$25.00/hr | 10d | [apply](https://apply.workable.com/j/01F86864A1) |
+| Open ERA LLC | Desktop Support Technician - Entry Level | — | San Jose, CA | — | 12d | [apply](https://job-boards.greenhouse.io/neweratech/jobs/8817755002) |
+| Fortinet | Network Support (New Grads 2026) 🌐 | 2026 | Atlanta, GA | — | 76d | [apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22204) |
 
 [← back to the front page](../README.md)
