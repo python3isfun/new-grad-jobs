@@ -1,6 +1,6 @@
 # 🖥️ IT & Infrastructure
 
-**5 roles** · updated `2026-10-18 16:22 UTC` · [← all categories](../README.md)
+**5 roles** · updated `2026-10-19 16:39 UTC` · [← all categories](../README.md)
 
 Newest first.
 
@@ -8,10 +8,10 @@ Newest first.
 
 | Company | Role | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|
-| Ciena | IT Leadership Program - New Grads | — | MD | $58,500–$93,500 | 7d | [apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Baltimore/IT-Leadership-Program---New-Grads_R031776) |
-| Kyndryl | Early Career Consult Program – Network Support Associate 🛂 | — | — | $77,000–$77,000 | 14d | [apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Network-Support-Associate_R-67487) |
-| Ryanair Engineering – Delivered by PAM GmbH | IT Labs Graduate Programme 2027 | 2027 | — | — | 23d | [apply](https://careers.ryanair.com/jobs/it-labs-graduate-programme-2027/) |
-| Open ERA LLC | Desktop Support Technician - Entry Level | — | San Jose, CA | — | 24d | [apply](https://job-boards.greenhouse.io/neweratech/jobs/8817755002) |
-| Fortinet | Network Support (New Grads 2026) 🌐 | 2026 | Atlanta, GA | — | 89d | [apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22204) |
+| Ciena | IT Leadership Program - New Grads | — | MD | $58,500–$93,500 | 8d | [apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Baltimore/IT-Leadership-Program---New-Grads_R031776) |
+| Kyndryl | Early Career Consult Program – Network Support Associate 🛂 | — | — | $77,000–$77,000 | 15d | [apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Network-Support-Associate_R-67487) |
+| Ryanair Engineering – Delivered by PAM GmbH | IT Labs Graduate Programme 2027 | 2027 | — | — | 24d | [apply](https://careers.ryanair.com/jobs/it-labs-graduate-programme-2027/) |
+| Open ERA LLC | Desktop Support Technician - Entry Level | — | San Jose, CA | — | 26d | [apply](https://job-boards.greenhouse.io/neweratech/jobs/8817755002) |
+| Fortinet | Network Support (New Grads 2026) 🌐 | 2026 | Atlanta, GA | — | 90d | [apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22204) |
 
 [← back to the front page](../README.md)
