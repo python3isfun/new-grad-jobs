@@ -1,6 +1,6 @@
 # 📈 Quant & Trading
 
-**13 roles** · updated `2026-10-21 16:21 UTC` · [← all categories](../README.md)
+**13 roles** · updated `2026-10-22 19:59 UTC` · [← all categories](../README.md)
 
 Newest first.
 
@@ -8,18 +8,18 @@ Newest first.
 
 | Company | Role | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|
-| AKUNA CAPITAL | Junior Trader 🌐 | — | IL | — | 6d | [apply](https://www.akunacapital.com/careers/job/8275358/?gh_jid=8275358) |
-| AKUNA CAPITAL | Junior Quantitative Researcher - Deep Learning (Time Series) 🌐 | — | IL | — | 13d | [apply](https://www.akunacapital.com/careers/job/8175994/?gh_jid=8175994) |
-| AKUNA CAPITAL | Junior Developer - C++ 🌐 | — | IL | — | 13d | [apply](https://www.akunacapital.com/careers/job/6690496/?gh_jid=6690496) |
-| Belvedere Trading, LLC | Early Career Talent Partner - Technology & Platform | — | Chicago, IL | $70,000–$90,000 | 28d | [apply](https://jobs.lever.co/belvederetrading/fd619115-ced7-4d59-bd2b-0948b5ee5fde) |
-| Belvedere Trading, LLC | Early Career Talent Partner - Trading | — | Chicago, IL | $70,000–$90,000 | 28d | [apply](https://jobs.lever.co/belvederetrading/fb74cb4d-a250-47c7-96a5-0450095add27) |
-| AKUNA CAPITAL | Junior Quantitative Researcher 🌐 | — | Chicago, IL | $145,000–$145,000 | 33d | [apply](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541) |
-| Point72 | Point72 Academy Coffee Chats — Class of 2029 (US) 🌐 | 2029 | — | — | 35d | [apply](https://boards.greenhouse.io/point72/jobs/8730093002?gh_jid=8730093002) |
-| AKUNA CAPITAL | Software Engineer (Entry-Level) - C++ 🌐 | — | Chicago, IL | — | 51d | [apply](https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085) |
-| Transmarket Group Inc | Junior Algorithmic Trader | — | Chicago, IL | — | 79d | [apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151575007?gh_jid=5151575007) |
-| AKUNA CAPITAL | Software Engineer (Entry-Level) - Python 🌐 | — | Chicago, IL | — | 98d | [apply](https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230) |
-| AKUNA CAPITAL | Junior Quantitative Developer & Strategist 🌐 | — | Chicago, IL | — | 98d | [apply](https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687) |
-| Transmarket Group Inc | Junior Quantitative Trader | — | Chicago, IL | — | 140d | [apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151574007?gh_jid=5151574007) |
-| Aquatic Capital Management | Quantitative Researcher, Early Career | — | — | $150,000–$200,000 | 174d | [apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489150002) |
+| AKUNA CAPITAL | Junior Trader 🌐 | — | IL | — | 7d | [apply](https://www.akunacapital.com/careers/job/8275358/?gh_jid=8275358) |
+| AKUNA CAPITAL | Junior Quantitative Researcher - Deep Learning (Time Series) 🌐 | — | IL | — | 14d | [apply](https://www.akunacapital.com/careers/job/8175994/?gh_jid=8175994) |
+| AKUNA CAPITAL | Junior Developer - C++ 🌐 | — | IL | — | 14d | [apply](https://www.akunacapital.com/careers/job/6690496/?gh_jid=6690496) |
+| Belvedere Trading, LLC | Early Career Talent Partner - Technology & Platform | — | Chicago, IL | $70,000–$90,000 | 29d | [apply](https://jobs.lever.co/belvederetrading/fd619115-ced7-4d59-bd2b-0948b5ee5fde) |
+| Belvedere Trading, LLC | Early Career Talent Partner - Trading | — | Chicago, IL | $70,000–$90,000 | 29d | [apply](https://jobs.lever.co/belvederetrading/fb74cb4d-a250-47c7-96a5-0450095add27) |
+| AKUNA CAPITAL | Junior Quantitative Researcher 🌐 | — | Chicago, IL | $145,000–$145,000 | 34d | [apply](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541) |
+| Point72 | Point72 Academy Coffee Chats — Class of 2029 (US) 🌐 | 2029 | — | — | 36d | [apply](https://boards.greenhouse.io/point72/jobs/8730093002?gh_jid=8730093002) |
+| AKUNA CAPITAL | Software Engineer (Entry-Level) - C++ 🌐 | — | Chicago, IL | — | 52d | [apply](https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085) |
+| Transmarket Group Inc | Junior Algorithmic Trader | — | Chicago, IL | — | 80d | [apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151575007?gh_jid=5151575007) |
+| AKUNA CAPITAL | Software Engineer (Entry-Level) - Python 🌐 | — | Chicago, IL | — | 100d | [apply](https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230) |
+| AKUNA CAPITAL | Junior Quantitative Developer & Strategist 🌐 | — | Chicago, IL | — | 100d | [apply](https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687) |
+| Transmarket Group Inc | Junior Quantitative Trader | — | Chicago, IL | — | 141d | [apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151574007?gh_jid=5151574007) |
+| Aquatic Capital Management | Quantitative Researcher, Early Career | — | — | $150,000–$200,000 | 175d | [apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489150002) |
 
 [← back to the front page](../README.md)
