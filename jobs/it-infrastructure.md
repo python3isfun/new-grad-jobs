@@ -1,6 +1,6 @@
 # 🖥️ IT & Infrastructure
 
-**5 roles** · updated `2026-10-30 16:49 UTC` · [← all categories](../README.md)
+**5 roles** · updated `2026-10-31 16:20 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the other locations (1 extra postings folded in); every one is in [`listings.json`](../data/listings.json).
 
@@ -8,10 +8,10 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 
 | Company | Role | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|
-| Open ERA LLC | Desktop Support Technician - Entry Level | — | San Jose, CA +1 | — | today | [apply](https://job-boards.greenhouse.io/neweratech/jobs/8907585002) |
-| Ryanair Engineering – Delivered by PAM GmbH | IT Labs Graduate Programme 2027 | 2027 | — | — | 5d | [apply](https://careers.ryanair.com/jobs/it-labs-graduate-programme-2027/) |
-| Ciena | IT Leadership Program - New Grads | — | MD | $58,500–$93,500 | 19d | [apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Baltimore/IT-Leadership-Program---New-Grads_R031776) |
-| Kyndryl | Early Career Consult Program – Network Support Associate 🛂 | — | — | $77,000–$77,000 | 26d | [apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Network-Support-Associate_R-67487) |
-| Fortinet | Network Support (New Grads 2026) 🌐 | 2026 | Atlanta, GA | — | 101d | [apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22204) |
+| Open ERA LLC | Desktop Support Technician - Entry Level | — | San Jose, CA +1 | — | 1d | [apply](https://job-boards.greenhouse.io/neweratech/jobs/8907585002) |
+| Ryanair Engineering – Delivered by PAM GmbH | IT Labs Graduate Programme 2027 | 2027 | — | — | 6d | [apply](https://careers.ryanair.com/jobs/it-labs-graduate-programme-2027/) |
+| Ciena | IT Leadership Program - New Grads | — | MD | $58,500–$93,500 | 20d | [apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Baltimore/IT-Leadership-Program---New-Grads_R031776) |
+| Kyndryl | Early Career Consult Program – Network Support Associate 🛂 | — | — | $77,000–$77,000 | 27d | [apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Network-Support-Associate_R-67487) |
+| Fortinet | Network Support (New Grads 2026) 🌐 | 2026 | Atlanta, GA | — | 102d | [apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22204) |
 
 [← back to the front page](../README.md)
