@@ -1,10 +1,10 @@
 # 📋 Product & Program
 
-**21 roles** · updated `2026-11-02 20:33 UTC` · [← all categories](../README.md)
+**21 roles** · updated `2026-11-02 23:58 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (3 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
-**Legend:** 🛂 does **not** sponsor visas · 🇺🇸 requires US citizenship · 🌏 sponsorship available — each read from the posting's own text. No marker means the posting does not say.
+**Legend:** 🛂 does **not** sponsor visas · 🇺🇸 requires US citizenship · 🌏 sponsorship available — each read from the posting's own text. No marker means neither source says anything.
 
 | Company | Role | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|
@@ -17,7 +17,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | General Dynamics | Engineer - Systems Entry Level | — | Stonington, CT | — | 21d | [apply](https://careers-gdeb.icims.com/jobs/18029/engineer---systems-entry-level/job?in_iframe=1) |
 | Unitedengineparts | Junior Inventory Analyst | — | Oklahoma City, OK | — | 22d | [apply](https://unitedcareers-kirbycorp.icims.com/jobs/4564/junior-inventory-analyst/job?in_iframe=1) |
 | Na Ali'i Consulting & Sales | Junior Logistics Analyst | — | Gulfport, MS | — | 33d | [apply](https://careers-nakupuna.icims.com/jobs/7017/junior-logistics-analyst/job?in_iframe=1) |
-| GlobalFoundries | CMOS FEOL Reliability Principal Engineer (2027 New College Graduate) | 2027 | Malta, NY | — | 34d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770506005) |
+| GlobalFoundries | CMOS FEOL Reliability Principal Engineer (2027 New College Graduate) | 2027 | Malta, NY | — | 35d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770506005) |
 | Weir Minerals | Jr. Architect - Supply Chain Systems | — | Remote | — | 35d | [apply](https://weir.wd3.myworkdayjobs.com/Weir_External_Careers/job/Portland/Jr-Architect---Supply-Chain-Systems_R0039633) |
 | Royal Caribbean Group | Miami Analyst%2C Supply Chain Rotational Program %28May 2027 Grads%29 FL 33131 | 2027 | Miami, FL | — | 36d | [apply](https://jobs.royalcaribbeangroup.com/job/Miami-Analyst%2C-Supply-Chain-Rotational-Program-%28May-2027-Grads%29-FL-33131/1432448800/) |
 | Applied Materials Korea | Knowledge Management Technical Project Manager New College Graduate Bachelor S Santa Clara Ca | — | Santa Clara, CA | — | 37d | [apply](https://jobs.appliedmaterials.com/job/santa-clara/knowledge-management-technical-project-manager-new-college-graduate-bachelor-s-santa-clara-ca/95/97268438112) |
