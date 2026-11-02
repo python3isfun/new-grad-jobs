@@ -1,0 +1,34 @@
+name: A listing is wrong
+description: A link that 404s, a role that is already filled, or an employer name that looks wrong
+title: "[listing] "
+labels: ["listing"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks — these reports are the fastest way to find a crawl that has gone wrong.
+        The list is rebuilt daily, so a closed posting usually disappears on its own within a day.
+  - type: input
+    id: url
+    attributes:
+      label: The apply link from the table
+      placeholder: https://…
+    validations:
+      required: true
+  - type: dropdown
+    id: what
+    attributes:
+      label: What is wrong with it
+      options:
+        - The link 404s or goes nowhere
+        - The posting says it is closed or filled
+        - The employer name is not the company hiring
+        - The location or pay is wrong
+        - It is not an internship / new-grad role at all
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: Anything else worth knowing
