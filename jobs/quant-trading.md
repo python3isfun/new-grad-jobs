@@ -1,6 +1,6 @@
 # 📈 Quant & Trading
 
-**54 roles** · updated `2026-11-03 00:13 UTC` · [← all categories](../README.md)
+**54 roles** · updated `2026-11-03 00:52 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (3 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -60,7 +60,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Barclays Investment Bank | Banking Analyst Graduate Program 2027 Houston | 2027 | Houston, TX | — | 41d | [apply](https://search.jobs.barclays/job/houston/banking-analyst-graduate-program-2027-houston/13015/99402605584) |
 | Harlem Dowling-West Side Center for Children & Family Services | Financial Analyst Jr. | — | Dobbs Ferry, NY | — | 41d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=607935de-2b1d-458c-b855-117de5edb60d&jobId=9202064981957_1&lang=en_US) |
 | LATINO COMMUNITY DEVELOPMENT CENTER | Junior Cards Operations Analyst (Durham) | — | Durham, NC | — | 43d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4510916/367f48de-db23-4ec3-b41c-37cf7ebc7e79) |
-| TownTasks | Entry Level Mill Operations Analyst Madawaska | — | Madawaska, ME | — | 49d | [apply](https://towntasks.com/jobs/entry-level-mill-operations-analyst-madawaska-10193) |
+| TownTasks | Entry Level Mill Operations Analyst Madawaska | — | Madawaska, ME | — | 50d | [apply](https://towntasks.com/jobs/entry-level-mill-operations-analyst-madawaska-10193) |
 | EliseAI | Junior Research Scientist | — | New York , NY +1 | — | 52d | [apply](https://jobs.ashbyhq.com/eliseai/54f71abf-9184-4b4a-8d41-43ebf1600eba) |
 
 [← back to the front page](../README.md)

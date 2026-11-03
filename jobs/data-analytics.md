@@ -1,6 +1,6 @@
 # 📊 Data & Analytics
 
-**87 roles** · updated `2026-11-03 00:13 UTC` · [← all categories](../README.md)
+**87 roles** · updated `2026-11-03 00:52 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (0 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -52,7 +52,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Amentum | Financial Crimes Intelligence Analyst (Junior) | — | Vienna, VA | — | 27d | [apply](https://veterans.amentumcareers.com/jobs/financial-crimes-intelligence-analyst-junior/D25000FB46124466AD3A1F34652F2E41) |
 | Black Canyon Consulting | Junior Data Scientist | — | Bethesda, MD | — | 28d | [apply](https://job-boards.greenhouse.io/blackcanyonconsulting/jobs/8012994003) |
 | Broadridge | Junior Database Administrator | — | Newark, NJ | — | 30d | [apply](https://broadridge.wd5.myworkdayjobs.com/Careers/job/Newark-NJ/Junior-Database-Administrator_JR1086356) |
-| Sentinel Group | Junior Data Engineer | — | Wakefield, MA | $85,000–$93,000 | 30d | [apply](https://sentinelgroup.applytojob.com/apply/0RWBNqCbAy/Junior-Data-Engineer) |
+| Sentinel Group | Junior Data Engineer | — | Wakefield, MA | $85,000–$93,000 | 31d | [apply](https://sentinelgroup.applytojob.com/apply/0RWBNqCbAy/Junior-Data-Engineer) |
 | Eos Energy Enterprises | Jr. R&D Data Engineer | — | Edison, NJ | — | 31d | [apply](https://eosenergystorage.wd1.myworkdayjobs.com/EoS/job/NJ-Edison/Jr-R-D-Data-Engineer_R6114) |
 | USAA | Audit Data Analyst - Staff Auditor II (Entry Level) | — | Charlotte, NC | — | 31d | [apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Charlotte-NC---CENTS/Audit-Data-Analyst---Staff-Auditor-II--Entry-Level-_R0119714) |
 | GlobalFoundries | Business Analyst (2027 New College Graduate) | 2027 | Austin, TX | — | 31d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770505842) |

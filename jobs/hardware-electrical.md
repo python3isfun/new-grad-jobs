@@ -1,6 +1,6 @@
 # 🔌 Hardware & Electrical (ECE)
 
-**386 roles** · updated `2026-11-03 00:13 UTC` · [← all categories](../README.md)
+**386 roles** · updated `2026-11-03 00:52 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (130 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -89,7 +89,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Boeing | Manufacturing Engineer (Government Training Engineering) (Entry-Level or Associate) | — | USA - Oklahoma City, OK | — | 10d | [apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Manufacturing-Engineer--Government-Training-Engineering---Entry-Level-or-Associate-_JR2026516191-1) |
 | Kinetic Engine Systems | Junior Technical Engineer | — | Orange, CT | — | 10d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ff7ea985-f6f9-4dac-99bc-4fd5fb1eb01f&jobId=9205229723966_1&lang=en_US) |
 | WSP | Early Career Civil/Structural Transmission Line Engineer | — | Overland Park, KS | — | 10d | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98138) |
-| Amazon Lab126 | Mechatronic Apprentice I, VGT2 | — | Las Vegas, NV | — | 10d | [apply](https://www.amazon.jobs/en/jobs/10574763/mechatronic-apprentice-i-vgt2) |
+| Amazon Lab126 | Mechatronic Apprentice I, VGT2 | — | Las Vegas, NV | — | 11d | [apply](https://www.amazon.jobs/en/jobs/10574763/mechatronic-apprentice-i-vgt2) |
 | Motorola Solutions | Entry Level Control Hardware Development Engineer | — | Schaumburg, IL | — | 11d | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Entry-Level-Control-Hardware-Development-Engineer_R67706) |
 | General Dynamics Mission Systems | Junior Electrical Engineer supporting UAV program | — | Manassas, VA | — | 11d | [apply](https://careers-gdms.icims.com/jobs/75787/junior-electrical-engineer-supporting-uav-program/job?in_iframe=1) |
 | Weiss-Aug | Jr Tool Design Engineer | — | East Hanover, NJ | — | 11d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4607423/bef88ce1-8b7a-4b85-8b04-cd042b5ac1cf) |
@@ -258,7 +258,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Whole Foods Market | Cloud Hardware Development Engineer I, Annapurna Labs, Early Career - 2027 | 2027 | Austin, TX | — | 38d | [apply](https://www.amazon.jobs/en/jobs/10558923/cloud-hardware-development-engineer-i-annapurna-labs-early-career-2027) |
 | Amazon Business | Mechatronic Apprentice I | — | Wilmington, OH | — | 38d | [apply](https://www.amazon.jobs/en/jobs/10559807/mechatronic-apprentice-i) |
 | NXP Semiconductors | ENTRY LEVEL - SYSTEMS & APPLICATIONS ENGINEER | — | Austin, TX | — | 38d | [apply](https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/ENTRY-LEVEL---SYSTEMS---APPLICATIONS-ENGINEER_R-10066569) |
-| Peraton Labs | Jr./Mid-Level RF Compatibility Test Engineer - Space Programs | — | Greenbelt, MD | — | 38d | [apply](https://careers-peraton.icims.com/jobs/171268/jr.-mid-level-rf-compatibility-test-engineer---space-programs/job?in_iframe=1) |
+| Peraton Labs | Jr./Mid-Level RF Compatibility Test Engineer - Space Programs | — | Greenbelt, MD | — | 39d | [apply](https://careers-peraton.icims.com/jobs/171268/jr.-mid-level-rf-compatibility-test-engineer---space-programs/job?in_iframe=1) |
 | Boeing | Entry-Level Electrical / Wire Harness Assembly Technician | — | USA - Mesa, AZ | — | 39d | [apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Entry-Level-Electrical---Wire-Harness-Assembly-Technician_JR2026525353-2) |
 | Amazon Leo | Cloud Hardware Development Engineer I, Annapurna Labs, Early Career - 2027 | 2027 | Austin, TX | — | 39d | [apply](https://www.amazon.jobs/en/jobs/10558923/cloud-hardware-development-engineer-i-annapurna-labs-early-career-2027) |
 | Enercon Services | New Graduate- Associate Mechanical Engineer - Nuclear Power Uprate Design Team | — | Kennesaw, GA | — | 39d | [apply](https://collegecareers-enercon.icims.com/jobs/4697/login) |
@@ -326,7 +326,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Duro-Last | Bloomsdale Electrical Engineer%2C New Graduate MO 63627 | — | Bloomsdale, MO | — | 47d | [apply](https://careers.amrize.com/Amrize/job/Bloomsdale-Electrical-Engineer%2C-New-Graduate-MO-63627/1423398900/) |
 | Vanderlande | Electrical Project Engineer III - Entry Level | — | Marietta, GA | — | 48d | [apply](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-GA-USA/Senior-Electrical-Project-Engineer_JR33346) |
 | Wade Trim | Entry Level Civil/Mechanical Engineer - #3043 | — | Fort Worth, TX | — | 49d | [apply](https://jobs.lever.co/wadetrim/31517226-8d05-4221-a6db-43b6f75b8503) |
-| TownTasks | Junior Electrical Engineer Huger | — | HUGER, SC | — | 49d | [apply](https://towntasks.com/jobs/junior-electrical-engineer-huger-10258) |
+| TownTasks | Junior Electrical Engineer Huger | — | HUGER, SC | — | 50d | [apply](https://towntasks.com/jobs/junior-electrical-engineer-huger-10258) |
 | Advanced Technology and Research | Junior Mechanical Engineer | — | Bethesda, MD | $86,000–$101,000 | 50d | [apply](https://advancedtechnologyandresearchcorporation.applytojob.com/apply/nYn7rDE6n3/Junior-Mechanical-Engineer) |
 | Quantiq Partners | Hardware Developer- New Graduate | — | Chicago, IL | — | 50d | [apply](https://job-boards.greenhouse.io/quantiq/jobs/4280673009) |
 | WEISS North America | Field Service Engineer Apprentice- San Jose, CA | — | San Jose, CA | — | 50d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5787d978-09e3-4e76-af9d-c0b861ad6978&jobId=9201415166337_1&lang=en_US) |

@@ -1,6 +1,6 @@
 # 📋 Product & Program
 
-**21 roles** · updated `2026-11-03 00:13 UTC` · [← all categories](../README.md)
+**21 roles** · updated `2026-11-03 00:52 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (3 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -20,7 +20,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | GlobalFoundries | CMOS FEOL Reliability Principal Engineer (2027 New College Graduate) | 2027 | Malta, NY | — | 35d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770506005) |
 | Weir Minerals | Jr. Architect - Supply Chain Systems | — | Remote | — | 35d | [apply](https://weir.wd3.myworkdayjobs.com/Weir_External_Careers/job/Portland/Jr-Architect---Supply-Chain-Systems_R0039633) |
 | Royal Caribbean Group | Miami Analyst%2C Supply Chain Rotational Program %28May 2027 Grads%29 FL 33131 | 2027 | Miami, FL | — | 36d | [apply](https://jobs.royalcaribbeangroup.com/job/Miami-Analyst%2C-Supply-Chain-Rotational-Program-%28May-2027-Grads%29-FL-33131/1432448800/) |
-| Applied Materials Korea | Knowledge Management Technical Project Manager New College Graduate Bachelor S Santa Clara Ca | — | Santa Clara, CA | — | 37d | [apply](https://jobs.appliedmaterials.com/job/santa-clara/knowledge-management-technical-project-manager-new-college-graduate-bachelor-s-santa-clara-ca/95/97268438112) |
+| Applied Materials Korea | Knowledge Management Technical Project Manager New College Graduate Bachelor S Santa Clara Ca | — | Santa Clara, CA | — | 38d | [apply](https://jobs.appliedmaterials.com/job/santa-clara/knowledge-management-technical-project-manager-new-college-graduate-bachelor-s-santa-clara-ca/95/97268438112) |
 | LOCKHEED MARTIN | Talent Acquisition Analyst - Early Career Recruiter | — | virtual three, CO | — | 40d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477029554) |
 | MGAC | Data Center Construction- Junior to Mid Project Manager (Scheduler) | — | Richmond, VA | — | 41d | [apply](https://job-boards.greenhouse.io/mgac/jobs/4415133009) |
 | MGAC | Data Center Construction- Junior to Mid Project Manager (Electrical/Substation)) | — | Indianapolis, IN | — | 47d | [apply](https://job-boards.greenhouse.io/mgac/jobs/4408145009) |
