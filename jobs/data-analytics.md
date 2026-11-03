@@ -1,6 +1,6 @@
 # 📊 Data & Analytics
 
-**87 roles** · updated `2026-11-02 23:58 UTC` · [← all categories](../README.md)
+**87 roles** · updated `2026-11-03 00:13 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (0 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -77,7 +77,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Blue Water Thinking | Junior Data Analyst | — | Remote | — | 41d | [apply](https://job-boards.greenhouse.io/bluewaterthinking/jobs/4715460006) |
 | ERG | Entry-Level Occupational Safety and Health Data Analyst | — | Remote | — | 41d | [apply](https://jobs.lever.co/erg/26fdd838-c4ba-4538-825c-c16b36d18fe1) |
 | Interclypse | Identity and Access Management (IAM) Engineer (Junior) | — | Annapolis Junction, MD | — | 41d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4522768/6ea91ea2-804f-462b-9fd7-63453b2902ab) |
-| MACOMB | Junior Business Systems Analyst | — | MOUNT CLEMENS, MI | — | 41d | [apply](https://macombgov.wd1.myworkdayjobs.com/External/job/Department-of-Roads---Administration/Junior-Business-Systems-Analyst_R26000417) |
+| MACOMB | Junior Business Systems Analyst | — | MOUNT CLEMENS, MI | — | 42d | [apply](https://macombgov.wd1.myworkdayjobs.com/External/job/Department-of-Roads---Administration/Junior-Business-Systems-Analyst_R26000417) |
 | Altamira Technologies | Entry Level Intelligence Analyst – TS/SCI CI Poly | — | Aurora, CO | — | 42d | [apply](https://jobs.jobvite.com/altamiracorps/job/oTjtAfwZ) |
 | Astound | Junior SQL Database Administrator | — | Remote, NJ | — | 42d | [apply](https://astound.wd108.myworkdayjobs.com/Astound_Careers/job/NJ--Remote/Junior-SQL-Database-Administrator_JR-000934) |
 | SteerBridge | Junior Data Engineer | — | Vienna, VA | — | 42d | [apply](https://jobs.lever.co/steerbridge/a49cfd8c-c7ec-4378-9233-412eb16dd96a) |

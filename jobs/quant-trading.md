@@ -1,6 +1,6 @@
 # 📈 Quant & Trading
 
-**54 roles** · updated `2026-11-02 23:58 UTC` · [← all categories](../README.md)
+**54 roles** · updated `2026-11-03 00:13 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (3 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -16,7 +16,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | INSPYR Solutions | 26 160297 Junior Treasury Analyst San Antonio Tx | — | San Antonio, TX | — | 3d | [apply](https://www.inspyrsolutions.com/job/26-160297-junior-treasury-analyst-san-antonio-tx/) |
 | HarperCollins | Junior Analyst, Business Process Reengineering (NYC Hybrid) | — | New York, NY | — | 3d | [apply](https://careers-harpercollins.icims.com/jobs/5499/junior-analyst%2c-business-process-reengineering-%28nyc-hybrid%29/job?in_iframe=1) |
 | THE UPS STORE | Jr TMS Operations Analyst | — | BANGALORE SCS OFFICE NEW INBRU, IN | — | 4d | [apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---BANGALORE-SCS-OFFICE----NEW-INBRU/Jr-TMS-Operations-Analyst_R26031107) |
-| NVIDIA | Research Scientist, Electronic Design Automation - New College Grad 2026 | 2026 | Santa Clara, CA | — | 5d | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979) |
+| NVIDIA | Research Scientist, Electronic Design Automation - New College Grad 2026 | 2026 | Santa Clara, CA | — | 6d | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979) |
 | Vanguard | Fund Accounting Junior Analyst | — | Scottsdale, AZ | — | 6d | [apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Scottsdale-AZ/Fund-Accounting-Junior-Analyst_183421) |
 | Old Mission | Fundamental Research Analyst - 2027 Graduate Program - (August Start) | 2027 | Chicago, IL | — | 9d | [apply](https://jobs.ashbyhq.com/old-mission-capital/872722df-97c6-4f8f-aa45-be0dee3ea88d) |
 | Brobston Group | Junior Financial Analyst Jimmy Choo New York 6 | — | New York, NY | $75,000–$77,200 | 10d | [apply](https://brobstongroup.com/jobs/Junior-Financial-Analyst-Jimmy-Choo-New-York-6-4755) |

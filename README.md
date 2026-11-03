@@ -1,6 +1,6 @@
 # 🎓 New Grad Tech Jobs — auto-updated daily
 
-**1,123 live new-grad roles** (1,491 postings) · last updated `2026-11-02 23:58 UTC`
+**1,122 live new-grad roles** (1,490 postings) · last updated `2026-11-03 00:13 UTC`
 
 Entry-level and new-graduate roles for students finishing their degree, at employers hiring in the United States. Every listing links straight to the employer's own application page — no aggregator reposts, no dead links: postings that have closed are removed on the next update.
 
@@ -10,13 +10,13 @@ Entry-level and new-graduate roles for students finishing their degree, at emplo
 
 🔎 **Matched to your major and courses** at **[newjob.dev](https://newjob.dev?utm_source=github&utm_medium=repo&utm_campaign=listings)** — the same roles, ranked for what you study, with the campus courses each one uses.
 
-📬 **1,491 of these 1,491 postings (100%) are in neither [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships)'s nor [vanshb03](https://github.com/vanshb03/Summer2027-Internships)'s list** — matched by apply URL. This list is crawled from employers' own career sites, so it reaches the companies the community lists have not added.
+📬 **1,490 of these 1,490 postings (100%) are in neither [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships)'s nor [vanshb03](https://github.com/vanshb03/Summer2027-Internships)'s list** — matched by apply URL. This list is crawled from employers' own career sites, so it reaches the companies the community lists have not added.
 
 ## Browse by category
 
 | Category | Open roles | New this week |
 |---|---:|---:|
-| [💻 Software Engineering](jobs/software-engineering.md) | 471 | 73 |
+| [💻 Software Engineering](jobs/software-engineering.md) | 470 | 72 |
 | [📈 Quant & Trading](jobs/quant-trading.md) | 54 | 10 |
 | [🔌 Hardware & Electrical (ECE)](jobs/hardware-electrical.md) | 386 | 61 |
 | [📊 Data & Analytics](jobs/data-analytics.md) | 87 | 6 |
@@ -30,7 +30,7 @@ _Both columns count roles, deduplicated across cities._
 | Term | Roles |
 |---|---:|
 | 2026 | 37 |
-| 2027 | 91 |
+| 2027 | 90 |
 | Spring | 1 |
 | Spring 2027 | 1 |
 | Summer 2027 | 9 |
@@ -39,7 +39,7 @@ _Both columns count roles, deduplicated across cities._
 
 _Term is read from the posting title; `not stated` means the employer did not say. Terms already past are left out._
 
-Machine-readable: [`data/listings.json`](data/listings.json) — all 1,491 postings, with extra fields.
+Machine-readable: [`data/listings.json`](data/listings.json) — all 1,490 postings, with extra fields.
 
 ## 🆕 Latest 25 roles
 
@@ -108,13 +108,13 @@ At most 2 per employer, so one big hirer cannot fill the page.
 | Belay Technologies | Junior JavaScript Developer | 💻 Software Engineering | — | Fort Meade, MD | $70,000–$190,000 | 50d | [apply](https://belaytechnologies.applytojob.com/apply/nCcHbYR6PK/Junior-JavaScript-Developer) |
 | Harvey | Software Engineer, New Grad (2027) | 💻 Software Engineering | 2027 | Remote +1 | $165,000–$181,500 | 31d | [apply](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5) |
 | Chalk | Software Engineer - New Grad | 💻 Software Engineering | — | San Francisco, CA | $170,000–$180,000 | 26d | [apply](https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f) |
-| SIERRA AI | Software Engineer, Agent (New Grad 2027) | 💻 Software Engineering | 2027 | San Francisco, CA | $150,000–$180,000 | 44d | [apply](https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00) |
 | Greylock Partners | Software Engineer (Early Career) | 💻 Software Engineering | — | San Francisco, CA | $160,000–$180,000 | 45d | [apply](https://jobs.ashbyhq.com/lightfield/fc93a467-773d-4805-b342-bf470950732d) |
 | Lightfield | Software Engineer (Early Career) | 💻 Software Engineering | — | San Francisco, CA | $160,000–$180,000 | 52d | [apply](https://jobs.ashbyhq.com/Lightfield/fc93a467-773d-4805-b342-bf470950732d) |
+| Markon | Junior Software Engineer | 💻 Software Engineering | — | McLean, VA | $140,000–$170,000 | 41d | [apply](https://careers-markon.icims.com/jobs/8694/junior-software-engineer/job?in_iframe=1) |
 
 ## 📍 Top locations
 
-**CA** 160 · **VA** 112 · **TX** 111 · **MD** 60 · **NY** 56 · **CO** 42 · **FL** 32 · **GA** 30 · **IL** 30 · **OH** 30 · **NC** 29 · **NJ** 23
+**CA** 159 · **VA** 112 · **TX** 111 · **MD** 60 · **NY** 56 · **CO** 42 · **FL** 32 · **GA** 30 · **IL** 30 · **OH** 30 · **NC** 29 · **NJ** 23
 
 _70 remote · 0 postings have no location stated._
 

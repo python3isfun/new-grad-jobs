@@ -1,6 +1,6 @@
 # 🔌 Hardware & Electrical (ECE)
 
-**386 roles** · updated `2026-11-02 23:58 UTC` · [← all categories](../README.md)
+**386 roles** · updated `2026-11-03 00:13 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (130 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -57,7 +57,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Swan Heating and Air Conditioning | Electrical Apprentice | — | Loveland, CO | — | 5d | [apply](https://job-boards.greenhouse.io/swanloveland/jobs/5443851008) |
 | Gemini Motor Transport | Heartwell Electrical Apprentice Hastings Ne | — | Hastings, NE | — | 5d | [apply](https://jobs.loves.com/es/heartwell-electrical-apprentice-hastings-ne/job/496479) |
 | Love's Travel Stops | Heartwell Electrical Apprentice - Hastings, NE | — | Hastings, NE | — | 5d | [apply](https://career8.successfactors.com/careers?company=Loves&career_ns=job_application&career_job_req_id=496479) |
-| NVIDIA | Formal Verification Engineer - New College Grad 2027 | 2027 | Santa Clara, CA | — | 5d | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2027_JR2028554) |
+| NVIDIA | Formal Verification Engineer - New College Grad 2027 | 2027 | Santa Clara, CA | — | 6d | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2027_JR2028554) |
 | CannonDesign | Mechanical - Entry Level | — | Arlington, VA +3 | — | 6d | [apply](http://www.cannondesign.com/careers/?gh_jid=8920332002) |
 | GlobalFoundries | Electrical Test Engineer, Wafer Test (2027 New College Graduate) | 2027 | Essex, VT | — | 6d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770506421) |
 | RBC Aerostructures | Associate Manufacturing Engineer Trainee | — | Westminster, SC | — | 6d | [apply](https://recruiting.ultipro.com/ROL1001RBCAI/JobBoard/323503a8-be53-4e45-a425-31ab5d011434/OpportunityDetail?opportunityId=7b37b9f3-6da1-4848-825a-44c61bee6ca5) |
@@ -148,8 +148,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Mister Sparky of Mid America | Electrical Apprentice | — | Kansas City, MO | — | 19d | [apply](https://mister-sparky-careers.careerplug.com/jobs/3642112) |
 | NVIDIA | SRAM Circuit Design Engineer - New College Grad 2026 | 2026 | Santa Clara, CA | — | 19d | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SRAM-Circuit-Design-Engineer---New-College-Grad-2026_JR2027839) |
 | NVIDIA | ASIC Verification Engineer - New College Grad 2027 | 2027 | Santa Clara, CA +1 | — | 19d | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2027_JR2027719) |
-| Power Design | Electrical Trainee | — | Nashville Metro Area, TN +1 | — | 19d | [apply](https://powerdesigninc.wd5.myworkdayjobs.com/PDI/job/TN-Nashville-Metro-Area/Electrical-Trainee_R12784-1) |
-| Bolt Power DBA Tardif Electric | Electrical Trainee | — | Nashville Metro Area, TN +1 | — | 19d | [apply](https://powerdesigninc.wd5.myworkdayjobs.com/pdi/job/TN-Nashville-Metro-Area/Electrical-Trainee_R12784-1) |
+| Power Design | Electrical Trainee | — | Nashville Metro Area, TN +1 | — | 20d | [apply](https://powerdesigninc.wd5.myworkdayjobs.com/PDI/job/TN-Nashville-Metro-Area/Electrical-Trainee_R12784-1) |
+| Bolt Power DBA Tardif Electric | Electrical Trainee | — | Nashville Metro Area, TN +1 | — | 20d | [apply](https://powerdesigninc.wd5.myworkdayjobs.com/pdi/job/TN-Nashville-Metro-Area/Electrical-Trainee_R12784-1) |
 | Gotion | Junior Equipment Engineer | — | Manteno, IL | — | 20d | [apply](https://job-boards.greenhouse.io/gotion/jobs/8885694002) |
 | NVIDIA | Formal Verification Engineer - New College Grad 2026 | 2026 | Santa Clara, CA | — | 20d | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2007627) |
 | IMEG | Electrical Engineering New Graduate \| Melbourne, FL | — | Melbourne, FL | — | 20d | [apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Melbourne-FL/Electrical-Engineering-New-Graduate---Melbourne--FL_R-16883) |
@@ -248,7 +248,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Optimal Staffing | Automotive Entry Level Patent Engineer | — | Superior Charter Twp, MI | — | 35d | [apply](https://www.optimal-staffing.com/job/2376/automotive_entry_level_patent_engineer) |
 | Peraton | Jr./Entry Level RF Compatibility Test Engineer - Space Programs | — | Greenbelt, MD | — | 35d | [apply](https://careers-peraton.icims.com/jobs/171287/jr.-entry-level-rf-compatibility-test-engineer---space-programs/job?in_iframe=1) |
 | General Dynamics | Payload Launch Control Systems Engineer - Entry Level | — | Groton, CT | — | 35d | [apply](https://careers-gdeb.icims.com/jobs/18875/payload-launch-control-systems-engineer---entry-level/job?in_iframe=1) |
-| NIKSUN | Junior Engineer, Products (Python) | — | Princeton, NJ | — | 35d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=93255b69-ce44-4514-81d7-ad6c3af766a4&jobId=9206126317777_1&lang=en_US) |
+| NIKSUN | Junior Engineer, Products (Python) | — | Princeton, NJ | — | 36d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=93255b69-ce44-4514-81d7-ad6c3af766a4&jobId=9206126317777_1&lang=en_US) |
 | Hays Electrical Services | Electrical Apprentice | — | LA | $18.00/hr–$37.00/hr | 36d | [apply](https://hayselectricalservices.applytojob.com/apply/KTuiBzHENN/Electrical-Apprentice) |
 | Hankook | Industrial Engineer (Entry Level) | — | Clarksville, TN | — | 37d | [apply](https://careers-hankooktire.breezy.hr/p/b5d1fa945ed3-industrial-engineer-entry-level) |
 | Boeing | Entry Level Electrical Design Engineer | — | USA - Hazelwood, MO | — | 38d | [apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Entry-Level-Electrical-Design-Engineer_JR2026521869-1) |
@@ -279,7 +279,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | SEnergy | Entry Level Electrical Engineer - System Planning | — | Boerne, TX | — | 40d | [apply](https://schneiderengineering.applytojob.com/apply/XYdmfr1Kwv/Entry-Level-Electrical-Engineer-System-Planning) |
 | HNTB | New Grad Electrical Engineering I (2027) | 2027 | Bellevue, WA | — | 40d | [apply](https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Bellevue-WA-Seattle/New-Grad-Electrical-Engineering-I--2027-_R-31682-1) |
 | Posimech | Job Shop Junior Manufacturing Process Engineer | — | Medford, NY | — | 40d | [apply](https://posimech-inc.careerplug.com/jobs/3609382) |
-| Boeing | Air Proprietary Tooling Engineer (Entry-Level or Associate) | — | USA - Berkeley, MO | — | 40d | [apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Air-Proprietary-Tooling-Engineer--Entry-Level-or-Associate-_JR2026524778) |
+| Boeing | Air Proprietary Tooling Engineer (Entry-Level or Associate) | — | USA - Berkeley, MO | — | 41d | [apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Air-Proprietary-Tooling-Engineer--Entry-Level-or-Associate-_JR2026524778) |
 | Loenbro | Electrical Apprentice | — | Douglas, WY | — | 41d | [apply](https://job-boards.greenhouse.io/loenbro/jobs/4410293009) |
 | Amazon Leo | Mechatronic Apprentice I, FSD1 - RME - Var | — | Sioux Falls, SD | — | 41d | [apply](https://www.amazon.jobs/en/jobs/10512668/mechatronic-apprentice-i-fsd1-rme-var) |
 | KEP Electric/ IES RESIDENTIAL | Apprentice Electrical DOL- San Antonio, TX | — | San Antonio, TX | — | 41d | [apply](https://careers-ieselectrical.icims.com/jobs/24114/login) |
@@ -303,7 +303,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | REV Group | Holden Mechanical Engineer Entry Level LA 70744 | — | Holden, LA | — | 42d | [apply](https://careers.revgroup.com/job/Holden-Mechanical-Engineer-Entry-Level-LA-70744/1432017700/) |
 | GFT | Entry Level Substation Engineer | — | St. Louis, MO | — | 42d | [apply](https://careers-gannettfleming.icims.com/jobs/14756/entry-level-substation-engineer/job?in_iframe=1) |
 | NDI Engineering | Junior Electrical Engineer | — | Philadelphia, PA | $60,000–$70,000 | 42d | [apply](https://ndiengineering.applytojob.com/apply/932M0I1Ito/Junior-Electrical-Engineer) |
-| General Dynamics Mission Systems | Electrical Test Engineer - Entry Level 🇺🇸 | — | Pittsfield, MA | — | 42d | [apply](https://careers-gdms.icims.com/jobs/74927/electrical-test-engineer---entry-level/job?in_iframe=1) |
+| General Dynamics Mission Systems | Electrical Test Engineer - Entry Level 🇺🇸 | — | Pittsfield, MA | — | 43d | [apply](https://careers-gdms.icims.com/jobs/74927/electrical-test-engineer---entry-level/job?in_iframe=1) |
 | Thorson • Baker + Associates | Mechanical Design Engineer- Entry Level | — | Richfield, OH | — | 43d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4205502/f94a3e28-139e-4717-8843-0600b13c9567) |
 | NIKSUN | Junior Engineer, FPGA | — | Princeton, NJ | — | 43d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=93255b69-ce44-4514-81d7-ad6c3af766a4&jobId=9206271546502_1&lang=en_US) |
 | Thorson • Baker + Associates | Electrical Design Engineer- Entry Level | — | Richfield, OH +1 | — | 43d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/3649212/f94a3e28-139e-4717-8843-0600b13c9567) |

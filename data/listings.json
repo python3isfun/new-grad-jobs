@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-02T23:58:44.631342+00:00",
- "count": 1491,
+ "generated_at": "2026-11-03T00:13:33.350778+00:00",
+ "count": 1490,
  "segment": "new_grad",
  "source": "employer career-site crawl + O*NET occupation coding (newjob.dev)",
  "listings": [
@@ -27040,26 +27040,6 @@
    "posted": null,
    "term": null,
    "evidence": "Part-Time Junior IT Specialist",
-   "classifier": "onet-occupation",
-   "visa": "",
-   "h1b_approvals_latest_fy": null
-  },
-  {
-   "title": "Software Engineer, Agent (New Grad 2027)",
-   "company": "SIERRA AI",
-   "employer_id": "sierra-ai",
-   "city": "San Francisco",
-   "state": "CA",
-   "remote": false,
-   "profession": "software",
-   "salary_min": 150000.0,
-   "salary_max": 180000.0,
-   "salary_unit": "year",
-   "apply_url": "https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00",
-   "first_seen": "2026-09-19T00:05:01.662000+00:00",
-   "posted": "2026-08-31T17:54:40.218000+00:00",
-   "term": "2027",
-   "evidence": "Software Engineer, Agent (New Grad 2027)",
    "classifier": "onet-occupation",
    "visa": "",
    "h1b_approvals_latest_fy": null
