@@ -1,6 +1,6 @@
 # 📈 Quant & Trading
 
-**53 roles** · updated `2026-11-03 01:02 UTC` · [← all categories](../README.md)
+**54 roles** · updated `2026-11-03 03:34 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (3 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -8,7 +8,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 
 | Company | Role | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|
-| Centennial Technologies | Jr. Financial Analyst | — | VA | — | today | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4390796/6e15f830-9542-464b-9137-7f4f78e2e720) |
+| Coborn's | Financial Analyst - Entry Level | — | St. Cloud, MN | — | today | [apply](https://careers.cobornsinc.com/jobs/35739?lang=en-us) |
+| Centennial Technologies | Jr. Financial Analyst | — | VA | — | 1d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4390796/6e15f830-9542-464b-9137-7f4f78e2e720) |
 | Systems Planning & Analysis | Operations Research Analyst - Junior/Journeyman | — | Chantilly, VA | — | 2d | [apply](https://careers-spa.icims.com/jobs/23658/login) |
 | Systems Planning & Analysis | Jr. Operations Research Analyst | — | Alexandria, VA | — | 2d | [apply](https://careers-spa.icims.com/jobs/22873/login) |
 | Systems Planning & Analysis | Jr. Military Operations Analyst | — | Alexandria, VA | — | 2d | [apply](https://careers-spa.icims.com/jobs/23725/login) |
@@ -21,7 +22,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Old Mission | Fundamental Research Analyst - 2027 Graduate Program - (August Start) | 2027 | Chicago, IL | — | 9d | [apply](https://jobs.ashbyhq.com/old-mission-capital/872722df-97c6-4f8f-aa45-be0dee3ea88d) |
 | Brobston Group | Junior Financial Analyst Jimmy Choo New York 6 | — | New York, NY | $75,000–$77,200 | 10d | [apply](https://brobstongroup.com/jobs/Junior-Financial-Analyst-Jimmy-Choo-New-York-6-4755) |
 | LexisNexis | Financial Analyst Rotational Program | — | Dayton, OH | — | 11d | [apply](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Dayton-OH/Financial-Analyst-Rotational-Program_R119866) |
-| Softrams | Business Process Specialist (Junior Program Analyst) | — | Falls Church, VA | — | 11d | [apply](https://triafed.com/jobs/?gh_jid=5461486008) |
+| Tria Federal | Business Process Specialist (Junior Program Analyst) | — | Falls Church, VA | — | 11d | [apply](https://triafed.com/jobs/?gh_jid=5461486008) |
 | Riverside Research | Junior Research Scientist - Security Engineering | — | Beavercreek, OH | — | 12d | [apply](https://careers-riversideresearch.icims.com/jobs/4431/junior-research-scientist---security-engineering/job?in_iframe=1) |
 | Eureka College | Associate Finance Analyst, University Graduate | — | Chicago, IL +1 | — | 12d | [apply](https://www.google.com/about/careers/applications/jobs/results/76356752739574470) |
 | University of Virginia's College at Wise | JR. FINANCIAL ANALYST - SAN FRANCISCO, CA | — | San Francisco, CA | — | 13d | [apply](https://career8.successfactors.com/career?company=CGNA&career_job_req_id=1583406&career_ns=job_listing&navBarLevel=JOB_SEARCH&_appTemplateId=1733) |
@@ -53,11 +54,11 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Oliver James | Junior Digital Finance Analyst | — | Remote | $60,000–$65,000 | 37d | [apply](https://www.oliverjames.com/en/jobs/junior-digital-finance-analyst-14648/) |
 | Drummac | Junior Financial Analyst | — | Seattle, WA | — | 37d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7c116ec3-ef0f-42e8-8bf0-491739a45ba3&jobId=9203170551104_1&lang=en_US) |
 | Unitedengineparts | Jr. Pricing Analyst | — | Houston, TX | — | 38d | [apply](https://unitedcareers-kirbycorp.icims.com/jobs/4501/jr.-pricing-analyst/job?in_iframe=1) |
-| Novogradac | Junior Real Estate Analyst | — | Dallas, TX | — | 39d | [apply](https://novoco.wd108.myworkdayjobs.com/novogradac/job/Dallas-TX/Junior-Real-Estate-Analyst_JR100487) |
+| Novogradac | Junior Real Estate Analyst | — | Dallas, TX | — | 40d | [apply](https://novoco.wd108.myworkdayjobs.com/novogradac/job/Dallas-TX/Junior-Real-Estate-Analyst_JR100487) |
 | BANNER MEDICAL GROUP COLORADO | Junior Actuarial Analyst | — | Remote | — | 40d | [apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/Junior-Actuarial-Analyst_R4454750) |
 | United Airlines | Senior Analyst Financial Planning And Analysis Campus 2027 Hires New Grads | 2027 | Chicago, IL | — | 41d | [apply](https://careers.united.com/us/en/job/WHQ00026677/Senior-Analyst-Financial-Planning-and-Analysis-Campus-2027-Hires-New-Grads) |
 | Barclays Investment Bank | Banking Analyst Graduate Program 2027 Houston | 2027 | Houston, TX | — | 41d | [apply](https://search.jobs.barclays/job/houston/banking-analyst-graduate-program-2027-houston/13015/99402605584) |
-| Harlem Dowling-West Side Center for Children & Family Services | Financial Analyst Jr. | — | Dobbs Ferry, NY | — | 41d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=607935de-2b1d-458c-b855-117de5edb60d&jobId=9202064981957_1&lang=en_US) |
+| Harlem Dowling-West Side Center for Children & Family Services | Financial Analyst Jr. | — | Dobbs Ferry, NY | — | 42d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=607935de-2b1d-458c-b855-117de5edb60d&jobId=9202064981957_1&lang=en_US) |
 | LATINO COMMUNITY DEVELOPMENT CENTER | Junior Cards Operations Analyst (Durham) | — | Durham, NC | — | 43d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4510916/367f48de-db23-4ec3-b41c-37cf7ebc7e79) |
 | TownTasks | Entry Level Mill Operations Analyst Madawaska | — | Madawaska, ME | — | 50d | [apply](https://towntasks.com/jobs/entry-level-mill-operations-analyst-madawaska-10193) |
 | EliseAI | Junior Research Scientist | — | New York , NY +1 | — | 52d | [apply](https://jobs.ashbyhq.com/eliseai/54f71abf-9184-4b4a-8d41-43ebf1600eba) |

@@ -1,6 +1,6 @@
 # 📋 Product & Program
 
-**21 roles** · updated `2026-11-03 01:02 UTC` · [← all categories](../README.md)
+**21 roles** · updated `2026-11-03 03:34 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (3 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -8,13 +8,13 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 
 | Company | Role | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|
-| General Dynamics | Entry Level Engineer- Systems - Hull Planning Yard | — | Groton, CT | — | 7d | [apply](https://careers-gdeb.icims.com/jobs/21160/entry-level-engineer--systems---hull-planning-yard/job?in_iframe=1) |
+| General Dynamics | Entry Level Engineer- Systems - Hull Planning Yard | — | Groton, CT | — | 8d | [apply](https://careers-gdeb.icims.com/jobs/21160/entry-level-engineer--systems---hull-planning-yard/job?in_iframe=1) |
 | UICGS / Bowhead Family of Companies | Junior Systems/ S&amp;T Engineer | — | Stafford, VA | $75,000–$90,000 | 10d | [apply](https://bowheadcareers-uicalaska.icims.com/jobs/26403/junior-systems--s%26t-engineer/job?in_iframe=1) |
 | Torch Technologies | Missile Defense Systems Engineer/Analyst-Entry Level | — | Huntsville, AL | — | 12d | [apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Missile-Defense-Systems-Engineer-Analyst-Entry-Level_R2071) |
 | MGAC | Data Center Construction- Junior to Mid Project Manager (Cost) | — | Fort Wayne, IN +1 | — | 13d | [apply](https://job-boards.greenhouse.io/mgac/jobs/4458889009) |
 | MGAC | Data Center Construction- Junior to Mid Project Manager | — | Raleigh, NC +2 | — | 17d | [apply](https://job-boards.greenhouse.io/mgac/jobs/4095220009) |
 | Linesight | Cost Engineer (Recent Graduate) | — | Milwaukee, WI | — | 21d | [apply](https://careers-linesight.icims.com/jobs/6337/cost-engineer-%28recent-graduate%29/job?in_iframe=1) |
-| General Dynamics | Engineer - Systems Entry Level | — | Stonington, CT | — | 21d | [apply](https://careers-gdeb.icims.com/jobs/18029/engineer---systems-entry-level/job?in_iframe=1) |
+| General Dynamics | Engineer - Systems Entry Level | — | Stonington, CT | — | 22d | [apply](https://careers-gdeb.icims.com/jobs/18029/engineer---systems-entry-level/job?in_iframe=1) |
 | Unitedengineparts | Junior Inventory Analyst | — | Oklahoma City, OK | — | 22d | [apply](https://unitedcareers-kirbycorp.icims.com/jobs/4564/junior-inventory-analyst/job?in_iframe=1) |
 | Na Ali'i Consulting & Sales | Junior Logistics Analyst | — | Gulfport, MS | — | 33d | [apply](https://careers-nakupuna.icims.com/jobs/7017/junior-logistics-analyst/job?in_iframe=1) |
 | GlobalFoundries | CMOS FEOL Reliability Principal Engineer (2027 New College Graduate) | 2027 | Malta, NY | — | 35d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770506005) |
