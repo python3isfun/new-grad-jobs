@@ -1,6 +1,6 @@
 # 📈 Quant & Trading
 
-**54 roles** · updated `2026-11-03 00:52 UTC` · [← all categories](../README.md)
+**53 roles** · updated `2026-11-03 01:02 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (3 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -23,19 +23,18 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | LexisNexis | Financial Analyst Rotational Program | — | Dayton, OH | — | 11d | [apply](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Dayton-OH/Financial-Analyst-Rotational-Program_R119866) |
 | Softrams | Business Process Specialist (Junior Program Analyst) | — | Falls Church, VA | — | 11d | [apply](https://triafed.com/jobs/?gh_jid=5461486008) |
 | Riverside Research | Junior Research Scientist - Security Engineering | — | Beavercreek, OH | — | 12d | [apply](https://careers-riversideresearch.icims.com/jobs/4431/junior-research-scientist---security-engineering/job?in_iframe=1) |
-| Google | Associate Finance Analyst, University Graduate | — | Chicago, IL +1 | — | 12d | [apply](https://www.google.com/about/careers/applications/jobs/results/76356752739574470) |
+| Eureka College | Associate Finance Analyst, University Graduate | — | Chicago, IL +1 | — | 12d | [apply](https://www.google.com/about/careers/applications/jobs/results/76356752739574470) |
 | University of Virginia's College at Wise | JR. FINANCIAL ANALYST - SAN FRANCISCO, CA | — | San Francisco, CA | — | 13d | [apply](https://career8.successfactors.com/career?company=CGNA&career_job_req_id=1583406&career_ns=job_listing&navBarLevel=JOB_SEARCH&_appTemplateId=1733) |
 | Citi One Realty | Market Operations Junior Analyst Program Hybrid | — | Getzville, NY | — | 14d | [apply](https://jobs.citi.com/job/getzville/market-operations-junior-analyst-program-hybrid/287/102161073776) |
 | 84 Lumber | Junior Financial Analyst-Store Finance | — | Eighty Four, PA | — | 14d | [apply](https://careers-84lumber.icims.com/jobs/26205/login) |
 | FLEX College Prep | Operations Analyst – Early Career Opportunity | — | Cupertino, CA | — | 14d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4593975/075fc46e-868c-4b73-8a90-c444c913d0bc) |
-| Aero Automatic Sprinkler | Grapevine Finance Analyst MEC Transportation %28Entry Level%29 TX | — | Grapevine, TX | — | 18d | [apply](https://kiewitcareers.kiewit.com/MEC/job/Grapevine-Finance-Analyst-MEC-Transportation-%28Entry-Level%29-TX/1440438000/) |
+| Healy Tibbitts Builders | Grapevine Finance Analyst MEC Transportation %28Entry Level%29 TX | — | Grapevine, TX | — | 18d | [apply](https://kiewitcareers.kiewit.com/MEC/job/Grapevine-Finance-Analyst-MEC-Transportation-%28Entry-Level%29-TX/1440438000/) |
 | Johnson Controls | Pricing Analyst - Rotational Program | — | Milwaukee, WI | — | 18d | [apply](https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Pricing-Analyst---Rotational-Program_WD30281515) |
 | QinetiQ US | Operations Analyst - Jr | — | Virginia Beach, VA | — | 19d | [apply](https://careers-qinetiqus.icims.com/jobs/12349/operations-analyst---jr/job?in_iframe=1) |
 | Healy Tibbitts Builders | Westlake Finance Analyst South Central District %28Entry Level%29 TX | — | Westlake, TX | — | 21d | [apply](https://kiewitcareers.kiewit.com/job/Westlake-Finance-Analyst-South-Central-District-%28Entry-Level%29-TX/1439056700/) |
 | AKAM | Jr. Property Accounting Analyst (Lake Success, NY) | — | New York, NY | — | 26d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e4f8b9ad-dfe3-4e97-9504-6afef1e3281f&jobId=9203174477690_1&lang=en_US) |
 | Milliman | Actuarial Analyst – New Graduate – Chicago Life, FRM, LAPA, and LTS Practices | — | Chicago, IL | — | 26d | [apply](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=3c1c06b8-581c-4189-93fc-90311d007ecb) |
 | San Francisco Municipal Transportation Agency | IT Operations Support Apprentice (1090) - Innovation & Technology - SFO | — | San Francisco, CA | — | 26d | [apply](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990015957484) |
-| DEPT® | IT Operations Support Apprentice (1090) - Innovation & Technology - SFO | — | San Francisco, CA | — | 26d | [apply](https://jobs.smartrecruiters.com/cityandcountyofsanfrancisco1/3743990015957484) |
 | Great American Insurance Group | Actuarial Trainee- 2027 Graduate Development Program | 2027 | Richfield, OH | — | 27d | [apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Richfield-OH-USA/Actuarial-Trainee--2027-Graduate-Development-Program_R9666-1) |
 | Praxis Engineering | Cyber Risk Management Analyst Junior | — | Ashburn, VA | — | 27d | [apply](https://www.gdit.com/careers/job/c4bc2cb33/cyber-risk-management-analyst-junior/) |
 | Cayuse Native Hawaiian Veterans | Operations Analyst-Junior | — | Washington, DC | $87,500–$95,000 | 27d | [apply](https://careers-cayuseholdings.icims.com/jobs/4608/operations-analyst-junior/job?in_iframe=1) |
@@ -44,8 +43,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | NVIDIA | Research Scientist, Fundamental Generative AI - New College Grad 2026 | 2026 | Santa Clara, CA | — | 31d | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) |
 | TTM | Junior level Oracle Business System Analyst (Order Management and Supply Chain) | — | Remote | — | 32d | [apply](https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Remote---Utah/Junior-level-Oracle-Business-System-Analyst--Order-Management-and-Supply-Chain-_R18198) |
 | LOCKHEED MARTIN | Strategic Operations Research Analyst Associate - Early Career | — | King of Prussia, PA +1 | — | 32d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477055843) |
-| Aero Automatic Sprinkler | Waltham Finance Analyst MEC Industrial %28Entry Level%29 MA 02451 | — | Waltham, MA | — | 33d | [apply](https://kiewitcareers.kiewit.com/MEC/job/Waltham-Finance-Analyst-MEC-Industrial-%28Entry-Level%29-MA-02451/1435587500/) |
-| Aero Automatic Sprinkler | Lone Tree Finance Analyst Central District %28Entry Level%29 CO 80112 | — | Lone Tree, CO | — | 33d | [apply](https://kiewitcareers.kiewit.com/job/Lone-Tree-Finance-Analyst-Central-District-%28Entry-Level%29-CO-80112/1418332200/) |
+| Healy Tibbitts Builders | Waltham Finance Analyst MEC Industrial %28Entry Level%29 MA 02451 | — | Waltham, MA | — | 33d | [apply](https://kiewitcareers.kiewit.com/MEC/job/Waltham-Finance-Analyst-MEC-Industrial-%28Entry-Level%29-MA-02451/1435587500/) |
+| Healy Tibbitts Builders | Lone Tree Finance Analyst Central District %28Entry Level%29 CO 80112 | — | Lone Tree, CO | — | 33d | [apply](https://kiewitcareers.kiewit.com/job/Lone-Tree-Finance-Analyst-Central-District-%28Entry-Level%29-CO-80112/1418332200/) |
 | LOCKHEED MARTIN | Strategic Operations Research Analyst Asc - Early Career 🇺🇸 | — | Palmdale, CA | — | 33d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996476592555) |
 | LOCKHEED MARTIN | Strategic Operations Research Analyst - Early Career 🇺🇸 | — | Palmdale, CA | — | 33d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996476592528) |
 | AMERICAN SYSTEMS | Operations Research Analyst, Junior | — | Arlington, VA | $80,000–$115,000 | 33d | [apply](https://careers-americansystems.icims.com/jobs/5007/operations-research-analyst%2c-junior/job?in_iframe=1) |

@@ -1,6 +1,6 @@
 # 🖥️ IT & Infrastructure
 
-**104 roles** · updated `2026-11-03 00:52 UTC` · [← all categories](../README.md)
+**104 roles** · updated `2026-11-03 01:02 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (13 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 

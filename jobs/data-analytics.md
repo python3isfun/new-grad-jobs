@@ -1,6 +1,6 @@
 # 📊 Data & Analytics
 
-**87 roles** · updated `2026-11-03 00:52 UTC` · [← all categories](../README.md)
+**87 roles** · updated `2026-11-03 01:02 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (0 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -90,7 +90,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Expression Networks | Junior Data Engineer (DEA) | — | Arlington, VA | — | 50d | [apply](https://expression-networks.breezy.hr/p/7290840a45a5-junior-data-engineer-dea) |
 | JMJ Phillip Group | Junior Business Analyst Job Opening Detroit Michigan 2 | — | Detroit, MI | — | 51d | [apply](https://jmjphillip.com/jobs/2023/09/09/junior-business-analyst-job-opening-detroit-michigan-2/) |
 | JMJ Phillip Group | Junior Business Analyst Job Opening Detroit Michigan | — | Detroit, MI | — | 51d | [apply](https://jmjphillip.com/jobs/2023/09/09/junior-business-analyst-job-opening-detroit-michigan/) |
-| Accenture Federal Services | Jr. Data Scientist | — | Annapolis Junction, MD | — | 51d | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4689012006?gh_jid=4689012006) |
+| ASM Research, An Accenture Federal Services | Jr. Data Scientist | — | Annapolis Junction, MD | — | 51d | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4689012006?gh_jid=4689012006) |
 | Trellance Cooperative | ProBridge \| Junior Snowflake Database Administrator | — | San Antonio, TX | — | 51d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d6cb9e80-f827-43e7-8834-84752ac03f5a&jobId=9202446972229_1&lang=en_US) |
 | Allied Universal Compliance and Investigations | Junior Intelligence Analyst | — | Peachtree Corners, GA | — | 51d | [apply](https://jobs.aus.com/job/peachtree-corners/junior-intelligence-analyst/22950/99997882864) |
 | VeriiPro | Junior Data Engineer Job Full Time At Techvilla Solutions In Plano Texas | — | Plano, TX | — | 52d | [apply](https://veriipro.com/job/junior-data-engineer-job-full-time-at-techvilla-solutions-in-plano-texas-21770/) |

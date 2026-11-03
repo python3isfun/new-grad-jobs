@@ -1,6 +1,6 @@
 # 💻 Software Engineering
 
-**471 roles** · updated `2026-11-03 00:52 UTC` · [← all categories](../README.md)
+**459 roles** · updated `2026-11-03 01:02 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (45 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -12,7 +12,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Integration Innovation | Junior Machine Learning Engineer | — | Arlington, VA | — | today | [apply](https://careers-i3-corps.icims.com/jobs/5417/junior-machine-learning-engineer/job?in_iframe=1) |
 | BGIS | Jr Data Center Technician | — | Phoenix, AZ | — | today | [apply](https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/234043) |
 | Cherokee Federal | Jr Maintenance Developer | — | Baltimore, MD | — | today | [apply](https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/44210) |
-| Google | Software Engineer II, Early Career | — | Mountain View, CA | — | today | [apply](https://www.google.com/about/careers/applications/jobs/results/109116638069957318) |
+| Raxium | Software Engineer II, Early Career | — | Mountain View, CA | — | today | [apply](https://www.google.com/about/careers/applications/jobs/results/109116638069957318) |
 | LOCKHEED MARTIN | Software Engineer - Early Career | — | Huntsville, AL +10 | — | today | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477286175) |
 | Valiant Solutions | Penetration Tester (Junior) 🇺🇸 | — | Remote | — | 1d | [apply](https://careers-valiantsolutions.icims.com/jobs/7771/penetration-tester-%28junior%29/job?in_iframe=1) |
 | RAYTHEON | Entry Level Software Developer Application Support Sustainment Remote | — | cedar rapids, IA | — | 1d | [apply](https://careers.rtx.com/pl/pl/job/01885356/Entry-Level-Software-Developer-Application-Support-Sustainment-Remote) |
@@ -52,7 +52,6 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Analog Devices | Associate Field Applications Engineer (Sales Rotational Program) | — | San Diego Avenue of Science, CA | — | 3d | [apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Diego-Avenue-of-Science/Associate-Field-Applications-Engineer--Sales-Rotational-Program-_R267389-1) |
 | Rendezvous Robotics | Flight Software Engineer (Early Career) | — | Golden, CO | — | 4d | [apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4464270009) |
 | Interco | Junior Software Developer | — | St. Louis, MO | — | 4d | [apply](https://jobs.smartrecruiters.com/Interco/744000158582219) |
-| Northwood | Software Engineer, Platform (Early Career) | — | Los Angeles, CA, CA | $123,000–$140,000 | 4d | [apply](https://jobs.ashbyhq.com/NorthwoodSpace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6) |
 | Northwood Space | Software Engineer, Platform (Early Career) | — | Los Angeles, CA, CA | $123,000–$140,000 | 4d | [apply](https://jobs.ashbyhq.com/northwoodspace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6) |
 | GlobalFoundries | Software Engineer (2027 New College Graduate) | 2027 | Santa Clara, CA +1 | — | 4d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770505818) |
 | Torch Technologies | Entry-Level Systems Test Engineer | — | Huntsville, AL | — | 4d | [apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Level-Systems-Test-Engineer_R2137) |
@@ -252,19 +251,15 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Amentum | Junior Software Developer | — | Dahlgren, VA | — | 29d | [apply](https://veterans.amentumcareers.com/jobs/junior-software-developer/870F3AA80F3145268915689684485308) |
 | Veradigm® | Entry Level Salesforce Engineer | — | Remote | — | 29d | [apply](https://veradigm.wd12.myworkdayjobs.com/VR/job/Remote---US/Entry-Level-Salesforce-Engineer_JR11088) |
 | Citi One Realty | Junior Generative Ai Application Developer | — | Irving, TX | — | 30d | [apply](https://jobs.citi.com/job/irving/junior-generative-ai-application-developer/287/94846498992) |
-| One Medical | Software Development Engineer, ROBOTICS, Early Career - 2027 | 2027 | North Reading, MA | — | 30d | [apply](https://www.amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027) |
+| Whole Foods Market | Software Development Engineer, ROBOTICS, Early Career - 2027 | 2027 | North Reading, MA | — | 31d | [apply](https://www.amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027) |
 | SERVICENOW | Software Engineer, Core Infrastructure - Moveworks (New Grad) | — | Mountain View, CA | — | 31d | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000153279380) |
 | Broadridge | Junior Full Stack Software Engineer (Hybrid) | — | Newark, NJ | — | 31d | [apply](https://broadridge.wd5.myworkdayjobs.com/Careers/job/Newark-NJ/Full-Stack-Software-Engineer--Hybrid-_JR1086388) |
 | Harvey | Software Engineer, New Grad (2027) | 2027 | Remote +1 | $165,000–$181,500 | 31d | [apply](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5) |
 | STC, an Arcfield | NAVSEA Risk Management Frame (RMF) Information Systems Security Engineer (ISSE) Junior-Mid Role | — | Newport, RI | — | 31d | [apply](https://careers-arcfield1.icims.com/jobs/8729/login) |
 | Brobston Group | Junior Site Reliability Engineer Nordstrom Seattle C 4a9a | — | Seattle, WA | $104,500–$162,500 | 31d | [apply](https://brobstongroup.com/jobs/Junior-Site-Reliability-Engineer-Nordstrom-Seattle-c-4a9a) |
 | ECLARO | Jr Functional Tester | — | New York, NY | — | 31d | [apply](https://www.careers-eclaro.com/job/6257/jr_functional_tester) |
-| Amazon Lab126 | Software Development Engineer, ROBOTICS, Early Career - 2027 | 2027 | North Reading, MA | — | 31d | [apply](https://www.amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027) |
-| Whole Foods Market | Software Development Engineer, ROBOTICS, Early Career - 2027 | 2027 | North Reading, MA | — | 31d | [apply](https://www.amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027) |
-| Amazon Leo | Software Development Engineer, ROBOTICS, Early Career - 2027 | 2027 | North Reading, MA | — | 31d | [apply](https://www.amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027) |
-| Caravan Foods | Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026, Amazon Dedicated Cloud (ADC) | 2026 | Seattle, WA | — | 31d | [apply](https://www.amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc) |
+| Whole Foods Market | Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026, Amazon Dedicated Cloud (ADC) | 2026 | Seattle, WA | — | 49d | [apply](https://www.amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc) |
 | Boeing | Entry Level Systems Engineer-Digital Signal Processing 🇺🇸 | — | USA - El Segundo, CA | — | 31d | [apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-Systems-Engineer-Digital-Signal-Processing_JR2026525936-1) |
-| Caravan Foods | Software Development Engineer, ROBOTICS, Early Career - 2027 | 2027 | North Reading, MA | — | 32d | [apply](https://www.amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027) |
 | Cherokee Federal | Junior Cyber Analyst | — | Quantico, VA | — | 32d | [apply](https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/43894) |
 | Praxis Engineering | Junior Systems Engineer W 1 Day Telework | — | Annapolis Junction, MD | — | 32d | [apply](https://www.gdit.com/careers/job/1868b9ba6/junior-systems-engineer-w-1-day-telework/) |
 | Peraton Labs | Junior Linux Systems Engineer / Active TS/SCI | — | Washington, DC | — | 32d | [apply](https://careers-peraton.icims.com/jobs/170135/junior-linux-systems-engineer---active-ts-sci/job?in_iframe=1) |
@@ -373,17 +368,13 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Maveris | Junior Full Stack Developer | — | Remote | — | 43d | [apply](https://revolutional.com/job-openings/?gh_jid=7983597003) |
 | MX | Jr. Quality Engineer | — | Leetonia, OH | $60,000–$78,000 | 43d | [apply](https://careers-pennex.icims.com/jobs/2955/jr.-quality-engineer/job?hub=8&amp;in_iframe=1) |
 | World Prime | Junior RPGLE Developer | — | Remote | — | 43d | [apply](https://careers-primeinc.icims.com/jobs/5263/junior-rpgle-developer/job?in_iframe=1) |
-| One Medical | Software Development Engineer, Amazon Leo, Early Career - 2026 | 2026 | Redmond, WA | — | 43d | [apply](https://www.amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026) |
+| Amazon Leo | Software Development Engineer, Amazon Leo, Early Career - 2026 | 2026 | Redmond, WA | — | 52d | [apply](https://www.amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026) |
 | KEP Electric/ IES RESIDENTIAL | Junior .NET Developer 2-5 years experience remote | — | Tempe, AZ | — | 44d | [apply](https://careers-ies-co.icims.com/jobs/22692/login) |
 | Toyota Financial Savings Bank | Software Engineer Early Career Professional | — | Plano, TX | — | 44d | [apply](https://careers.toyota.com/us/en/job/10325071/Software-Engineer-Early-Career-Professional) |
-| Greylock Partners | Software Engineer (Early Career) | — | San Francisco, CA | $160,000–$180,000 | 45d | [apply](https://jobs.ashbyhq.com/lightfield/fc93a467-773d-4805-b342-bf470950732d) |
+| Lightfield | Software Engineer (Early Career) | — | San Francisco, CA | $160,000–$180,000 | 52d | [apply](https://jobs.ashbyhq.com/Lightfield/fc93a467-773d-4805-b342-bf470950732d) |
 | Roku | Software Engineer Early Careers Focused On Ai And Ui San Jose California United States | — | San Jose, CA | — | 47d | [apply](https://www.weareroku.com/jobs/software-engineer-early-careers-focused-on-ai-and-ui-san-jose-california-united-states) |
-| Amazon Lab126 | Software Development Engineer, Amazon Leo, Early Career - 2026 | 2026 | Redmond, WA | — | 47d | [apply](https://www.amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026) |
-| Whole Foods Market | Software Development Engineer, Amazon Leo, Early Career - 2026 | 2026 | Redmond, WA | — | 48d | [apply](https://www.amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026) |
 | Tastepoint by IFF | Junior Quality Analyst | — | Newark, DE | — | 48d | [apply](https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Newark-DE-PDF-Building-USA/Junior-Quality-Analyst_R19426) |
 | Forescout Technologies | Jr. Software Engineer | — | Plano, TX | — | 49d | [apply](https://jobs.jobvite.com/forescout/job/oFXKAfwG) |
-| Caravan Foods | Software Development Engineer, Amazon Leo, Early Career - 2026 | 2026 | Redmond, WA | — | 49d | [apply](https://www.amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026) |
-| Whole Foods Market | Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026, Amazon Dedicated Cloud (ADC) | 2026 | Seattle, WA | — | 49d | [apply](https://www.amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc) |
 | TownTasks | Foudning Jr Fullstack Software Engineer Chicago | — | Chicago, IL | — | 50d | [apply](https://towntasks.com/jobs/foudning-jr-fullstack-software-engineer-chicago-10052) |
 | Belay Technologies | Junior JavaScript Developer | — | Fort Meade, MD | $70,000–$190,000 | 50d | [apply](https://belaytechnologies.applytojob.com/apply/nCcHbYR6PK/Junior-JavaScript-Developer) |
 | New York Stock Exchange | Junior Software Development Engineer in Test | — | Atlanta, GA | — | 50d | [apply](https://careers-ice.icims.com/jobs/12228/login) |
@@ -410,24 +401,21 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Amca | Junior Propulsion Component Test Engineer 🇺🇸 | — | El Segundo, CA | — | 51d | [apply](https://job-boards.greenhouse.io/amca/jobs/4320960009) |
 | Accenture Federal Services | Junior Systems Engineer | — | Annapolis Junction, MD | — | 51d | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4627901006?gh_jid=4627901006) |
 | ASM Research, An Accenture Federal Services | Jr. Systems Engineer | — | Annapolis Junction, MD +1 | — | 51d | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4689034006?gh_jid=4689034006) |
-| Accenture Federal Services | Jr. Software Engineer | — | Annapolis Junction, MD | — | 51d | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4689025006?gh_jid=4689025006) |
+| ASM Research, An Accenture Federal Services | Jr. Software Engineer | — | Annapolis Junction, MD | — | 51d | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4689025006?gh_jid=4689025006) |
 | ASM Research, An Accenture Federal Services | Jr. DevOps Engineer | — | Annapolis Junction, MD | — | 51d | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4689020006?gh_jid=4689020006) |
-| Accenture Federal Services | Jr. AI/ML Engineer | — | Annapolis Junction, MD | — | 51d | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4708679006?gh_jid=4708679006) |
+| ASM Research, An Accenture Federal Services | Jr. AI/ML Engineer | — | Annapolis Junction, MD | — | 51d | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4708679006?gh_jid=4708679006) |
 | Netic | Software Engineer (Agent Platform) - New Grad - 2026-2027 | 2026 | San Francisco, CA | $138,000–$160,000 | 52d | [apply](https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f) |
 | SteerBridge | Junior Software Engineer | — | Vienna, VA | — | 52d | [apply](https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5) |
 | Netic | Full-Stack Software Engineer (Product) - New Grad - 2026-2027 | 2026 | San Francisco, CA | $138,000–$160,000 | 52d | [apply](https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3) |
 | DCS | Systems Engineer Junior Ts 🇺🇸 | — | Hanscom Air Force Base, MA | — | 52d | [apply](https://careers.dcscorp.com/job/242/systems_engineer_junior_ts) |
 | Cursor | Software Engineer, New Grad 2027 | 2027 | San Francisco, CA | — | 52d | [apply](https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b) |
 | Notion Islamabad | Software Engineer, Growth (Early Career) | — | San Francisco, CA | — | 52d | [apply](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f) |
-| Northwood | Software Engineer – General (new grad / early career) | — | Los Angeles, CA, CA | $120,000–$140,000 | 52d | [apply](https://jobs.ashbyhq.com/NorthwoodSpace/b960b661-e1cc-40d0-bde3-290cd1b58ede) |
 | Valon | Software Engineer New Grad | — | New York, NY | $135,000–$160,000 | 52d | [apply](https://jobs.ashbyhq.com/Valon/e08ad09a-4408-4210-8c1b-da6510f83324) |
 | True Anomaly | Software Engineer I, Spacecraft Simulation (New Grad) | — | Denver, CO | — | 52d | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007) |
 | True Anomaly | Software Engineer I, Perception (New Grad) | — | Denver, CO | — | 52d | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007) |
 | True Anomaly | Software Engineer I, Full Stack (New Grad) | — | Denver, CO | — | 52d | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007) |
 | True Anomaly | Software Engineer I, Elixir (New Grad) | — | Denver, CO | — | 52d | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007) |
 | True Anomaly | Software Engineer I, Data Science (New Grad) | — | Denver, CO | — | 52d | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007) |
-| Lightfield | Software Engineer (Early Career) | — | San Francisco, CA | $160,000–$180,000 | 52d | [apply](https://jobs.ashbyhq.com/Lightfield/fc93a467-773d-4805-b342-bf470950732d) |
-| Amazon Leo | Software Development Engineer, Amazon Leo, Early Career - 2026 | 2026 | Redmond, WA | — | 52d | [apply](https://www.amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026) |
 | Thermo Fisher Scientific | Junior Analyst Digital Solutions Designe | — | Remote | — | 52d | [apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Brazil/Associate-Digital-Solutions-Designe_R-01345532) |
 | Peraton | Jr Software Engineer TS/SCI with Poly | — | Annapolis Junction, MD | — | 52d | [apply](https://careers-peraton.icims.com/jobs/168379/jr-software-engineer-ts-sci-with-poly/job?in_iframe=1) |
 | Peraton Labs | Jr Information System Security Engineer (ISSE) | — | Annapolis Junction, MD | — | 52d | [apply](https://careers-peraton.icims.com/jobs/168446/jr-information-system-security-engineer-%28isse%29/job?in_iframe=1) |

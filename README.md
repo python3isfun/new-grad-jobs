@@ -1,6 +1,6 @@
 # 🎓 New Grad Tech Jobs — auto-updated daily
 
-**1,123 live new-grad roles** (1,491 postings) · last updated `2026-11-03 00:52 UTC`
+**1,103 live new-grad roles** (1,491 postings) · last updated `2026-11-03 01:02 UTC`
 
 Entry-level and new-graduate roles for students finishing their degree, at employers hiring in the United States. Every listing links straight to the employer's own application page — no aggregator reposts, no dead links: postings that have closed are removed on the next update.
 
@@ -16,24 +16,18 @@ Entry-level and new-graduate roles for students finishing their degree, at emplo
 
 | Category | Open roles | New this week |
 |---|---:|---:|
-| [💻 Software Engineering](jobs/software-engineering.md) | 471 | 73 |
-| [📈 Quant & Trading](jobs/quant-trading.md) | 54 | 10 |
-| [🔌 Hardware & Electrical (ECE)](jobs/hardware-electrical.md) | 386 | 61 |
+| [💻 Software Engineering](jobs/software-engineering.md) | 459 | 72 |
+| [📈 Quant & Trading](jobs/quant-trading.md) | 53 | 10 |
+| [🔌 Hardware & Electrical (ECE)](jobs/hardware-electrical.md) | 379 | 61 |
 | [📊 Data & Analytics](jobs/data-analytics.md) | 87 | 6 |
 | [📋 Product & Program](jobs/product-program.md) | 21 | 0 |
 | [🖥️ IT & Infrastructure](jobs/it-infrastructure.md) | 104 | 11 |
 
 _Both columns count roles, deduplicated across cities._
 
-## 📌 Picked out of today's 1,123
+## 📌 Picked out of today's 1,103
 
-The newest roles whose posting says what it wants. Requirements are read from the posting itself — 222 of today's roles have them.
-
-**[Software Engineer, Platform (Early Career)](https://jobs.ashbyhq.com/NorthwoodSpace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6)** · Northwood
-
-Los Angeles, CA, CA · $123,000–$140,000 · 0–2 yrs · bachelor's · posted 4d
-
-_Asks for:_ General-purpose programming experience, Shipped software used by others, Independent technical problem solving, Production software development
+The newest roles whose posting says what it wants. Requirements are read from the posting itself — 212 of today's roles have them.
 
 **[Software Engineer, Platform (Early Career)](https://jobs.ashbyhq.com/northwoodspace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6)** · Northwood Space
 
@@ -46,6 +40,12 @@ _Asks for:_ General-purpose programming experience, Shipped software others reli
 San Francisco Bay Area, CA · $110,000–$150,000 · 0–2 yrs · bachelor's · posted 6d
 
 _Asks for:_ Bachelor's in Electrical Engineering, 2 years related experience, Power electronics design, Power circuit design and layout
+
+**[Software Engineer New Grad Machine Learning Platform Quora Quora](https://www.workingnomads.com/jobs/software-engineer-new-grad-machine-learning-platform-quora-quora)** · NOMAD
+
+Remote · $97,600–$139,000 · entry level · bachelor's · posted 6d
+
+_Asks for:_ 2025 or 2026 graduate, Computer science or engineering degree, Interest in distributed systems, Interest in machine learning
 
 ## 🆕 Latest 25 roles
 
@@ -69,7 +69,7 @@ At most 2 per employer, so one big hirer cannot fill the page.
 | Red Wrench Plumbing | Electrical Apprentice - Marietta | 🔌 Hardware & Electrical (ECE) | — | Marietta, GA | — | today | [apply](https://careers-coolray.icims.com/jobs/14273/login) |
 | WSP | Early Career Substation Engineer | 🔌 Hardware & Electrical (ECE) | — | Buffalo, NY | — | today | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98679) |
 | Cherokee Federal | Jr Maintenance Developer | 💻 Software Engineering | — | Baltimore, MD | — | today | [apply](https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/44210) |
-| Google | Software Engineer II, Early Career | 💻 Software Engineering | — | Mountain View, CA | — | today | [apply](https://www.google.com/about/careers/applications/jobs/results/109116638069957318) |
+| Raxium | Software Engineer II, Early Career | 💻 Software Engineering | — | Mountain View, CA | — | today | [apply](https://www.google.com/about/careers/applications/jobs/results/109116638069957318) |
 | General Dynamics | Entry-Level Electrical Engineer | 🔌 Hardware & Electrical (ECE) | — | Groton, CT | — | today | [apply](https://careers-gdeb.icims.com/jobs/21128/entry-level-electrical-engineer/job?in_iframe=1) |
 | General Dynamics | Electrical Engineer (Entry Level) - 2nd Shift | 🔌 Hardware & Electrical (ECE) | — | Groton, CT | — | today | [apply](https://careers-gdeb.icims.com/jobs/21354/electrical-engineer-%28entry-level%29---2nd-shift/job?in_iframe=1) |
 | Centennial Technologies | Jr. Financial Analyst | 📈 Quant & Trading | — | VA | — | today | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4390796/6e15f830-9542-464b-9137-7f4f78e2e720) |
@@ -96,14 +96,14 @@ At most 2 per employer, so one big hirer cannot fill the page.
 | General Dynamics Mission Systems | 16 |
 | Boeing | 16 |
 | IMEG | 15 |
-| Amazon Lab126 | 15 |
 | Sargent Lundy | 13 |
 | SkillStorm | 13 |
+| Amazon Lab126 | 12 |
 | Freeform | 11 |
 
 ## 💰 Highest stated pay
 
-_Of the 80 roles that state a figure — most employers do not._
+_Of the 77 roles that state a figure — most employers do not._
 
 **Legend:** 🛂 does **not** sponsor visas · 🇺🇸 requires US citizenship · 🌏 sponsorship available — each read from the posting's own text. No marker means neither source says anything.
 
@@ -116,22 +116,22 @@ _Of the 80 roles that state a figure — most employers do not._
 | Belay Technologies | Junior JavaScript Developer | 💻 Software Engineering | — | Fort Meade, MD | $70,000–$190,000 | 50d | [apply](https://belaytechnologies.applytojob.com/apply/nCcHbYR6PK/Junior-JavaScript-Developer) |
 | Harvey | Software Engineer, New Grad (2027) | 💻 Software Engineering | 2027 | Remote +1 | $165,000–$181,500 | 31d | [apply](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5) |
 | Chalk | Software Engineer - New Grad | 💻 Software Engineering | — | San Francisco, CA | $170,000–$180,000 | 26d | [apply](https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f) |
-| Greylock Partners | Software Engineer (Early Career) | 💻 Software Engineering | — | San Francisco, CA | $160,000–$180,000 | 45d | [apply](https://jobs.ashbyhq.com/lightfield/fc93a467-773d-4805-b342-bf470950732d) |
 | Lightfield | Software Engineer (Early Career) | 💻 Software Engineering | — | San Francisco, CA | $160,000–$180,000 | 52d | [apply](https://jobs.ashbyhq.com/Lightfield/fc93a467-773d-4805-b342-bf470950732d) |
 | Markon | Junior Software Engineer | 💻 Software Engineering | — | McLean, VA | $140,000–$170,000 | 41d | [apply](https://careers-markon.icims.com/jobs/8694/junior-software-engineer/job?in_iframe=1) |
+| Applied Compute | Embedded Software Engineer - New Grad (2027) | 💻 Software Engineering | 2027 | Sunnyvale, CA | $123,000–$168,000 | 51d | [apply](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44) |
 
 <details>
 <summary>📅 Browse by term</summary>
 
 | Term | Roles |
 |---|---:|
-| 2026 | 37 |
-| 2027 | 90 |
+| 2026 | 32 |
+| 2027 | 82 |
 | Spring | 1 |
 | Spring 2027 | 1 |
 | Summer 2027 | 9 |
 | Winter 2027 | 1 |
-| _not stated_ | 984 |
+| _not stated_ | 977 |
 
 _Term is read from the posting title; `not stated` means the employer did not say. Terms already past are left out._
 
@@ -139,7 +139,7 @@ _Term is read from the posting title; `not stated` means the employer did not sa
 
 ## 📍 Top locations
 
-**CA** 159 · **VA** 112 · **TX** 111 · **MD** 60 · **NY** 56 · **CO** 42 · **FL** 33 · **GA** 30 · **IL** 30 · **OH** 30 · **NC** 29 · **NJ** 23
+**CA** 155 · **VA** 112 · **TX** 106 · **MD** 60 · **NY** 56 · **CO** 41 · **FL** 33 · **GA** 30 · **IL** 30 · **OH** 30 · **NC** 29 · **NJ** 23
 
 _70 remote · 0 postings have no location stated._
 
