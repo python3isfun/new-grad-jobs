@@ -1,6 +1,6 @@
 # 🎓 New Grad Tech Jobs — auto-updated daily
 
-**1,094 live new-grad roles** (1,477 postings) · last updated `2026-11-03 03:34 UTC`
+**1,086 live new-grad roles** (1,451 postings) · last updated `2026-11-03 16:28 UTC`
 
 Entry-level and new-graduate roles for students finishing their degree, at employers hiring in the United States. Every listing links straight to the employer's own application page — no aggregator reposts, no dead links: postings that have closed are removed on the next update.
 
@@ -10,17 +10,17 @@ Entry-level and new-graduate roles for students finishing their degree, at emplo
 
 🔎 **Matched to your major and courses** at **[newjob.dev](https://newjob.dev?utm_source=github&utm_medium=repo&utm_campaign=listings)** — the same roles, ranked for what you study, with the campus courses each one uses.
 
-📬 **1,477 of these 1,477 postings (100%) are in neither [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships)'s nor [vanshb03](https://github.com/vanshb03/Summer2027-Internships)'s list** — matched by apply URL. This list is crawled from employers' own career sites, so it reaches the companies the community lists have not added.
+📬 **1,451 of these 1,451 postings (100%) are in neither [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships)'s nor [vanshb03](https://github.com/vanshb03/Summer2027-Internships)'s list** — matched by apply URL. This list is crawled from employers' own career sites, so it reaches the companies the community lists have not added.
 
-## 📌 Picked out of today's 1,094
+## 📌 Picked out of today's 1,086
 
-The newest roles whose posting says what it wants. Requirements are read from the posting itself — 211 of today's roles have them.
+The newest roles whose posting says what it wants. Requirements are read from the posting itself — 206 of today's roles have them.
 
-**[Software Engineer, Platform (Early Career)](https://jobs.ashbyhq.com/northwoodspace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6)** · Northwood Space
+**[Software Engineer, Platform (Early Career)](https://jobs.ashbyhq.com/NorthwoodSpace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6)** · Northwood
 
 Los Angeles, CA, CA · $123,000–$140,000 · 0–2 yrs · bachelor's · posted 4d
 
-_Asks for:_ General-purpose programming experience, Shipped software others relied on, Independent technical problem solving, Software beyond coursework
+_Asks for:_ General-purpose programming experience, Shipped software used by others, Independent technical problem solving, Production software development
 
 **[Junior Field Applications Engineer (FAE) – Data Center &amp; Enterprise Markets](https://intellipro.applytojob.com/apply/CTvBu9plwl/Junior-Field-Applications-Engineer-FAE-Data-Center-Enterprise-Markets)** · IntelliPro
 
@@ -38,10 +38,10 @@ _Asks for:_ 2025 or 2026 graduate, Computer science or engineering degree, Inter
 
 | Category | Open roles | New this week |
 |---|---:|---:|
-| [💻 Software Engineering](jobs/software-engineering.md) | 456 | 72 |
+| [💻 Software Engineering](jobs/software-engineering.md) | 452 | 68 |
 | [📈 Quant & Trading](jobs/quant-trading.md) | 54 | 11 |
-| [🔌 Hardware & Electrical (ECE)](jobs/hardware-electrical.md) | 377 | 61 |
-| [📊 Data & Analytics](jobs/data-analytics.md) | 85 | 6 |
+| [🔌 Hardware & Electrical (ECE)](jobs/hardware-electrical.md) | 374 | 58 |
+| [📊 Data & Analytics](jobs/data-analytics.md) | 84 | 6 |
 | [📋 Product & Program](jobs/product-program.md) | 21 | 0 |
 | [🖥️ IT & Infrastructure](jobs/it-infrastructure.md) | 101 | 11 |
 
@@ -70,7 +70,7 @@ At most 2 per employer, so one big hirer cannot fill the page.
 | Red Wrench Plumbing | Electrical Apprentice - Marietta | 🔌 Hardware & Electrical (ECE) | — | Marietta, GA | — | today | [apply](https://careers-coolray.icims.com/jobs/14273/login) |
 | WSP | Early Career Substation Engineer | 🔌 Hardware & Electrical (ECE) | — | Buffalo, NY | — | today | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98679) |
 | Cherokee Federal | Jr Maintenance Developer | 💻 Software Engineering | — | Baltimore, MD | — | today | [apply](https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/44210) |
-| Raxium | Software Engineer II, Early Career | 💻 Software Engineering | — | Mountain View, CA | — | today | [apply](https://www.google.com/about/careers/applications/jobs/results/109116638069957318) |
+| Raxium | Software Engineer II, Early Career | 💻 Software Engineering | — | Mountain View, CA | — | 1d | [apply](https://www.google.com/about/careers/applications/jobs/results/109116638069957318) |
 | General Dynamics | Entry-Level Electrical Engineer | 🔌 Hardware & Electrical (ECE) | — | Groton, CT | — | 1d | [apply](https://careers-gdeb.icims.com/jobs/21128/entry-level-electrical-engineer/job?in_iframe=1) |
 | General Dynamics | Electrical Engineer (Entry Level) - 2nd Shift | 🔌 Hardware & Electrical (ECE) | — | Groton, CT | — | 1d | [apply](https://careers-gdeb.icims.com/jobs/21354/electrical-engineer-%28entry-level%29---2nd-shift/job?in_iframe=1) |
 | Centennial Technologies | Jr. Financial Analyst | 📈 Quant & Trading | — | VA | — | 1d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4390796/6e15f830-9542-464b-9137-7f4f78e2e720) |
@@ -90,12 +90,12 @@ At most 2 per employer, so one big hirer cannot fill the page.
 | NVIDIA | 25 |
 | General Dynamics | 20 |
 | Amentum | 20 |
-| BAE Systems | 18 |
 | WSP | 17 |
 | Peraton | 17 |
 | General Dynamics Mission Systems | 16 |
 | Boeing | 16 |
 | IMEG | 15 |
+| BAE Systems | 14 |
 | Sargent Lundy | 13 |
 | SkillStorm | 13 |
 | Amazon Lab126 | 12 |
@@ -126,11 +126,11 @@ _Of the 75 roles that state a figure — most employers do not._
 | Term | Roles |
 |---|---:|
 | 2026 | 32 |
-| 2027 | 81 |
+| 2027 | 79 |
 | Spring | 1 |
 | Spring 2027 | 1 |
 | Summer 2027 | 9 |
-| _not stated_ | 970 |
+| _not stated_ | 964 |
 
 _Term is read from the posting title; `not stated` means the employer did not say. Terms already past are left out._
 
@@ -138,9 +138,9 @@ _Term is read from the posting title; `not stated` means the employer did not sa
 
 ## 📍 Top locations
 
-**CA** 154 · **VA** 112 · **TX** 105 · **MD** 60 · **NY** 55 · **CO** 41 · **FL** 33 · **GA** 30 · **IL** 30 · **OH** 30 · **NC** 26 · **NJ** 23
+**CA** 151 · **VA** 112 · **TX** 105 · **MD** 60 · **NY** 55 · **CO** 41 · **FL** 33 · **OH** 30 · **GA** 29 · **IL** 29 · **NC** 25 · **NJ** 23
 
-_69 remote · 0 postings have no location stated._
+_68 remote · 0 postings have no location stated._
 
 ---
 
