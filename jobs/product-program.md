@@ -1,6 +1,6 @@
 # 📋 Product & Program
 
-**15 roles** · updated `2026-11-11 16:26 UTC` · [← all categories](../README.md)
+**15 roles** · updated `2026-11-12 16:26 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (2 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -8,21 +8,21 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 
 | Company | Role | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|
-| General Dynamics | Entry Level Engineer- Systems - Hull Planning Yard | — | Groton, CT | — | 16d | [apply](https://careers-gdeb.icims.com/jobs/21160/entry-level-engineer--systems---hull-planning-yard/job?in_iframe=1) |
-| UICGS / Bowhead Family of Companies | Junior Systems/ S&amp;T Engineer | — | Stafford, VA | $75,000–$90,000 | 18d | [apply](https://bowheadcareers-uicalaska.icims.com/jobs/26403/junior-systems--s%26t-engineer/job?in_iframe=1) |
-| Torch Technologies | Missile Defense Systems Engineer/Analyst-Entry Level | — | Huntsville, AL | — | 21d | [apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Missile-Defense-Systems-Engineer-Analyst-Entry-Level_R2071) |
-| MGAC | Data Center Construction- Junior to Mid Project Manager (Cost) | — | Fort Wayne, IN | — | 22d | [apply](https://job-boards.greenhouse.io/mgac/jobs/4458889009) |
-| MGAC | Data Center Construction- Junior to Mid Project Manager | — | Raleigh, NC +1 | — | 25d | [apply](https://job-boards.greenhouse.io/mgac/jobs/4095220009) |
-| Linesight | Cost Engineer (Recent Graduate) | — | Milwaukee, WI | — | 29d | [apply](https://careers-linesight.icims.com/jobs/6337/cost-engineer-%28recent-graduate%29/job?in_iframe=1) |
-| General Dynamics | Engineer - Systems Entry Level | — | Stonington, CT | — | 30d | [apply](https://careers-gdeb.icims.com/jobs/18029/engineer---systems-entry-level/job?in_iframe=1) |
-| Unitedengineparts | Junior Inventory Analyst | — | Oklahoma City, OK | — | 31d | [apply](https://unitedcareers-kirbycorp.icims.com/jobs/4564/junior-inventory-analyst/job?in_iframe=1) |
-| LOCKHEED MARTIN | Manufacturing Planner Asc - Early Career | — | Grand Prairie, TX +1 | — | 40d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477137111) |
-| Na Ali'i Consulting & Sales | Junior Logistics Analyst | — | Gulfport, MS | — | 41d | [apply](https://careers-nakupuna.icims.com/jobs/7017/junior-logistics-analyst/job?in_iframe=1) |
-| GlobalFoundries | CMOS FEOL Reliability Principal Engineer (2027 New College Graduate) | 2027 | Malta, NY | — | 43d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770506005) |
-| Royal Caribbean Group | Miami Analyst%2C Supply Chain Rotational Program %28May 2027 Grads%29 FL 33131 | 2027 | Miami, FL | — | 44d | [apply](https://jobs.royalcaribbeangroup.com/job/Miami-Analyst%2C-Supply-Chain-Rotational-Program-%28May-2027-Grads%29-FL-33131/1432448800/) |
-| GetGo Café + Market | Jr Real Estate Development Manager | — | Raleigh, NC | — | 59d | [apply](https://workwithus.circlek.com/global/en/job/CIKCGLOBALR609892EXTERNALENGLOBAL/Jr-Real-Estate-Development-Manager) |
-| JMJ Phillip Group | Junior Supply Chain Analyst Job Opening Milwaukee Wisconsin | — | Milwaukee, WI | — | 60d | [apply](https://jmjphillip.com/jobs/2023/09/09/junior-supply-chain-analyst-job-opening-milwaukee-wisconsin/) |
-| Apogee Engineering | Technical Project Management Support, Apprentice | — | Wright Patterson AFB, OH | — | 60d | [apply](https://careers-apogeeusa.icims.com/jobs/1453/technical-project-management-support%2c-apprentice/job?in_iframe=1) |
+| General Dynamics | Entry Level Engineer- Systems - Hull Planning Yard | — | Groton, CT | — | 17d | [apply](https://careers-gdeb.icims.com/jobs/21160/entry-level-engineer--systems---hull-planning-yard/job?in_iframe=1) |
+| UICGS / Bowhead Family of Companies | Junior Systems/ S&amp;T Engineer | — | Stafford, VA | $75,000–$90,000 | 19d | [apply](https://bowheadcareers-uicalaska.icims.com/jobs/26403/junior-systems--s%26t-engineer/job?in_iframe=1) |
+| Torch Technologies | Missile Defense Systems Engineer/Analyst-Entry Level | — | Huntsville, AL | — | 22d | [apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Missile-Defense-Systems-Engineer-Analyst-Entry-Level_R2071) |
+| MGAC | Data Center Construction- Junior to Mid Project Manager (Cost) | — | Fort Wayne, IN | — | 23d | [apply](https://job-boards.greenhouse.io/mgac/jobs/4458889009) |
+| MGAC | Data Center Construction- Junior to Mid Project Manager | — | Raleigh, NC +1 | — | 26d | [apply](https://job-boards.greenhouse.io/mgac/jobs/4095220009) |
+| Linesight | Cost Engineer (Recent Graduate) | — | Milwaukee, WI | — | 30d | [apply](https://careers-linesight.icims.com/jobs/6337/cost-engineer-%28recent-graduate%29/job?in_iframe=1) |
+| General Dynamics | Engineer - Systems Entry Level | — | Stonington, CT | — | 31d | [apply](https://careers-gdeb.icims.com/jobs/18029/engineer---systems-entry-level/job?in_iframe=1) |
+| Unitedengineparts | Junior Inventory Analyst | — | Oklahoma City, OK | — | 32d | [apply](https://unitedcareers-kirbycorp.icims.com/jobs/4564/junior-inventory-analyst/job?in_iframe=1) |
+| LOCKHEED MARTIN | Manufacturing Planner Asc - Early Career | — | Grand Prairie, TX +1 | — | 41d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477137111) |
+| Na Ali'i Consulting & Sales | Junior Logistics Analyst | — | Gulfport, MS | — | 42d | [apply](https://careers-nakupuna.icims.com/jobs/7017/junior-logistics-analyst/job?in_iframe=1) |
+| GlobalFoundries | CMOS FEOL Reliability Principal Engineer (2027 New College Graduate) | 2027 | Malta, NY | — | 44d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770506005) |
+| Royal Caribbean Group | Miami Analyst%2C Supply Chain Rotational Program %28May 2027 Grads%29 FL 33131 | 2027 | Miami, FL | — | 45d | [apply](https://jobs.royalcaribbeangroup.com/job/Miami-Analyst%2C-Supply-Chain-Rotational-Program-%28May-2027-Grads%29-FL-33131/1432448800/) |
+| GetGo Café + Market | Jr Real Estate Development Manager | — | Raleigh, NC | — | 60d | [apply](https://workwithus.circlek.com/global/en/job/CIKCGLOBALR609892EXTERNALENGLOBAL/Jr-Real-Estate-Development-Manager) |
+| JMJ Phillip Group | Junior Supply Chain Analyst Job Opening Milwaukee Wisconsin | — | Milwaukee, WI | — | 61d | [apply](https://jmjphillip.com/jobs/2023/09/09/junior-supply-chain-analyst-job-opening-milwaukee-wisconsin/) |
+| Apogee Engineering | Technical Project Management Support, Apprentice | — | Wright Patterson AFB, OH | — | 61d | [apply](https://careers-apogeeusa.icims.com/jobs/1453/technical-project-management-support%2c-apprentice/job?in_iframe=1) |
 
 [← back to the front page](../README.md)
 
