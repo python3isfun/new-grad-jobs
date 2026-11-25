@@ -1,6 +1,6 @@
 # 🎓 New Grad Tech & Engineering Jobs — auto-updated daily
 
-**722 live new-grad roles** (946 postings) · last updated `2026-11-24 16:23 UTC`
+**711 live new-grad roles** (934 postings) · last updated `2026-11-25 16:23 UTC`
 
 Entry-level and new-graduate roles for students finishing their degree, at employers hiring in the United States. Every listing links straight to the employer's own application page — no aggregator reposts, no dead links: postings that have closed are removed on the next update.
 
@@ -10,27 +10,27 @@ Entry-level and new-graduate roles for students finishing their degree, at emplo
 
 🔎 **Matched to your major and courses** at **[newjob.dev](https://newjob.dev?utm_source=github&utm_medium=repo&utm_campaign=listings)** — the same roles, ranked for what you study, with the campus courses each one uses.
 
-📬 **946 of these 946 postings (100%) are in neither [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships)'s nor [vanshb03](https://github.com/vanshb03/Summer2027-Internships)'s list** — matched by apply URL. This list is crawled from employers' own career sites, so it reaches the companies the community lists have not added.
+📬 **934 of these 934 postings (100%) are in neither [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships)'s nor [vanshb03](https://github.com/vanshb03/Summer2027-Internships)'s list** — matched by apply URL. This list is crawled from employers' own career sites, so it reaches the companies the community lists have not added.
 
-## 📌 Picked out of today's 722
+## 📌 Picked out of today's 711
 
-The newest roles whose posting says what it wants. Requirements are read from the posting itself — 128 of today's roles have them.
+The newest roles whose posting says what it wants. Requirements are read from the posting itself — 127 of today's roles have them.
 
 **[Software Engineer, Platform (Early Career)](https://jobs.ashbyhq.com/NorthwoodSpace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6)** · Northwood
 
-Los Angeles, CA, CA · $123,000–$140,000 · 0–2 yrs · bachelor's · posted 25d
+Los Angeles, CA, CA · $123,000–$140,000 · 0–2 yrs · bachelor's · posted 26d
 
 _Asks for:_ General-purpose programming experience, Shipped software used by others, Independent technical problem solving, Production software development
 
 **[Junior Field Applications Engineer (FAE) – Data Center &amp; Enterprise Markets](https://intellipro.applytojob.com/apply/CTvBu9plwl/Junior-Field-Applications-Engineer-FAE-Data-Center-Enterprise-Markets)** · IntelliPro
 
-San Francisco Bay Area, CA · $110,000–$150,000 · 0–2 yrs · bachelor's · posted 27d
+San Francisco Bay Area, CA · $110,000–$150,000 · 0–2 yrs · bachelor's · posted 28d
 
 _Asks for:_ Bachelor's in Electrical Engineering, 2 years related experience, Power electronics design, Power circuit design and layout
 
 **[Software Engineer New Grad Machine Learning Platform Quora Quora](https://www.workingnomads.com/jobs/software-engineer-new-grad-machine-learning-platform-quora-quora)** · NOMAD
 
-Remote · $97,600–$139,000 · entry level · bachelor's · posted 27d
+Remote · $97,600–$139,000 · entry level · bachelor's · posted 28d
 
 _Asks for:_ 2025 or 2026 graduate, Computer science or engineering degree, Interest in distributed systems, Interest in machine learning
 
@@ -38,13 +38,13 @@ _Asks for:_ 2025 or 2026 graduate, Computer science or engineering degree, Inter
 
 | Category | Open roles | New this week |
 |---|---:|---:|
-| [💻 Software Engineering](jobs/software-engineering.md) | 224 | 0 |
+| [💻 Software Engineering](jobs/software-engineering.md) | 221 | 0 |
 | [📈 Quant & Trading](jobs/quant-trading.md) | 25 | 0 |
-| [🔌 Hardware & Electrical (ECE)](jobs/hardware-electrical.md) | 195 | 0 |
-| [📊 Data & Analytics](jobs/data-analytics.md) | 32 | 0 |
-| [📋 Product & Program](jobs/product-program.md) | 8 | 0 |
-| [🖥️ IT & Infrastructure](jobs/it-infrastructure.md) | 41 | 0 |
-| [🏗️ Civil & Environmental](jobs/civil-environmental.md) | 165 | 0 |
+| [🔌 Hardware & Electrical (ECE)](jobs/hardware-electrical.md) | 191 | 0 |
+| [📊 Data & Analytics](jobs/data-analytics.md) | 31 | 0 |
+| [📋 Product & Program](jobs/product-program.md) | 7 | 0 |
+| [🖥️ IT & Infrastructure](jobs/it-infrastructure.md) | 40 | 0 |
+| [🏗️ Civil & Environmental](jobs/civil-environmental.md) | 164 | 0 |
 | [✈️ Aerospace & Marine](jobs/aerospace-marine.md) | 32 | 0 |
 
 _Both columns count roles, deduplicated across cities._
@@ -57,31 +57,31 @@ At most 2 per employer, so one big hirer cannot fill the page.
 
 | Company | Role | Category | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|---|
-| Coborn's | Financial Analyst - Entry Level | 📈 Quant & Trading | — | St. Cloud, MN | — | 21d | [apply](https://careers.cobornsinc.com/jobs/35739?lang=en-us) |
-| LOCKHEED MARTIN | Entry-Level Test Engineer - Missile/Sensor Systems | 💻 Software Engineering | — | Orlando, FL | — | 21d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477565007) |
-| Langan Engineering & Environmental Services | Entry-Level Civil Engineer | 🏗️ Civil & Environmental | — | Nashville, TN +1 | — | 21d | [apply](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4463385009) |
-| IMEG | Mechanical Engineering New Grad \| Ontario, CA | 🔌 Hardware & Electrical (ECE) | — | Ontario, CA | — | 21d | [apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Ontario-California/Mechanical-Engineering-New-Grad---San-Francisco--CA_R-16413) |
-| AltaMed Health Services | IT Network Junior Administrator | 🖥️ IT & Infrastructure | — | Commerce, CA | — | 21d | [apply](https://altamed.wd1.myworkdayjobs.com/Careers/job/Commerce-CA-90040/IT-Network-Junior-Administrator_JR11034) |
-| Amazon Lab126 | Mechatronic Apprentice I, RME | 🔌 Hardware & Electrical (ECE) | — | San Marcos, TX | — | 21d | [apply](https://www.amazon.jobs/en/jobs/10590375/mechatronic-apprentice-i-rme) |
-| Amazon Lab126 | Mechatronic Apprentice I | 🔌 Hardware & Electrical (ECE) | — | San Antonio, TX +5 | — | 21d | [apply](https://www.amazon.jobs/en/jobs/10580391/mechatronic-apprentice-i) |
-| Native Star Group | Junior Data Scientist | 📊 Data & Analytics | — | Fairfax, VA | — | 21d | [apply](https://careers-allnativegroup.icims.com/jobs/10863/junior-data-scientist/job?in_iframe=1) |
-| LOCKHEED MARTIN | Radio Frequency Engineer - Early Career | 🔌 Hardware & Electrical (ECE) | — | Liverpool, NY +3 | — | 21d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477460029) |
-| Integration Innovation | Junior Machine Learning Engineer | 💻 Software Engineering | — | Arlington, VA | — | 21d | [apply](https://careers-i3-corps.icims.com/jobs/5417/junior-machine-learning-engineer/job?in_iframe=1) |
-| BGIS | Jr Data Center Technician | 💻 Software Engineering | — | Phoenix, AZ | — | 21d | [apply](https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/234043) |
-| General Matter | Field Engineer (New Grad) | ✈️ Aerospace & Marine | — | Paducah, KY | — | 21d | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5466633008) |
-| WSP | Entry-Level Structural Engineer - Hydraulic Structures | 🏗️ Civil & Environmental | — | Sacramento, CA | — | 21d | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98451) |
-| AECOM | Entry-Level Digital Solutions Business Analyst | 📊 Data & Analytics | — | Germantown, MD | — | 21d | [apply](https://jobs.smartrecruiters.com/AECOM2/744000159214369) |
-| Red Wrench Plumbing | Electrical Apprentice - Marietta | 🔌 Hardware & Electrical (ECE) | — | Marietta, GA | — | 21d | [apply](https://careers-coolray.icims.com/jobs/14273/login) |
-| WSP | Early Career Substation Engineer | 🔌 Hardware & Electrical (ECE) | — | Buffalo, NY | — | 21d | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98679) |
-| Cherokee Federal | Jr Maintenance Developer | 💻 Software Engineering | — | Baltimore, MD | — | 21d | [apply](https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/44210) |
-| Hazen and Sawyer | Assistant Engineer (Entry-level) | 🏗️ Civil & Environmental | — | Seattle, WA | — | 21d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=92597001-ac6f-4a45-92ec-13f78d7b2194&jobId=9200597273787_1&lang=en_US) |
-| Raxium | Software Engineer II, Early Career | 💻 Software Engineering | — | Mountain View, CA | — | 22d | [apply](https://www.google.com/about/careers/applications/jobs/results/109116638069957318) |
-| General Dynamics | Entry-Level Electrical Engineer | 🔌 Hardware & Electrical (ECE) | — | Groton, CT | — | 22d | [apply](https://careers-gdeb.icims.com/jobs/21128/entry-level-electrical-engineer/job?in_iframe=1) |
-| General Dynamics | Electrical Engineer (Entry Level) - 2nd Shift | 🔌 Hardware & Electrical (ECE) | — | Groton, CT | — | 22d | [apply](https://careers-gdeb.icims.com/jobs/21354/electrical-engineer-%28entry-level%29---2nd-shift/job?in_iframe=1) |
-| Centennial Technologies | Jr. Financial Analyst | 📈 Quant & Trading | — | VA | — | 22d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4390796/6e15f830-9542-464b-9137-7f4f78e2e720) |
-| Valiant Solutions | Red Team Tester (Junior) | 🖥️ IT & Infrastructure | — | Remote | — | 22d | [apply](https://careers-valiantsolutions.icims.com/jobs/7772/red-team-tester-%28junior%29/job?in_iframe=1) |
-| E2 Optics | Junior Project Engineer | 🏗️ Civil & Environmental | — | Cedar Rapids, IA | — | 22d | [apply](https://careers-e2optics.icims.com/jobs/3996/junior-project-engineer-/job?in_iframe=1) |
-| Shannon & Wilson | Geotechnical Engineer (Entry-Level) | 🏗️ Civil & Environmental | — | Boise, ID | — | 22d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4615779/2ac3d74b-b7c4-4f20-a84f-64f048df636e) |
+| Coborn's | Financial Analyst - Entry Level | 📈 Quant & Trading | — | St. Cloud, MN | — | 22d | [apply](https://careers.cobornsinc.com/jobs/35739?lang=en-us) |
+| LOCKHEED MARTIN | Entry-Level Test Engineer - Missile/Sensor Systems | 💻 Software Engineering | — | Orlando, FL | — | 22d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477565007) |
+| Langan Engineering & Environmental Services | Entry-Level Civil Engineer | 🏗️ Civil & Environmental | — | Nashville, TN +1 | — | 22d | [apply](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4463385009) |
+| IMEG | Mechanical Engineering New Grad \| Ontario, CA | 🔌 Hardware & Electrical (ECE) | — | Ontario, CA | — | 22d | [apply](https://imeg.wd1.myworkdayjobs.com/Imeg_Careers/job/Ontario-California/Mechanical-Engineering-New-Grad---San-Francisco--CA_R-16413) |
+| AltaMed Health Services | IT Network Junior Administrator | 🖥️ IT & Infrastructure | — | Commerce, CA | — | 22d | [apply](https://altamed.wd1.myworkdayjobs.com/Careers/job/Commerce-CA-90040/IT-Network-Junior-Administrator_JR11034) |
+| Amazon Lab126 | Mechatronic Apprentice I, RME | 🔌 Hardware & Electrical (ECE) | — | San Marcos, TX | — | 22d | [apply](https://www.amazon.jobs/en/jobs/10590375/mechatronic-apprentice-i-rme) |
+| Amazon Lab126 | Mechatronic Apprentice I | 🔌 Hardware & Electrical (ECE) | — | San Antonio, TX +5 | — | 22d | [apply](https://www.amazon.jobs/en/jobs/10580391/mechatronic-apprentice-i) |
+| Native Star Group | Junior Data Scientist | 📊 Data & Analytics | — | Fairfax, VA | — | 22d | [apply](https://careers-allnativegroup.icims.com/jobs/10863/junior-data-scientist/job?in_iframe=1) |
+| LOCKHEED MARTIN | Radio Frequency Engineer - Early Career | 🔌 Hardware & Electrical (ECE) | — | Liverpool, NY +3 | — | 22d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477460029) |
+| Integration Innovation | Junior Machine Learning Engineer | 💻 Software Engineering | — | Arlington, VA | — | 22d | [apply](https://careers-i3-corps.icims.com/jobs/5417/junior-machine-learning-engineer/job?in_iframe=1) |
+| BGIS | Jr Data Center Technician | 💻 Software Engineering | — | Phoenix, AZ | — | 22d | [apply](https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/234043) |
+| General Matter | Field Engineer (New Grad) | ✈️ Aerospace & Marine | — | Paducah, KY | — | 22d | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5466633008) |
+| WSP | Entry-Level Structural Engineer - Hydraulic Structures | 🏗️ Civil & Environmental | — | Sacramento, CA | — | 22d | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98451) |
+| AECOM | Entry-Level Digital Solutions Business Analyst | 📊 Data & Analytics | — | Germantown, MD | — | 22d | [apply](https://jobs.smartrecruiters.com/AECOM2/744000159214369) |
+| Red Wrench Plumbing | Electrical Apprentice - Marietta | 🔌 Hardware & Electrical (ECE) | — | Marietta, GA | — | 22d | [apply](https://careers-coolray.icims.com/jobs/14273/login) |
+| WSP | Early Career Substation Engineer | 🔌 Hardware & Electrical (ECE) | — | Buffalo, NY | — | 22d | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98679) |
+| Cherokee Federal | Jr Maintenance Developer | 💻 Software Engineering | — | Baltimore, MD | — | 22d | [apply](https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/44210) |
+| Hazen and Sawyer | Assistant Engineer (Entry-level) | 🏗️ Civil & Environmental | — | Seattle, WA | — | 22d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=92597001-ac6f-4a45-92ec-13f78d7b2194&jobId=9200597273787_1&lang=en_US) |
+| Raxium | Software Engineer II, Early Career | 💻 Software Engineering | — | Mountain View, CA | — | 23d | [apply](https://www.google.com/about/careers/applications/jobs/results/109116638069957318) |
+| General Dynamics | Entry-Level Electrical Engineer | 🔌 Hardware & Electrical (ECE) | — | Groton, CT | — | 23d | [apply](https://careers-gdeb.icims.com/jobs/21128/entry-level-electrical-engineer/job?in_iframe=1) |
+| General Dynamics | Electrical Engineer (Entry Level) - 2nd Shift | 🔌 Hardware & Electrical (ECE) | — | Groton, CT | — | 23d | [apply](https://careers-gdeb.icims.com/jobs/21354/electrical-engineer-%28entry-level%29---2nd-shift/job?in_iframe=1) |
+| Centennial Technologies | Jr. Financial Analyst | 📈 Quant & Trading | — | VA | — | 23d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4390796/6e15f830-9542-464b-9137-7f4f78e2e720) |
+| Valiant Solutions | Red Team Tester (Junior) | 🖥️ IT & Infrastructure | — | Remote | — | 23d | [apply](https://careers-valiantsolutions.icims.com/jobs/7772/red-team-tester-%28junior%29/job?in_iframe=1) |
+| E2 Optics | Junior Project Engineer | 🏗️ Civil & Environmental | — | Cedar Rapids, IA | — | 23d | [apply](https://careers-e2optics.icims.com/jobs/3996/junior-project-engineer-/job?in_iframe=1) |
+| Shannon & Wilson | Geotechnical Engineer (Entry-Level) | 🏗️ Civil & Environmental | — | Boise, ID | — | 23d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4615779/2ac3d74b-b7c4-4f20-a84f-64f048df636e) |
 
 ## 🔥 Most-hiring employers
 
@@ -105,22 +105,22 @@ At most 2 per employer, so one big hirer cannot fill the page.
 
 ## 💰 Highest stated pay
 
-_Of the 31 roles that state a figure — most employers do not._
+_Of the 30 roles that state a figure — most employers do not._
 
 **Legend:** 🛂 does **not** sponsor visas · 🇺🇸 requires US citizenship · 🌏 sponsorship available — each read from the posting's own text. No marker means neither source says anything.
 
 | Company | Role | Category | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|---|
-| Swarm Aero | Software Engineer, Real-Time Systems (Early Career) 🇺🇸 | 💻 Software Engineering | — | Remote | $170,000–$220,000 | 56d | [apply](https://jobs.ashbyhq.com/swarmaero/7d3783c5-f98c-4def-8c33-6de907aab30e) |
-| Belay Technologies | Junior Software Engineer | 💻 Software Engineering | — | Annapolis Junction, MD +2 | $70,000–$190,000 | 23d | [apply](https://belaytechnologies.applytojob.com/apply/xkQD2rJ2yf/Junior-Software-Engineer) |
-| Chalk | Software Engineer - New Grad | 💻 Software Engineering | — | San Francisco, CA | $170,000–$180,000 | 47d | [apply](https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f) |
-| Blissway | Embedded Systems Engineer, Recent Graduate | 💻 Software Engineering | — | Denver, CO | $125,000–$165,000 | 72d | [apply](https://jobs.ashbyhq.com/blissway/51d6d839-9801-4436-bfc2-918bae428ed8) |
-| Blissway | Electrical Engineer, Recent Graduate | 🔌 Hardware & Electrical (ECE) | — | Denver, CO | $125,000–$165,000 | 72d | [apply](https://jobs.ashbyhq.com/blissway/5f15b5dd-1eef-4e0e-a912-6993a9c746d2) |
-| Agave | Full-Stack Software Engineer (New Grad) | 💻 Software Engineering | — | San Francisco, CA | $130,000–$160,000 | 27d | [apply](https://jobs.ashbyhq.com/agave/73bd2c98-bf87-4eaa-aea8-35e7b6131d0e) |
-| Netic | Full-Stack Software Engineer (Product) - New Grad - 2026-2027 | 💻 Software Engineering | 2026 | San Francisco, CA | $138,000–$160,000 | 73d | [apply](https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3) |
-| Valon | Software Engineer New Grad | 💻 Software Engineering | — | New York, NY | $135,000–$160,000 | 73d | [apply](https://jobs.ashbyhq.com/Valon/e08ad09a-4408-4210-8c1b-da6510f83324) |
-| IntelliPro | Junior Field Applications Engineer (FAE) – Data Center &amp; Enterprise Markets | 💻 Software Engineering | — | San Francisco Bay Area, CA | $110,000–$150,000 | 27d | [apply](https://intellipro.applytojob.com/apply/CTvBu9plwl/Junior-Field-Applications-Engineer-FAE-Data-Center-Enterprise-Markets) |
-| Pangram Labs | Machine Learning Engineer (Junior) | 💻 Software Engineering | — | Brooklyn, NY | $135,000–$150,000 | 50d | [apply](https://jobs.ashbyhq.com/pangramlabs/52d3bc99-944f-4ed7-ae61-8ed5333fff1d) |
+| Swarm Aero | Software Engineer, Real-Time Systems (Early Career) 🇺🇸 | 💻 Software Engineering | — | Remote | $170,000–$220,000 | 57d | [apply](https://jobs.ashbyhq.com/swarmaero/7d3783c5-f98c-4def-8c33-6de907aab30e) |
+| Belay Technologies | Junior Software Engineer | 💻 Software Engineering | — | Annapolis Junction, MD +2 | $70,000–$190,000 | 24d | [apply](https://belaytechnologies.applytojob.com/apply/xkQD2rJ2yf/Junior-Software-Engineer) |
+| Chalk | Software Engineer - New Grad | 💻 Software Engineering | — | San Francisco, CA | $170,000–$180,000 | 48d | [apply](https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f) |
+| Blissway | Embedded Systems Engineer, Recent Graduate | 💻 Software Engineering | — | Denver, CO | $125,000–$165,000 | 73d | [apply](https://jobs.ashbyhq.com/blissway/51d6d839-9801-4436-bfc2-918bae428ed8) |
+| Blissway | Electrical Engineer, Recent Graduate | 🔌 Hardware & Electrical (ECE) | — | Denver, CO | $125,000–$165,000 | 73d | [apply](https://jobs.ashbyhq.com/blissway/5f15b5dd-1eef-4e0e-a912-6993a9c746d2) |
+| Agave | Full-Stack Software Engineer (New Grad) | 💻 Software Engineering | — | San Francisco, CA | $130,000–$160,000 | 28d | [apply](https://jobs.ashbyhq.com/agave/73bd2c98-bf87-4eaa-aea8-35e7b6131d0e) |
+| Netic | Full-Stack Software Engineer (Product) - New Grad - 2026-2027 | 💻 Software Engineering | 2026 | San Francisco, CA | $138,000–$160,000 | 74d | [apply](https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3) |
+| Valon | Software Engineer New Grad | 💻 Software Engineering | — | New York, NY | $135,000–$160,000 | 74d | [apply](https://jobs.ashbyhq.com/Valon/e08ad09a-4408-4210-8c1b-da6510f83324) |
+| IntelliPro | Junior Field Applications Engineer (FAE) – Data Center &amp; Enterprise Markets | 💻 Software Engineering | — | San Francisco Bay Area, CA | $110,000–$150,000 | 28d | [apply](https://intellipro.applytojob.com/apply/CTvBu9plwl/Junior-Field-Applications-Engineer-FAE-Data-Center-Enterprise-Markets) |
+| Pangram Labs | Machine Learning Engineer (Junior) | 💻 Software Engineering | — | Brooklyn, NY | $135,000–$150,000 | 51d | [apply](https://jobs.ashbyhq.com/pangramlabs/52d3bc99-944f-4ed7-ae61-8ed5333fff1d) |
 
 <details>
 <summary>📅 Browse by term</summary>
@@ -128,11 +128,11 @@ _Of the 31 roles that state a figure — most employers do not._
 | Term | Roles |
 |---|---:|
 | 2026 | 21 |
-| 2027 | 43 |
+| 2027 | 42 |
 | Spring | 1 |
 | Spring 2027 | 1 |
 | Summer 2027 | 5 |
-| _not stated_ | 651 |
+| _not stated_ | 641 |
 
 _Term is read from the posting title; `not stated` means the employer did not say. Terms already past are left out._
 
@@ -140,9 +140,9 @@ _Term is read from the posting title; `not stated` means the employer did not sa
 
 ## 📍 Top locations
 
-**CA** 80 · **VA** 65 · **TX** 60 · **NY** 44 · **MD** 38 · **CO** 33 · **IL** 33 · **GA** 27 · **PA** 23 · **FL** 22 · **NC** 22 · **AL** 16
+**CA** 79 · **VA** 64 · **TX** 60 · **NY** 44 · **MD** 37 · **CO** 33 · **IL** 33 · **GA** 26 · **PA** 23 · **FL** 22 · **NC** 22 · **AL** 16
 
-_32 remote · 0 postings have no location stated._
+_31 remote · 0 postings have no location stated._
 
 ---
 
