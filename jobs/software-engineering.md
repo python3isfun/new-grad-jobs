@@ -1,6 +1,6 @@
 # 💻 Software Engineering
 
-**221 roles** · updated `2026-11-25 16:23 UTC` · [← all categories](../README.md)
+**214 roles** · updated `2026-11-26 16:23 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (21 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -8,213 +8,207 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 
 | Company | Role | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|
-| LOCKHEED MARTIN | Entry-Level Test Engineer - Missile/Sensor Systems | — | Orlando, FL | — | 22d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477565007) |
-| Integration Innovation | Junior Machine Learning Engineer | — | Arlington, VA | — | 22d | [apply](https://careers-i3-corps.icims.com/jobs/5417/junior-machine-learning-engineer/job?in_iframe=1) |
-| BGIS | Jr Data Center Technician | — | Phoenix, AZ | — | 22d | [apply](https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/234043) |
-| Cherokee Federal | Jr Maintenance Developer | — | Baltimore, MD | — | 22d | [apply](https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/44210) |
-| Raxium | Software Engineer II, Early Career | — | Mountain View, CA | — | 23d | [apply](https://www.google.com/about/careers/applications/jobs/results/109116638069957318) |
-| LOCKHEED MARTIN | Software Engineer - Early Career | — | Huntsville, AL +7 | — | 23d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477286175) |
-| RAYTHEON | Entry Level Software Developer Application Support Sustainment Remote | — | cedar rapids, IA | — | 23d | [apply](https://careers.rtx.com/pl/pl/job/01885356/Entry-Level-Software-Developer-Application-Support-Sustainment-Remote) |
-| Suvoda | Junior Technical (Support) Analyst w. Python (second shift) | — | Remote | — | 24d | [apply](https://www.suvoda.com/careers/job-openings?gh_jid=8911267002) |
-| Belay Technologies | Junior Software Engineer | — | Annapolis Junction, MD +2 | $70,000–$190,000 | 24d | [apply](https://belaytechnologies.applytojob.com/apply/xkQD2rJ2yf/Junior-Software-Engineer) |
-| Lynch Consultants | Jr SharePoint Analyst | — | Arlington, VA | $52,000–$55,000 | 24d | [apply](https://lynchconsultantsllc.applytojob.com/apply/51dxL2wZ0u/Jr-SharePoint-Analyst) |
-| Volaris Group | Junior Software Developer | — | Remote | — | 24d | [apply](https://volarisgroup.wd3.myworkdayjobs.com/Volaris/job/Remote-Ireland/Junior-Software-Developer_R71306-1) |
-| Valtech | Jr. AI Native Experience Designer | — | Remote | — | 24d | [apply](https://www.valtech.com/career/jobs/5020038101/) |
-| Valtech | Jr. AI Native Engineer | — | Remote | — | 24d | [apply](https://www.valtech.com/career/jobs/5020033101/) |
-| Applied Materials Korea | New College Grad Computational Physics And Agentic Ai Engineer Doctorate Degree Spring | Spring | Santa Clara, CA | — | 24d | [apply](https://jobs.appliedmaterials.com/job/santa-clara/new-college-grad-computational-physics-and-agentic-ai-engineer-doctorate-degree-spring-2027/95/102671090432) |
-| Systems Planning & Analysis | Systems Engineer Junior/Journeyman | — | Colorado Springs, CO | — | 24d | [apply](https://careers-spa.icims.com/jobs/23396/login) |
-| Systems Planning & Analysis | Software Developer - Junior/Journeyman | — | Colorado Springs, CO | — | 24d | [apply](https://careers-spa.icims.com/jobs/23460/login) |
-| Systems Planning & Analysis | Jr. Systems Engineer | — | Alexandria, VA | — | 24d | [apply](https://careers-spa.icims.com/jobs/23740/login) |
-| Intelliforce-IT Solutions Group | Junior Software Engineer (Prime) | — | Annapolis Junction, MD | $101,000–$129,000 | 25d | [apply](https://intelliforceitsolutionsgroup.applytojob.com/apply/vrH8MYXO9u/Junior-Software-Engineer-Prime) |
-| Global Seamless | Test Engineer Manual Junior | — | Lafayette, LA | — | 25d | [apply](https://opportunities.ledfaststart.com/global/en/job/J1026-2809/Test-Engineer-Manual-Junior) |
-| Global Seamless | Junior IT Analyst | — | Remote, VA | — | 25d | [apply](https://opportunities.ledfaststart.com/global/en/job/J0926-1208/Junior-IT-Analyst) |
-| NVIDIA | Software Engineer, Hardware Tools and Methodology - New College Grad 2026 | 2026 | Santa Clara, CA | — | 25d | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659) |
-| NVIDIA | Research Scientist, AI for Graphics and Gaming - New College Grad 2026 | 2026 | Santa Clara, CA | — | 25d | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267) |
-| Caravan Foods | Software Development Engineer (Database) Early Career- 2027 (US) | 2027 | Seattle, WA | — | 25d | [apply](https://www.amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us) |
-| Amentum | Entry Level Software Engineer - SECRET | — | Dahlgren, VA | — | 25d | [apply](https://veterans.amentumcareers.com/jobs/entry-level-software-engineer-secret/5239D5FEC48E48CBAEEBF85A44ABB0AF) |
-| Baylor University | Junior Slate Systems Analyst/Slate Systems Analyst/Senior Slate Systems Analyst | — | Waco, TX | — | 25d | [apply](https://ejof.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/22169) |
-| IntelliPro | Junior Field Applications Engineer – Data Center &amp; Enterprise Markets | — | CA | — | 25d | [apply](https://intellipro.applytojob.com/apply/huWQihf62L/Junior-Field-Applications-Engineer-Data-Center-Enterprise-Markets) |
-| New York Stock Exchange | Junior Technician, Data Center Operations | — | Chicago, IL | — | 25d | [apply](https://careers-ice.icims.com/jobs/13942/login) |
-| BodySpec | Junior Developer | — | Austin, TX | $70,170 | 25d | [apply](https://bodyspec.applytojob.com/apply/YsrsS9yEg7/Junior-Developer) |
-| LOCKHEED MARTIN | sUAS/Drone Software Engineer Asc - Early Career 🇺🇸 | — | San Luis Obispo, CA | — | 25d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477386132) |
-| GlobalFoundries | Building System Engineer (2027 New College Graduate) | 2027 | Essex, VT | — | 25d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770506467) |
-| Citi One Realty | Junior Application Developer | — | Tampa, FL | — | 26d | [apply](https://jobs.citi.com/job/tampa/junior-application-developer/287/102610237696) |
-| USAA | Software Engineer Entry Level | — | San Antonio, TX | — | 26d | [apply](https://www.usaajobs.com/job/san-antonio/software-engineer-entry-level/1207/102550133984) |
-| Tractor Supply | Junior Software Engineer (UAS) | — | Arlington, VA | — | 26d | [apply](https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Arlington-VA/Junior-Software-Engineer--UAS-_JR2896) |
-| Office1 | Junior AI Programmer_Must be located in Nevada | — | Las Vegas, NV | — | 26d | [apply](https://office1.applicantpro.com/jobs/4260958) |
-| Georgia Tech Research Institute | Systems Engineer Junior To Mid Level Asl Open Rank Atlanta Georgia United States 5aaa 4966 89eb | — | Atlanta, GA | — | 26d | [apply](https://careers.gtri.gatech.edu/jobs/systems-engineer-junior-to-mid-level-asl-open-rank-atlanta-georgia-united-states-1dfb5868-5aaa-4966-89eb-6b68dcbd639f) |
-| LOCKHEED MARTIN | Software Engineer Asc - Early Career | — | Fort Worth, TX +4 | — | 26d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477479739) |
-| DFIR Dominican | Hexordia Bethesda Md Entry Level Junior Digital Forensic Analyst With Ts Sci With Ci Poly | — | Bethesda, MD | — | 26d | [apply](https://dfirdominican.com/job/hexordia-bethesda-md-entry-level-junior-digital-forensic-analyst-with-ts-sci-with-ci-poly/) |
-| Vantor | Geospatial Analyst (entry level) | — | Tampa, FL | — | 26d | [apply](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Tampa-FL/Geospatial-Analyst--entry-level-_R24849-1) |
-| Analog Devices | Associate Field Applications Engineer (Sales Rotational Program) | — | San Diego Avenue of Science, CA | — | 26d | [apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Diego-Avenue-of-Science/Associate-Field-Applications-Engineer--Sales-Rotational-Program-_R267389-1) |
-| Rendezvous Robotics | Flight Software Engineer (Early Career) | — | Golden, CO | — | 26d | [apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4464270009) |
-| Interco | Junior Software Developer | — | St. Louis, MO | — | 26d | [apply](https://jobs.smartrecruiters.com/Interco/744000158582219) |
-| Northwood | Software Engineer, Platform (Early Career) | — | Los Angeles, CA, CA | $123,000–$140,000 | 26d | [apply](https://jobs.ashbyhq.com/NorthwoodSpace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6) |
-| GlobalFoundries | Software Engineer (2027 New College Graduate) | 2027 | Santa Clara, CA | — | 26d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770505818) |
-| Torch Technologies | Entry-Level Systems Test Engineer | — | Huntsville, AL | — | 26d | [apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Level-Systems-Test-Engineer_R2137) |
-| Healthcare United | Junior Product Analyst And Quality Assurance Remote | — | Eden Prairie, MN | — | 27d | [apply](https://careers.unitedhealthgroup.com/job/eden-prairie/junior-product-analyst-and-quality-assurance-remote/34088/101089069072) |
-| LOCKHEED MARTIN | A/AI Machine Learning Engineer - Early Career | — | King of Prussia, PA | — | 27d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477288043) |
-| Glean | Software Engineer, University Grad | — | Mountain View, CA | — | 27d | [apply](https://job-boards.greenhouse.io/gleanwork/jobs/4748567005) |
-| The Fountain Group | Associate Software Test Engineer Recent Grads Welcome | — | Tucson, AZ | $42.00/hr–$45.00/hr | 27d | [apply](https://www.thefountaingroup.com/job/18471/associate_software_test_engineer_recent_grads_welcome?change_lang=en) |
-| Brown & Brown | Junior HubSpot Developer | — | Plano, TX | — | 27d | [apply](https://bbinsurance.wd1.myworkdayjobs.com/Careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694) |
-| Peraton | Jr. Java Cloud Developer | — | Annapolis Junction, MD | — | 27d | [apply](https://careers-peraton.icims.com/jobs/172613/jr.-java-cloud-developer/job?in_iframe=1) |
-| Nightwing | Jr. Computational Engineer | — | Annapolis Junction, MD | — | 27d | [apply](https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Jr-Computational-Engineer_JR102201) |
-| Veolia | Junior Manufacturing Software Engineer | — | Boulder, CO | — | 27d | [apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000158336900) |
-| Amentum | Software Engineer Junior 🇺🇸 | — | Vandenberg Air Force Base, CA | — | 28d | [apply](https://veterans.amentumcareers.com/jobs/software-engineer-junior/1126EA6215494F5185C5CEC184B040D6) |
-| Amentum | Integration Engineer Junior 🇺🇸 | — | Vandenberg Air Force Base, CA | — | 28d | [apply](https://veterans.amentumcareers.com/jobs/integration-engineer-junior/7B903D96DDC44A3C89FD535FD26A1E31) |
-| IntelliPro | Junior Field Applications Engineer (FAE) – Data Center &amp; Enterprise Markets | — | San Francisco Bay Area, CA | $110,000–$150,000 | 28d | [apply](https://intellipro.applytojob.com/apply/CTvBu9plwl/Junior-Field-Applications-Engineer-FAE-Data-Center-Enterprise-Markets) |
-| GlobalFoundries | Sr Process Integration Engineer (2027 New College Graduate) | 2027 | Essex, VT | — | 28d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770506670) |
-| NOMAD | Software Engineer New Grad Machine Learning Platform Quora Quora | — | Remote | $97,600–$139,000 | 28d | [apply](https://www.workingnomads.com/jobs/software-engineer-new-grad-machine-learning-platform-quora-quora) |
-| DeWinter Group | Jr Full Stack Software Engineer In Dwt Matrix Jobs | — | Foster City, CA | $30.00/hr–$35.00/hr | 28d | [apply](https://www.dewintergroup.com/job-details/jr-full-stack-software-engineer-in-dwt-matrix-jobs-1772230) |
-| ICF | Jr Technical Business Analyst | — | Reston, VA | — | 28d | [apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Jr-Technical-Business-Analyst_R2603626) |
-| Agave | Full-Stack Software Engineer (New Grad) | — | San Francisco, CA | $130,000–$160,000 | 28d | [apply](https://jobs.ashbyhq.com/agave/73bd2c98-bf87-4eaa-aea8-35e7b6131d0e) |
-| MGAC | Data Center Construction - Junior Project Manager Cost Focus | — | Columbus, OH | — | 28d | [apply](https://job-boards.greenhouse.io/mgac/jobs/4469071009) |
-| CrossCountry Consulting | Forward Deployed Software Engineer (Recent Graduate) - New York | — | New York, NY | — | 28d | [apply](https://jobs.lever.co/crosscountry-consulting/f294b6dd-b2dc-46c5-9139-9ba93163ba5c) |
-| CrossCountry Consulting | Forward Deployed Software Engineer (Recent Graduate) - DC Metro | — | McLean, VA | — | 28d | [apply](https://jobs.lever.co/crosscountry-consulting/eb6ab6cf-6f93-486f-b4bf-6137bc67feb7) |
-| CrossCountry Consulting | Forward Deployed Software Engineer (Recent Graduate) - Chicago | — | Chicago, IL | — | 28d | [apply](https://jobs.lever.co/crosscountry-consulting/10ecb553-0393-4e7b-af5a-88a1947a0769) |
-| LOCKHEED MARTIN | Systems Engineer Asc - Early Career | — | Fort Worth, TX | — | 28d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477471802) |
-| Analog Devices | Field Applications Engineer (Graduate Rotational Program) | — | Bloomington, MN | — | 28d | [apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MN-Bloomington/Field-Applications-Engineer--Graduate-Rotational-Program-_R267392) |
-| Visionist | Junior Software Engineer | — | Columbia, MD | — | 29d | [apply](https://jobs.jobvite.com/visionist/job/o0UYAfwc) |
-| Visionist | Junior Full Stack Software Engineer | — | Annapolis Junction, MD | — | 29d | [apply](https://jobs.jobvite.com/visionist/job/ot4ZAfwQ) |
-| Amentum | Junior Web Developer | — | Dahlgren, VA | — | 29d | [apply](https://veterans.amentumcareers.com/jobs/junior-web-developer/D075C996CBE84E06B68F648BC9AA0B8A) |
-| General Dynamics | Software Engineer – Entry Level | — | Bloomington, MN +1 | — | 29d | [apply](https://careers-gdms.icims.com/jobs/75968/software-engineer-%e2%80%93-entry-level/job?in_iframe=1) |
-| General Dynamics Mission Systems | Software Engineer – Entry Level | — | Manassas, VA | — | 29d | [apply](https://careers-gdms.icims.com/jobs/75792/software-engineer-%e2%80%93-entry-level/job?in_iframe=1) |
-| MGAC | Data Center Construction - Junior to Mid Project Manager | — | New Albany, OH +1 | — | 29d | [apply](https://job-boards.greenhouse.io/mgac/jobs/4467716009) |
-| General Dynamics Mission Systems | Systems Test Engineer – Entry Level | — | Scottsdale, AZ | — | 29d | [apply](https://careers-gdms.icims.com/jobs/75785/systems-test-engineer-%e2%80%93-entry-level/job?in_iframe=1) |
-| LOCKHEED MARTIN | Associate Software Engineer- Early Career | — | Mt Laurel Township, NJ | — | 30d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477504239) |
-| Old Mission | Junior Trading Operations/DevOps Engineer | — | Chicago, IL | — | 32d | [apply](https://jobs.ashbyhq.com/old-mission-capital/c15a04cc-696a-4463-aae4-6b73bcf07162) |
-| Redhorse | Junior GIS Analyst | — | Arlington, VA | — | 32d | [apply](https://jobs.lever.co/redhorsecorp/6b6efa8a-1efe-4ffb-b0ad-798500fda6fb) |
-| Martek Global | Junior Computer Operator - Aberdeen Proving Ground, MD | — | Aberdeen Proving Ground, MD | $18.00/hr–$20.00/hr | 32d | [apply](https://martekglobal.applytojob.com/apply/PqkQztjf8R/Junior-Computer-Operator-Aberdeen-Proving-Ground-MD) |
-| INDUS Technology | Jr. ERP Systems Analyst | — | Norfolk, VA | — | 32d | [apply](https://careers-industechnology.icims.com/jobs/2307/jr.-erp-systems-analyst/job?in_iframe=1) |
-| Georgia Tech Research Institute | Embedded Real Time Software Engineer Junior To Mid Level Asl Open Rank Atlanta Georgia United States | — | Atlanta, GA | — | 32d | [apply](https://careers.gtri.gatech.edu/jobs/embedded-real-time-software-engineer-junior-to-mid-level-asl-open-rank-atlanta-georgia-united-states) |
-| Torch Technologies | Junior Modeling and Simulation (M&S) Software Developer | — | Huntsville, AL | — | 32d | [apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Junior-Modeling-and-Simulation--M-S--Software-Developer_R2086) |
-| Peraton | IT Monitoring Administrator - Junior | — | Atlantic City, NJ | — | 33d | [apply](https://careers-peraton.icims.com/jobs/171932/it-monitoring-administrator---junior/job?in_iframe=1) |
-| Boeing | Entry-Level Software Engineer | — | USA - Maryland Heights, MO | — | 33d | [apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321-1) |
-| The Ash Group | 24702 Jr Technical Analyst Columbus Oh | — | Columbus, OH | — | 33d | [apply](https://jobs.theashgroup.com/job/24702-jr-technical-analyst-columbus-oh) |
-| LOCKHEED MARTIN | Systems Engineer - Integration and Test - Early Career | — | Fort Worth, TX | — | 33d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477358497) |
-| True Anomaly | Software Engineer I, QA (New Grad) | — | Denver, CO | — | 33d | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007) |
-| Palantir Technologies | Forward Deployed Software Engineer, New Grad - Warp Speed | — | New York, NY | — | 33d | [apply](https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7) |
-| BAE Systems | Junior Quality Engineer | — | Hill AFB, UT | — | 33d | [apply](https://jobs.baesystems.com/global/en/job/131771BR/Junior-Quality-Engineer) |
-| Amazon Lab126 | Jr. Software Development Engineer - Detroit, MI, Jr. Developer Program | — | Detroit, MI | — | 33d | [apply](https://www.amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program) |
-| STC, an Arcfield | Junior to Mid-Level Software Engineer | — | Colorado Springs, CO | — | 34d | [apply](https://careers-arcfield1.icims.com/jobs/8810/login) |
-| Georgia Tech Research Institute | Cybersecurity R D Systems Architect Icl Open Rank Junior Mid Level Atlanta Georgia United States | — | Atlanta, GA | — | 34d | [apply](https://careers.gtri.gatech.edu/jobs/cybersecurity-r-d-systems-architect-icl-open-rank-junior-mid-level-atlanta-georgia-united-states) |
-| Bestronics | Junior Quality Engineer | — | Brea, CA | — | 34d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=30f9da75-8d67-40c7-9dae-80ddb501c4d6&jobId=9201263000106_1&lang=en_US) |
-| Amentum | Entry Level Software Engineer | — | Dahlgren, VA | — | 34d | [apply](https://veterans.amentumcareers.com/jobs/entry-level-software-engineer/8F8DC580537F43BEA5B3C8C13EEEA9D2) |
-| Elanco | Junior Databricks Platform Engineer | — | Bangalore, IN | — | 34d | [apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/IN---Bangalore/Junior-Databricks-Platform-Engineer_R0027456-1) |
-| Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Junior AI Platform Engineer | 2027 | Laurel, MD | — | 34d | [apply](https://studentcareers-jhuapl.icims.com/jobs/60364/login) |
-| Guidewire | Junior AI Engineer- Applied AI | — | Remote | — | 34d | [apply](https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Remote/Junior-AI-Engineer--Applied-AI_JR_15319-1) |
-| Pure Storage | Junior DevOps Engineer | — | Santa Clara, CA | — | 34d | [apply](https://job-boards.greenhouse.io/purestorage/jobs/8282746) |
-| civ.works | Entry Level Geospatial Analyst | — | Fairfax, VA | — | 34d | [apply](https://careers-dewberry.icims.com/jobs/16495/entry-level-geospatial-analyst/job?in_iframe=1) |
-| GlobalFoundries | AI Software Engineer (2027 New College Graduate) | 2027 | Santa Clara, CA | — | 34d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770505821) |
-| NetApp | San Jose Entry Level Software Engineer ANF %28Azure NetApp Files%29 CA 95128 | — | San Jose, CA | — | 35d | [apply](https://jobs.netapp.com/job/San-Jose-Entry-Level-Software-Engineer-ANF-%28Azure-NetApp-Files%29-CA-95128/1407688600/) |
-| Irvine Technology | 23499 Junior Developer Onsite Las Vegas Nevada | — | Las Vegas, NV | — | 35d | [apply](https://www.irvinetechcorp.com/job/23499-junior-developer-onsite-las-vegas-nevada/) |
-| Quora | Full Stack Software Engineer, New Grad - Quora (Remote) | — | Remote | — | 35d | [apply](https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52) |
-| NVIDIA | Software Engineer, Agent Performance Modeling - New College Grad 2026 | 2026 | Santa Clara, CA | — | 35d | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350) |
-| Marsh McLennan | IT Business Analyst Entry Level Insurance | — | Kalispell, MT | — | 35d | [apply](https://careers.marsh.com/global/en/job/MAMCGLOBALR362982EXTERNALENGLOBAL/IT-Business-Analyst-Entry-Level-Insurance) |
-| Marsh McLennan Agency | IT Business Analyst (Entry Level, Insurance) | — | Kalispell, MT | — | 35d | [apply](https://mmc.wd1.myworkdayjobs.com/MMC/job/Kalispell---Timberwolf/IT-Business-Analyst--Entry-Level--Insurance-_R_362982) |
-| Brain | AI/ML Engineer, 2027 New Grad | 2027 | San Francisco, CA | — | 35d | [apply](https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd) |
-| Brain | AI Security Engineer, 2027 New Grad | 2027 | San Francisco, CA | — | 35d | [apply](https://jobs.ashbyhq.com/brainco/32c4e1c9-ccd1-4dca-a68b-31ad1b868030) |
-| BAE Systems | Jr PLM Application Developer | — | Rockville, MD | — | 35d | [apply](https://jobs.baesystems.com/global/en/job/126818BR/Jr-PLM-Application-Developer) |
-| ASM Research, An Accenture Federal Services | Penetration Tester Jr | — | Ashburn, VA | — | 35d | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4723547006?gh_jid=4723547006) |
-| ACCREDITATION COUNCIL FOR GRADUATE MEDICAL EDUCATION | Junior Software Developer | — | Chicago, IL | — | 35d | [apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Junior-Software-Developer_JR35628) |
-| Weekday AI | Junior Software Engineer | — | Remote | — | 36d | [apply](https://apply.workable.com/weekday-1/j/6BB5CCCA21/) |
-| General Dynamics Mission Systems | Entry Level Software Engineer (Spring 2027) | Spring 2027 | Manassas, VA | — | 36d | [apply](https://careers-gdms.icims.com/jobs/75608/entry-level-software-engineer-%28spring-2027%29/job?in_iframe=1) |
-| Applied Materials Korea | Software Engineer Bachelors Degree New College Grad Santa Clara | — | Santa Clara, CA | — | 36d | [apply](https://jobs.appliedmaterials.com/job/santa-clara/software-engineer-bachelors-degree-new-college-grad-santa-clara/95/102194086400) |
-| Otter.ai | Software Engineer, Backend (New Grad) | — | Mountain View, CA | — | 36d | [apply](https://otter.ai/careers?gh_jid=7798264003) |
-| Palantir Technologies | Software Engineer, New Grad - Query Engines | — | New York, NY | — | 36d | [apply](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac) |
-| Citi One Realty | Angular Developer Frontend Engineer Entry Level | — | Irving, TX | — | 36d | [apply](https://jobs.citi.com/job/irving/angular-developer-frontend-engineer-entry-level/287/102169534688) |
-| TechSur Solutions | Junior Web Software Developer | — | Reston, VA | — | 36d | [apply](https://jobs.smartrecruiters.com/TechSurSolutions/3743990016119897) |
-| Freedom Technology Solutions Group | Junior Software Developer 795 | — | Annapolis Junction, MD | — | 36d | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5265949007) |
-| Visionist | Junior Cloud Software Engineer | — | Columbia, MD | — | 36d | [apply](https://jobs.jobvite.com/visionist/job/o5bYAfwy) |
-| GlobalFoundries | AI/ML Systems Engineer (2027 New College Graduate) | 2027 | Richardson, TX | — | 36d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770505716) |
-| Caravan Foods | Software Development Engineer, Early Career - 2027 (US) | 2027 | Seattle, WA | — | 36d | [apply](https://www.amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us) |
-| ASM Research, An Accenture Federal Services | Junior Software Developer | — | St. Louis, MO | — | 36d | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4723148006?gh_jid=4723148006) |
-| Citi One Realty | Full Stack Java Developer Junior | — | Chennai, TN | — | 36d | [apply](https://jobs.citi.com/job/chennai/full-stack-java-developer-junior/287/102161055520) |
-| Arrow Electronics | IT Security Apprentice – AI Red Teaming & AI Risk Assessment | — | KA Bangalore India SKAV Seethalakshmi GESC, IN | — | 37d | [apply](https://arrow.wd1.myworkdayjobs.com/AC/job/IN-KA-Bangalore-India-SKAV-Seethalakshmi-GESC/IT-Security-Apprentice---AI-Red-Teaming---AI-Risk-Assessment_R247591-1) |
-| EverWatch | Software Engineer, Junior | — | Annapolis Junction, MD | — | 38d | [apply](https://everwatch-everwatchsolutions.icims.com/jobs/3580/software-engineer%2c-junior/job?in_iframe=1) |
-| Irvine Technology | 23499 Junior Developer Onsite 2 3 Roles Las Vegas Nevada | — | Las Vegas, NV | — | 39d | [apply](https://www.irvinetechcorp.com/job/23499-junior-developer-onsite-2-3-roles-las-vegas-nevada/) |
-| Serverfarm | Junior Data Center Technician | — | Covington, GA | — | 39d | [apply](https://jobs.lever.co/serverfarm/84be608e-9f83-4119-88f3-4a63b4484bba) |
-| SBT Global | Jr. AI Developer - Korean Bilingual MUST | — | Plano, TX | — | 40d | [apply](https://jobs.smartrecruiters.com/sbtglobalinc/3743990016165776) |
-| Zantech IT Services | Jr Web Applications Developer - Agile, ASP.Net, OOP | — | Andrews Air Force Base AFB, MD +1 | — | 40d | [apply](https://zantech-it.breezy.hr/p/4e5338c5ae4c-jr-web-applications-developer-agile-asp-net-oop) |
-| Getinge | Bengaluru Apprenticeship Software Engineer | — | Bengaluru, IN | — | 40d | [apply](https://careers.getinge.com/job/Bengaluru-Apprenticeship-Software-Engineer/1447715433/) |
-| Quora | Machine Learning Engineer, New Grad - Quora (Remote) | — | Remote | — | 40d | [apply](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3) |
-| Industrial Tectonics | Quality Engineer Trainee | — | Rancho Dominguez, CA | — | 40d | [apply](https://recruiting.ultipro.com/ROL1001RBCAI/JobBoard/323503a8-be53-4e45-a425-31ab5d011434/OpportunityDetail?opportunityId=d1a6bc84-7053-4cdd-b79d-9a1371a03cb9) |
-| AMERICAN SYSTEMS | Junior Systems Engineer | — | Groton, CT | $80,000–$95,000 | 40d | [apply](https://careers-americansystems.icims.com/jobs/5068/junior-systems-engineer/job?in_iframe=1) |
-| Prime Buchholz | Performance Analyst (entry level) | — | PORTSMOUTH, NH | — | 40d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4549638/e544cddf-7e87-428a-8977-9629e944423b) |
-| 1ST American Imts | Junior Systems Engineer | — | Groton, CT | — | 40d | [apply](https://careers-americansystems.icims.com/jobs/5068/login) |
-| INSPYR Solutions | 26 160001 Junior Net Developer Charlotte Nc | — | Charlotte, NC | — | 41d | [apply](https://www.inspyrsolutions.com/job/26-160001-junior-net-developer-charlotte-nc/) |
-| Peraton | Operations Assurance Analyst Junior | — | Fort Belvoir, VA | — | 41d | [apply](https://careers-peraton.icims.com/jobs/167694/operations-assurance-analyst-junior/job?in_iframe=1) |
-| Aurelian | Software Engineer (New Grad) | — | Seattle, WA | $100,000–$130,000 | 41d | [apply](https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e) |
-| Interclypse | QA/Tester (Junior) | — | Annapolis Junction, MD | — | 41d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4558874/6ea91ea2-804f-462b-9fd7-63453b2902ab) |
-| iLawyerMarketing | Junior WordPress Developer, iLawyer Marketing | — | San Diego, CA | — | 41d | [apply](https://jobs.lever.co/rynoss/99fb30a5-ce87-48ee-b8da-933e53c20928) |
-| SBT Global | Jr. IT Security Admin (Korean Bilingual) | — | Plano, TX | — | 41d | [apply](https://jobs.smartrecruiters.com/sbtglobalinc/3743990016134104) |
-| Vantor | Junior Geospatial Analyst | — | McLean, VA | — | 41d | [apply](https://maxar.wd1.myworkdayjobs.com/Vantor/job/McLean-VA/Junior-Geospatial-Analyst_R24784) |
-| ARA | Junior Software Developer | — | Albuquerque, NM | — | 41d | [apply](https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=4a45b594-2e7f-4042-9976-8a3b808265ca) |
-| BAE Systems | Entry Level Software Engineer | — | Wayne, NJ +1 | — | 41d | [apply](https://jobs.baesystems.com/global/en/job/131372BR/Entry-Level-Software-Engineer) |
-| Cerebras | Supplier Quality Engineer - New Grad | — | Sunnyvale, CA | — | 41d | [apply](https://jobs.ashbyhq.com/cerebras/04ce4198-d9b6-4aae-ad11-97708033f94a) |
-| Peraton | Dev/Sec/Ops Software Engineer (Jr.) - Space Programs | — | Las Cruces, NM | — | 41d | [apply](https://careers-peraton.icims.com/jobs/172371/dev-sec-ops-software-engineer-%28jr.%29---space-programs/job?in_iframe=1) |
-| Rohrer | Mastercam Programmer - Entry-Level | — | Bensenville, IL | — | 41d | [apply](https://recruiting.ultipro.com/ROH1000ROH/JobBoard/57243d86-b5d7-49e6-969a-ead0c23136c3/OpportunityDetail?opportunityId=1c17468e-3746-47b2-822c-39272b343550) |
-| Boeing | Entry Level Software Engineer–Developer (Development) | — | Oklahoma City, OK +1 | — | 41d | [apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522577-1) |
-| Boeing | Entry Level B1 Software Systems Engineer | — | Oklahoma City, OK | — | 41d | [apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-B1-Software-Systems-Engineer_JR2026521428-2) |
-| Waites | Junior Software Engineer | — | Huntsville, AL | — | 42d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4557663/3cf27044-d2e4-413c-b583-29993a7a3b2f) |
-| Best Logistics Group | Junior Developer | — | Kernersville, NC | — | 42d | [apply](https://bestlogisticsgroup.recruitee.com/o/junior-developer) |
-| W-Industries | JUNIOR DEVELOPER - INDUSTRIAL CYBERSECURITY | — | Houston, TX | — | 42d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4527861/1c82e21d-a250-4fb1-aa1f-5ebd0f320eab) |
-| NVIDIA | SoC Software Engineer – New College Graduate 2026 | 2026 | Santa Clara, CA | — | 42d | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1) |
-| NVIDIA | SoC Software Engineer - New College Grad 2027 | 2027 | Santa Clara, CA | — | 42d | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744) |
-| Fannie Mae | Jr. Cloud Automation Engineer | — | Reston, VA | — | 42d | [apply](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Jr-Cloud-Automation-Engineer_JR2956) |
-| RoviSys Building Technologies | Entry Level Engineer/Developer - 2027 | 2027 | Dublin, OH | — | 42d | [apply](https://careers-rovisys.icims.com/jobs/2187/entry-level-engineer-developer---2027/job?in_iframe=1) |
-| Boeing | Entry-Level Software Engineer–Developer | — | USA - Richardson, TX | — | 42d | [apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1) |
-| General Dynamics Mission Systems | Systems Engineer - Entry Level | — | Scottsdale, AZ | — | 43d | [apply](https://careers-gdms.icims.com/jobs/74275/systems-engineer---entry-level/job?in_iframe=1) |
-| Arrow Electronics | Apprentice - AI | — | KA Bangalore India SKAV Seethalakshmi GESC, IN | — | 43d | [apply](https://arrow.wd1.myworkdayjobs.com/AC/job/IN-KA-Bangalore-India-SKAV-Seethalakshmi-GESC/Apprentice---AI_R247433) |
-| Boeing | Entry-Level Software Engineer–Test & Verification | — | USA - Tinker AFB, OK | — | 43d | [apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081) |
-| RBC Lubron Bearing | Quality Engineer Trainee | — | Santa Fe Springs, CA | — | 43d | [apply](https://recruiting.ultipro.com/ROL1001RBCAI/JobBoard/323503a8-be53-4e45-a425-31ab5d011434/OpportunityDetail?opportunityId=2ad5c91c-2586-4e5d-8aa0-988e2187b31f) |
-| General Dynamics Mission Systems | Junior Embedded Software Engineer (cleared) | — | Ft. Wayne, IN +1 | — | 43d | [apply](https://careers-gdms.icims.com/jobs/75505/junior-embedded-software-engineer-%28cleared%29/job?in_iframe=1) |
-| NVIDIA | Deep Learning Software Engineer, TensorRT Performance - New College Grad 2027 | 2027 | Santa Clara, CA | — | 43d | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083) |
-| Freedom Technology Solutions Group | Junior Software Engineer 780 | — | Annapolis Junction, MD | — | 43d | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5248064007) |
-| ELEVI Associates | Jr Level Software Developer | — | Annapolis Junction, MD | — | 43d | [apply](https://job-boards.greenhouse.io/eleviassociates/jobs/8015722003) |
-| Freemotion from iFIT | Junior AI Engineer | — | Remote | — | 43d | [apply](http://www.ifit.com/careers?gh_jid=4438032009) |
-| ASSYST | Full Stack Developer (Entry Level) | — | Sterling, VA | — | 43d | [apply](https://job-boards.greenhouse.io/assystinc/jobs/4436912009) |
-| OESC | Junior Developer | — | Fort Meade, MD | — | 44d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4575344/d15ab4ae-c8a7-4768-b462-868e5dbd35a8) |
-| NVIDIA | Software Engineer, DL Kernel Libraries - New College Grad 2027 | 2027 | Santa Clara, CA | — | 44d | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337) |
-| General Dynamics | Entry Level Engineer – Embedded Software / Systems | — | New London, CT | — | 44d | [apply](https://careers-gdeb.icims.com/jobs/21062/entry-level-engineer-%e2%80%93-embedded-software---systems/job?in_iframe=1) |
-| Hays Electrical Services | Electrical Apprentice - Data Center | — | Dallas, TX | $18.00/hr–$37.00/hr | 44d | [apply](https://hayselectricalservices.applytojob.com/apply/NiybOZQuUc/Electrical-Apprentice-Data-Center) |
-| ASM Research, An Accenture Federal Services | Junior Automation Test Engineer | — | Arlington, VA | — | 46d | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4720595006?gh_jid=4720595006) |
-| Peraton Labs | IT Monitoring Administrator - Junior | — | Atlantic City, NJ | — | 48d | [apply](https://careers-peraton.icims.com/jobs/171932/it-monitoring-administrator/job?in_iframe=1) |
-| Chalk | Software Engineer - New Grad | — | San Francisco, CA | $170,000–$180,000 | 48d | [apply](https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f) |
-| Otter.ai | Software Engineer, Front-End (New Grad) | — | Mountain View, CA | — | 48d | [apply](https://otter.ai/careers?gh_jid=8016078003) |
-| BAE Systems | Systems Engineer New Grad | — | Cedar Rapids, IA | — | 50d | [apply](https://jobs.baesystems.com/global/en/job/131009BR/Systems-Engineer-New-Grad) |
-| ID.me | Software Engineer II, Developer Portal (New Grad / Early Career) | — | Mountain View, CA | — | 50d | [apply](https://job-boards.greenhouse.io/idme/jobs/8011089003) |
-| ID.me | Software Development Engineer II – Life Hub (Super App) (New Grad / Early Career) | — | Mountain View, CA | — | 50d | [apply](https://job-boards.greenhouse.io/idme/jobs/8011095003) |
-| Via Logic | Operations Enhancement Analyst - Junior & Mid-Level [U.S. Citizenship & CBP High Trust Suitability Required] | — | Ashburn, VA | — | 51d | [apply](https://job-boards.greenhouse.io/vialogic/jobs/5442496008) |
-| Pangram Labs | Machine Learning Engineer (Junior) | — | Brooklyn, NY | $135,000–$150,000 | 51d | [apply](https://jobs.ashbyhq.com/pangramlabs/52d3bc99-944f-4ed7-ae61-8ed5333fff1d) |
-| STC, an Arcfield | NAVSEA Risk Management Frame (RMF) Information Systems Security Engineer (ISSE) Junior-Mid Role | — | Newport, RI | — | 53d | [apply](https://careers-arcfield1.icims.com/jobs/8729/login) |
-| BAE Systems | FAST Labs Systems Engineer Early Career Levels | — | Merrimack, NH | — | 57d | [apply](https://jobs.baesystems.com/global/en/job/130495BR/FAST-Labs-Systems-Engineer-Early-Career-Levels) |
-| BAE Systems | FAST Labs Software Engineer Early Career Levels Top Secret | — | Merrimack, NH | — | 57d | [apply](https://jobs.baesystems.com/global/en/job/130491BR/FAST-Labs-Software-Engineer-Early-Career-Levels-Top-Secret) |
-| BAE Systems | FAST Labs Software Engineer Early Career Levels Secret | — | Merrimack, NH | — | 57d | [apply](https://jobs.baesystems.com/global/en/job/130493BR/FAST-Labs-Software-Engineer-Early-Career-Levels-Secret) |
-| Swarm Aero | Software Engineer, Real-Time Systems (Early Career) 🇺🇸 | — | Remote | $170,000–$220,000 | 57d | [apply](https://jobs.ashbyhq.com/swarmaero/7d3783c5-f98c-4def-8c33-6de907aab30e) |
-| webAI | Jr DevOps Engineer | — | Austin, TX | — | 58d | [apply](https://jobs.ashbyhq.com/webai/5aa2fb29-be71-4135-928c-e7690611b380) |
-| GlobalFoundries | New Product Development Test Engineer (2027 New College Graduate) | 2027 | Richardson, TX | — | 61d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770505930) |
-| General Matter | Software Engineer, New Grad 🇺🇸 | — | Los Angeles, CA | — | 64d | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375987008) |
-| ID.me | Summer 2027- Software Development Engineer - New Grad | Summer 2027 | Mountain View, CA | — | 65d | [apply](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003) |
-| STC, an Arcfield | Entry level Software Engineer | — | Middletown, RI | — | 65d | [apply](https://careers-arcfield1.icims.com/jobs/8643/login) |
-| STC, an Arcfield | Entry Level Systems Engineer | — | Middletown, RI | — | 65d | [apply](https://careers-arcfield1.icims.com/jobs/8645/login) |
-| Forescout Technologies | Jr. Software Engineer | — | Plano, TX | — | 71d | [apply](https://jobs.jobvite.com/forescout/job/oFXKAfwG) |
-| Whole Foods Market | Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026, Amazon Dedicated Cloud (ADC) | 2026 | Seattle, WA | — | 72d | [apply](https://www.amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc) |
-| GlobalFoundries | 3D Heterogeneous Integration Engineer (2026 New College Graduate) | 2026 | Malta, NY | — | 72d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980768882160) |
-| BAE Systems | Junior Software Engineer | — | Greenlawn, NY | — | 73d | [apply](https://jobs.baesystems.com/global/en/job/128932BR/Junior-Software-Engineer) |
-| Blissway | Embedded Systems Engineer, Recent Graduate | — | Denver, CO | $125,000–$165,000 | 73d | [apply](https://jobs.ashbyhq.com/blissway/51d6d839-9801-4436-bfc2-918bae428ed8) |
-| General Dynamics Mission Systems | Entry Level Software Engineer | — | Scottsdale, AZ | — | 73d | [apply](https://careers-gdms.icims.com/jobs/74823/entry-level-software-engineer/job?in_iframe=1) |
-| Sentry | Software Engineer, New Grad (2027) | 2027 | Remote | $75,000–$80,000 | 73d | [apply](https://jobs.ashbyhq.com/sentry/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2) |
-| Netic | Full-Stack Software Engineer (Product) - New Grad - 2026-2027 | 2026 | San Francisco, CA | $138,000–$160,000 | 74d | [apply](https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3) |
-| Cursor | Software Engineer, New Grad 2027 | 2027 | San Francisco, CA | — | 74d | [apply](https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b) |
-| Notion Islamabad | Software Engineer, Growth (Early Career) | — | San Francisco, CA | — | 74d | [apply](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f) |
-| Valon | Software Engineer New Grad | — | New York, NY | $135,000–$160,000 | 74d | [apply](https://jobs.ashbyhq.com/Valon/e08ad09a-4408-4210-8c1b-da6510f83324) |
-| True Anomaly | Software Engineer I, Spacecraft Simulation (New Grad) | — | Denver, CO | — | 74d | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007) |
-| True Anomaly | Software Engineer I, Data Science (New Grad) | — | Denver, CO | — | 74d | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007) |
-| Amazon Leo | Software Development Engineer, Amazon Leo, Early Career - 2026 | 2026 | Redmond, WA | — | 75d | [apply](https://www.amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026) |
-| Thermo Fisher Scientific | Junior Analyst Digital Solutions Designe | — | Remote | — | 75d | [apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Brazil/Associate-Digital-Solutions-Designe_R-01345532) |
-| Peraton | Jr Software Engineer TS/SCI with Poly | — | Annapolis Junction, MD | — | 75d | [apply](https://careers-peraton.icims.com/jobs/168379/jr-software-engineer-ts-sci-with-poly/job?in_iframe=1) |
-| Peraton | Cloud Software Engineer Jr. - TS/SCI w/Poly | — | Annapolis Junction, MD | — | 75d | [apply](https://careers-peraton.icims.com/jobs/168372/cloud-software-engineer-jr.----ts-sci-w-poly/job?in_iframe=1) |
+| LOCKHEED MARTIN | Entry-Level Test Engineer - Missile/Sensor Systems | — | Orlando, FL | — | 23d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477565007) |
+| Integration Innovation | Junior Machine Learning Engineer | — | Arlington, VA | — | 23d | [apply](https://careers-i3-corps.icims.com/jobs/5417/junior-machine-learning-engineer/job?in_iframe=1) |
+| BGIS | Jr Data Center Technician | — | Phoenix, AZ | — | 23d | [apply](https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/234043) |
+| Cherokee Federal | Jr Maintenance Developer | — | Baltimore, MD | — | 23d | [apply](https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/44210) |
+| Raxium | Software Engineer II, Early Career | — | Mountain View, CA | — | 24d | [apply](https://www.google.com/about/careers/applications/jobs/results/109116638069957318) |
+| LOCKHEED MARTIN | Software Engineer - Early Career | — | Huntsville, AL +7 | — | 24d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477286175) |
+| RAYTHEON | Entry Level Software Developer Application Support Sustainment Remote | — | cedar rapids, IA | — | 24d | [apply](https://careers.rtx.com/pl/pl/job/01885356/Entry-Level-Software-Developer-Application-Support-Sustainment-Remote) |
+| Suvoda | Junior Technical (Support) Analyst w. Python (second shift) | — | Remote | — | 25d | [apply](https://www.suvoda.com/careers/job-openings?gh_jid=8911267002) |
+| Belay Technologies | Junior Software Engineer | — | Annapolis Junction, MD +2 | $70,000–$190,000 | 25d | [apply](https://belaytechnologies.applytojob.com/apply/xkQD2rJ2yf/Junior-Software-Engineer) |
+| Lynch Consultants | Jr SharePoint Analyst | — | Arlington, VA | $52,000–$55,000 | 25d | [apply](https://lynchconsultantsllc.applytojob.com/apply/51dxL2wZ0u/Jr-SharePoint-Analyst) |
+| Volaris Group | Junior Software Developer | — | Remote | — | 25d | [apply](https://volarisgroup.wd3.myworkdayjobs.com/Volaris/job/Remote-Ireland/Junior-Software-Developer_R71306-1) |
+| Valtech | Jr. AI Native Experience Designer | — | Remote | — | 25d | [apply](https://www.valtech.com/career/jobs/5020038101/) |
+| Valtech | Jr. AI Native Engineer | — | Remote | — | 25d | [apply](https://www.valtech.com/career/jobs/5020033101/) |
+| Applied Materials Korea | New College Grad Computational Physics And Agentic Ai Engineer Doctorate Degree Spring | Spring | Santa Clara, CA | — | 25d | [apply](https://jobs.appliedmaterials.com/job/santa-clara/new-college-grad-computational-physics-and-agentic-ai-engineer-doctorate-degree-spring-2027/95/102671090432) |
+| Systems Planning & Analysis | Systems Engineer Junior/Journeyman | — | Colorado Springs, CO | — | 25d | [apply](https://careers-spa.icims.com/jobs/23396/login) |
+| Systems Planning & Analysis | Software Developer - Junior/Journeyman | — | Colorado Springs, CO | — | 25d | [apply](https://careers-spa.icims.com/jobs/23460/login) |
+| Systems Planning & Analysis | Jr. Systems Engineer | — | Alexandria, VA | — | 25d | [apply](https://careers-spa.icims.com/jobs/23740/login) |
+| Intelliforce-IT Solutions Group | Junior Software Engineer (Prime) | — | Annapolis Junction, MD | $101,000–$129,000 | 26d | [apply](https://intelliforceitsolutionsgroup.applytojob.com/apply/vrH8MYXO9u/Junior-Software-Engineer-Prime) |
+| Global Seamless | Test Engineer Manual Junior | — | Lafayette, LA | — | 26d | [apply](https://opportunities.ledfaststart.com/global/en/job/J1026-2809/Test-Engineer-Manual-Junior) |
+| Global Seamless | Junior IT Analyst | — | Remote, VA | — | 26d | [apply](https://opportunities.ledfaststart.com/global/en/job/J0926-1208/Junior-IT-Analyst) |
+| NVIDIA | Software Engineer, Hardware Tools and Methodology - New College Grad 2026 | 2026 | Santa Clara, CA | — | 26d | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659) |
+| NVIDIA | Research Scientist, AI for Graphics and Gaming - New College Grad 2026 | 2026 | Santa Clara, CA | — | 26d | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267) |
+| Caravan Foods | Software Development Engineer (Database) Early Career- 2027 (US) | 2027 | Seattle, WA | — | 26d | [apply](https://www.amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us) |
+| Amentum | Entry Level Software Engineer - SECRET | — | Dahlgren, VA | — | 26d | [apply](https://veterans.amentumcareers.com/jobs/entry-level-software-engineer-secret/5239D5FEC48E48CBAEEBF85A44ABB0AF) |
+| Baylor University | Junior Slate Systems Analyst/Slate Systems Analyst/Senior Slate Systems Analyst | — | Waco, TX | — | 26d | [apply](https://ejof.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/22169) |
+| IntelliPro | Junior Field Applications Engineer – Data Center &amp; Enterprise Markets | — | CA | — | 26d | [apply](https://intellipro.applytojob.com/apply/huWQihf62L/Junior-Field-Applications-Engineer-Data-Center-Enterprise-Markets) |
+| New York Stock Exchange | Junior Technician, Data Center Operations | — | Chicago, IL | — | 26d | [apply](https://careers-ice.icims.com/jobs/13942/login) |
+| BodySpec | Junior Developer | — | Austin, TX | $70,170 | 26d | [apply](https://bodyspec.applytojob.com/apply/YsrsS9yEg7/Junior-Developer) |
+| LOCKHEED MARTIN | sUAS/Drone Software Engineer Asc - Early Career 🇺🇸 | — | San Luis Obispo, CA | — | 26d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477386132) |
+| GlobalFoundries | Building System Engineer (2027 New College Graduate) | 2027 | Essex, VT | — | 26d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770506467) |
+| Citi One Realty | Junior Application Developer | — | Tampa, FL | — | 27d | [apply](https://jobs.citi.com/job/tampa/junior-application-developer/287/102610237696) |
+| USAA | Software Engineer Entry Level | — | San Antonio, TX | — | 27d | [apply](https://www.usaajobs.com/job/san-antonio/software-engineer-entry-level/1207/102550133984) |
+| Tractor Supply | Junior Software Engineer (UAS) | — | Arlington, VA | — | 27d | [apply](https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Arlington-VA/Junior-Software-Engineer--UAS-_JR2896) |
+| Office1 | Junior AI Programmer_Must be located in Nevada | — | Las Vegas, NV | — | 27d | [apply](https://office1.applicantpro.com/jobs/4260958) |
+| Georgia Tech Research Institute | Systems Engineer Junior To Mid Level Asl Open Rank Atlanta Georgia United States 5aaa 4966 89eb | — | Atlanta, GA | — | 27d | [apply](https://careers.gtri.gatech.edu/jobs/systems-engineer-junior-to-mid-level-asl-open-rank-atlanta-georgia-united-states-1dfb5868-5aaa-4966-89eb-6b68dcbd639f) |
+| LOCKHEED MARTIN | Software Engineer Asc - Early Career | — | Fort Worth, TX +4 | — | 27d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477479739) |
+| DFIR Dominican | Hexordia Bethesda Md Entry Level Junior Digital Forensic Analyst With Ts Sci With Ci Poly | — | Bethesda, MD | — | 27d | [apply](https://dfirdominican.com/job/hexordia-bethesda-md-entry-level-junior-digital-forensic-analyst-with-ts-sci-with-ci-poly/) |
+| Vantor | Geospatial Analyst (entry level) | — | Tampa, FL | — | 27d | [apply](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Tampa-FL/Geospatial-Analyst--entry-level-_R24849-1) |
+| Analog Devices | Associate Field Applications Engineer (Sales Rotational Program) | — | San Diego Avenue of Science, CA | — | 27d | [apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Diego-Avenue-of-Science/Associate-Field-Applications-Engineer--Sales-Rotational-Program-_R267389-1) |
+| Rendezvous Robotics | Flight Software Engineer (Early Career) | — | Golden, CO | — | 27d | [apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4464270009) |
+| Interco | Junior Software Developer | — | St. Louis, MO | — | 27d | [apply](https://jobs.smartrecruiters.com/Interco/744000158582219) |
+| Northwood | Software Engineer, Platform (Early Career) | — | Los Angeles, CA, CA | $123,000–$140,000 | 27d | [apply](https://jobs.ashbyhq.com/NorthwoodSpace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6) |
+| GlobalFoundries | Software Engineer (2027 New College Graduate) | 2027 | Santa Clara, CA | — | 27d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770505818) |
+| Torch Technologies | Entry-Level Systems Test Engineer | — | Huntsville, AL | — | 27d | [apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Level-Systems-Test-Engineer_R2137) |
+| Healthcare United | Junior Product Analyst And Quality Assurance Remote | — | Eden Prairie, MN | — | 28d | [apply](https://careers.unitedhealthgroup.com/job/eden-prairie/junior-product-analyst-and-quality-assurance-remote/34088/101089069072) |
+| LOCKHEED MARTIN | A/AI Machine Learning Engineer - Early Career | — | King of Prussia, PA | — | 28d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477288043) |
+| Glean | Software Engineer, University Grad | — | Mountain View, CA | — | 28d | [apply](https://job-boards.greenhouse.io/gleanwork/jobs/4748567005) |
+| The Fountain Group | Associate Software Test Engineer Recent Grads Welcome | — | Tucson, AZ | $42.00/hr–$45.00/hr | 28d | [apply](https://www.thefountaingroup.com/job/18471/associate_software_test_engineer_recent_grads_welcome?change_lang=en) |
+| Brown & Brown | Junior HubSpot Developer | — | Plano, TX | — | 28d | [apply](https://bbinsurance.wd1.myworkdayjobs.com/Careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694) |
+| Peraton | Jr. Java Cloud Developer | — | Annapolis Junction, MD | — | 28d | [apply](https://careers-peraton.icims.com/jobs/172613/jr.-java-cloud-developer/job?in_iframe=1) |
+| Nightwing | Jr. Computational Engineer | — | Annapolis Junction, MD | — | 28d | [apply](https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Jr-Computational-Engineer_JR102201) |
+| Veolia | Junior Manufacturing Software Engineer | — | Boulder, CO | — | 28d | [apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000158336900) |
+| Amentum | Software Engineer Junior 🇺🇸 | — | Vandenberg Air Force Base, CA | — | 29d | [apply](https://veterans.amentumcareers.com/jobs/software-engineer-junior/1126EA6215494F5185C5CEC184B040D6) |
+| Amentum | Integration Engineer Junior 🇺🇸 | — | Vandenberg Air Force Base, CA | — | 29d | [apply](https://veterans.amentumcareers.com/jobs/integration-engineer-junior/7B903D96DDC44A3C89FD535FD26A1E31) |
+| IntelliPro | Junior Field Applications Engineer (FAE) – Data Center &amp; Enterprise Markets | — | San Francisco Bay Area, CA | $110,000–$150,000 | 29d | [apply](https://intellipro.applytojob.com/apply/CTvBu9plwl/Junior-Field-Applications-Engineer-FAE-Data-Center-Enterprise-Markets) |
+| GlobalFoundries | Sr Process Integration Engineer (2027 New College Graduate) | 2027 | Essex, VT | — | 29d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770506670) |
+| NOMAD | Software Engineer New Grad Machine Learning Platform Quora Quora | — | Remote | $97,600–$139,000 | 29d | [apply](https://www.workingnomads.com/jobs/software-engineer-new-grad-machine-learning-platform-quora-quora) |
+| DeWinter Group | Jr Full Stack Software Engineer In Dwt Matrix Jobs | — | Foster City, CA | $30.00/hr–$35.00/hr | 29d | [apply](https://www.dewintergroup.com/job-details/jr-full-stack-software-engineer-in-dwt-matrix-jobs-1772230) |
+| ICF | Jr Technical Business Analyst | — | Reston, VA | — | 29d | [apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Jr-Technical-Business-Analyst_R2603626) |
+| Agave | Full-Stack Software Engineer (New Grad) | — | San Francisco, CA | $130,000–$160,000 | 29d | [apply](https://jobs.ashbyhq.com/agave/73bd2c98-bf87-4eaa-aea8-35e7b6131d0e) |
+| MGAC | Data Center Construction - Junior Project Manager Cost Focus | — | Columbus, OH | — | 29d | [apply](https://job-boards.greenhouse.io/mgac/jobs/4469071009) |
+| CrossCountry Consulting | Forward Deployed Software Engineer (Recent Graduate) - New York | — | New York, NY | — | 29d | [apply](https://jobs.lever.co/crosscountry-consulting/f294b6dd-b2dc-46c5-9139-9ba93163ba5c) |
+| CrossCountry Consulting | Forward Deployed Software Engineer (Recent Graduate) - DC Metro | — | McLean, VA | — | 29d | [apply](https://jobs.lever.co/crosscountry-consulting/eb6ab6cf-6f93-486f-b4bf-6137bc67feb7) |
+| CrossCountry Consulting | Forward Deployed Software Engineer (Recent Graduate) - Chicago | — | Chicago, IL | — | 29d | [apply](https://jobs.lever.co/crosscountry-consulting/10ecb553-0393-4e7b-af5a-88a1947a0769) |
+| LOCKHEED MARTIN | Systems Engineer Asc - Early Career | — | Fort Worth, TX | — | 29d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477471802) |
+| Analog Devices | Field Applications Engineer (Graduate Rotational Program) | — | Bloomington, MN | — | 29d | [apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MN-Bloomington/Field-Applications-Engineer--Graduate-Rotational-Program-_R267392) |
+| Visionist | Junior Software Engineer | — | Columbia, MD | — | 30d | [apply](https://jobs.jobvite.com/visionist/job/o0UYAfwc) |
+| Visionist | Junior Full Stack Software Engineer | — | Annapolis Junction, MD | — | 30d | [apply](https://jobs.jobvite.com/visionist/job/ot4ZAfwQ) |
+| Amentum | Junior Web Developer | — | Dahlgren, VA | — | 30d | [apply](https://veterans.amentumcareers.com/jobs/junior-web-developer/D075C996CBE84E06B68F648BC9AA0B8A) |
+| General Dynamics | Software Engineer – Entry Level | — | Bloomington, MN +1 | — | 30d | [apply](https://careers-gdms.icims.com/jobs/75968/software-engineer-%e2%80%93-entry-level/job?in_iframe=1) |
+| General Dynamics Mission Systems | Software Engineer – Entry Level | — | Manassas, VA | — | 30d | [apply](https://careers-gdms.icims.com/jobs/75792/software-engineer-%e2%80%93-entry-level/job?in_iframe=1) |
+| MGAC | Data Center Construction - Junior to Mid Project Manager | — | New Albany, OH +1 | — | 30d | [apply](https://job-boards.greenhouse.io/mgac/jobs/4467716009) |
+| General Dynamics Mission Systems | Systems Test Engineer – Entry Level | — | Scottsdale, AZ | — | 30d | [apply](https://careers-gdms.icims.com/jobs/75785/systems-test-engineer-%e2%80%93-entry-level/job?in_iframe=1) |
+| LOCKHEED MARTIN | Associate Software Engineer- Early Career | — | Mt Laurel Township, NJ | — | 31d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477504239) |
+| Old Mission | Junior Trading Operations/DevOps Engineer | — | Chicago, IL | — | 33d | [apply](https://jobs.ashbyhq.com/old-mission-capital/c15a04cc-696a-4463-aae4-6b73bcf07162) |
+| Redhorse | Junior GIS Analyst | — | Arlington, VA | — | 33d | [apply](https://jobs.lever.co/redhorsecorp/6b6efa8a-1efe-4ffb-b0ad-798500fda6fb) |
+| Martek Global | Junior Computer Operator - Aberdeen Proving Ground, MD | — | Aberdeen Proving Ground, MD | $18.00/hr–$20.00/hr | 33d | [apply](https://martekglobal.applytojob.com/apply/PqkQztjf8R/Junior-Computer-Operator-Aberdeen-Proving-Ground-MD) |
+| INDUS Technology | Jr. ERP Systems Analyst | — | Norfolk, VA | — | 33d | [apply](https://careers-industechnology.icims.com/jobs/2307/jr.-erp-systems-analyst/job?in_iframe=1) |
+| Georgia Tech Research Institute | Embedded Real Time Software Engineer Junior To Mid Level Asl Open Rank Atlanta Georgia United States | — | Atlanta, GA | — | 33d | [apply](https://careers.gtri.gatech.edu/jobs/embedded-real-time-software-engineer-junior-to-mid-level-asl-open-rank-atlanta-georgia-united-states) |
+| Torch Technologies | Junior Modeling and Simulation (M&S) Software Developer | — | Huntsville, AL | — | 33d | [apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Junior-Modeling-and-Simulation--M-S--Software-Developer_R2086) |
+| Peraton | IT Monitoring Administrator - Junior | — | Atlantic City, NJ | — | 34d | [apply](https://careers-peraton.icims.com/jobs/171932/it-monitoring-administrator---junior/job?in_iframe=1) |
+| Boeing | Entry-Level Software Engineer | — | USA - Maryland Heights, MO | — | 34d | [apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321-1) |
+| The Ash Group | 24702 Jr Technical Analyst Columbus Oh | — | Columbus, OH | — | 34d | [apply](https://jobs.theashgroup.com/job/24702-jr-technical-analyst-columbus-oh) |
+| LOCKHEED MARTIN | Systems Engineer - Integration and Test - Early Career | — | Fort Worth, TX | — | 34d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477358497) |
+| True Anomaly | Software Engineer I, QA (New Grad) | — | Denver, CO | — | 34d | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007) |
+| Palantir Technologies | Forward Deployed Software Engineer, New Grad - Warp Speed | — | New York, NY | — | 34d | [apply](https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7) |
+| BAE Systems | Junior Quality Engineer | — | Hill AFB, UT | — | 34d | [apply](https://jobs.baesystems.com/global/en/job/131771BR/Junior-Quality-Engineer) |
+| Amazon Lab126 | Jr. Software Development Engineer - Detroit, MI, Jr. Developer Program | — | Detroit, MI | — | 34d | [apply](https://www.amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program) |
+| STC, an Arcfield | Junior to Mid-Level Software Engineer | — | Colorado Springs, CO | — | 35d | [apply](https://careers-arcfield1.icims.com/jobs/8810/login) |
+| Georgia Tech Research Institute | Cybersecurity R D Systems Architect Icl Open Rank Junior Mid Level Atlanta Georgia United States | — | Atlanta, GA | — | 35d | [apply](https://careers.gtri.gatech.edu/jobs/cybersecurity-r-d-systems-architect-icl-open-rank-junior-mid-level-atlanta-georgia-united-states) |
+| Bestronics | Junior Quality Engineer | — | Brea, CA | — | 35d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=30f9da75-8d67-40c7-9dae-80ddb501c4d6&jobId=9201263000106_1&lang=en_US) |
+| Amentum | Entry Level Software Engineer | — | Dahlgren, VA | — | 35d | [apply](https://veterans.amentumcareers.com/jobs/entry-level-software-engineer/8F8DC580537F43BEA5B3C8C13EEEA9D2) |
+| Elanco | Junior Databricks Platform Engineer | — | Bangalore, IN | — | 35d | [apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/IN---Bangalore/Junior-Databricks-Platform-Engineer_R0027456-1) |
+| Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Junior AI Platform Engineer | 2027 | Laurel, MD | — | 35d | [apply](https://studentcareers-jhuapl.icims.com/jobs/60364/login) |
+| Guidewire | Junior AI Engineer- Applied AI | — | Remote | — | 35d | [apply](https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Remote/Junior-AI-Engineer--Applied-AI_JR_15319-1) |
+| Pure Storage | Junior DevOps Engineer | — | Santa Clara, CA | — | 35d | [apply](https://job-boards.greenhouse.io/purestorage/jobs/8282746) |
+| civ.works | Entry Level Geospatial Analyst | — | Fairfax, VA | — | 35d | [apply](https://careers-dewberry.icims.com/jobs/16495/entry-level-geospatial-analyst/job?in_iframe=1) |
+| GlobalFoundries | AI Software Engineer (2027 New College Graduate) | 2027 | Santa Clara, CA | — | 35d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770505821) |
+| NetApp | San Jose Entry Level Software Engineer ANF %28Azure NetApp Files%29 CA 95128 | — | San Jose, CA | — | 36d | [apply](https://jobs.netapp.com/job/San-Jose-Entry-Level-Software-Engineer-ANF-%28Azure-NetApp-Files%29-CA-95128/1407688600/) |
+| Irvine Technology | 23499 Junior Developer Onsite Las Vegas Nevada | — | Las Vegas, NV | — | 36d | [apply](https://www.irvinetechcorp.com/job/23499-junior-developer-onsite-las-vegas-nevada/) |
+| Quora | Full Stack Software Engineer, New Grad - Quora (Remote) | — | Remote | — | 36d | [apply](https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52) |
+| NVIDIA | Software Engineer, Agent Performance Modeling - New College Grad 2026 | 2026 | Santa Clara, CA | — | 36d | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350) |
+| Marsh McLennan | IT Business Analyst Entry Level Insurance | — | Kalispell, MT | — | 36d | [apply](https://careers.marsh.com/global/en/job/MAMCGLOBALR362982EXTERNALENGLOBAL/IT-Business-Analyst-Entry-Level-Insurance) |
+| Marsh McLennan Agency | IT Business Analyst (Entry Level, Insurance) | — | Kalispell, MT | — | 36d | [apply](https://mmc.wd1.myworkdayjobs.com/MMC/job/Kalispell---Timberwolf/IT-Business-Analyst--Entry-Level--Insurance-_R_362982) |
+| Brain | AI/ML Engineer, 2027 New Grad | 2027 | San Francisco, CA | — | 36d | [apply](https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd) |
+| Brain | AI Security Engineer, 2027 New Grad | 2027 | San Francisco, CA | — | 36d | [apply](https://jobs.ashbyhq.com/brainco/32c4e1c9-ccd1-4dca-a68b-31ad1b868030) |
+| BAE Systems | Jr PLM Application Developer | — | Rockville, MD | — | 36d | [apply](https://jobs.baesystems.com/global/en/job/126818BR/Jr-PLM-Application-Developer) |
+| ASM Research, An Accenture Federal Services | Penetration Tester Jr | — | Ashburn, VA | — | 36d | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4723547006?gh_jid=4723547006) |
+| ACCREDITATION COUNCIL FOR GRADUATE MEDICAL EDUCATION | Junior Software Developer | — | Chicago, IL | — | 36d | [apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Junior-Software-Developer_JR35628) |
+| Weekday AI | Junior Software Engineer | — | Remote | — | 37d | [apply](https://apply.workable.com/weekday-1/j/6BB5CCCA21/) |
+| General Dynamics Mission Systems | Entry Level Software Engineer (Spring 2027) | Spring 2027 | Manassas, VA | — | 37d | [apply](https://careers-gdms.icims.com/jobs/75608/entry-level-software-engineer-%28spring-2027%29/job?in_iframe=1) |
+| Applied Materials Korea | Software Engineer Bachelors Degree New College Grad Santa Clara | — | Santa Clara, CA | — | 37d | [apply](https://jobs.appliedmaterials.com/job/santa-clara/software-engineer-bachelors-degree-new-college-grad-santa-clara/95/102194086400) |
+| Otter.ai | Software Engineer, Backend (New Grad) | — | Mountain View, CA | — | 37d | [apply](https://otter.ai/careers?gh_jid=7798264003) |
+| Palantir Technologies | Software Engineer, New Grad - Query Engines | — | New York, NY | — | 37d | [apply](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac) |
+| Citi One Realty | Angular Developer Frontend Engineer Entry Level | — | Irving, TX | — | 37d | [apply](https://jobs.citi.com/job/irving/angular-developer-frontend-engineer-entry-level/287/102169534688) |
+| TechSur Solutions | Junior Web Software Developer | — | Reston, VA | — | 37d | [apply](https://jobs.smartrecruiters.com/TechSurSolutions/3743990016119897) |
+| Freedom Technology Solutions Group | Junior Software Developer 795 | — | Annapolis Junction, MD | — | 37d | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5265949007) |
+| Visionist | Junior Cloud Software Engineer | — | Columbia, MD | — | 37d | [apply](https://jobs.jobvite.com/visionist/job/o5bYAfwy) |
+| GlobalFoundries | AI/ML Systems Engineer (2027 New College Graduate) | 2027 | Richardson, TX | — | 37d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770505716) |
+| Caravan Foods | Software Development Engineer, Early Career - 2027 (US) | 2027 | Seattle, WA | — | 37d | [apply](https://www.amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us) |
+| ASM Research, An Accenture Federal Services | Junior Software Developer | — | St. Louis, MO | — | 37d | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4723148006?gh_jid=4723148006) |
+| Citi One Realty | Full Stack Java Developer Junior | — | Chennai, TN | — | 37d | [apply](https://jobs.citi.com/job/chennai/full-stack-java-developer-junior/287/102161055520) |
+| Arrow Electronics | IT Security Apprentice – AI Red Teaming & AI Risk Assessment | — | KA Bangalore India SKAV Seethalakshmi GESC, IN | — | 38d | [apply](https://arrow.wd1.myworkdayjobs.com/AC/job/IN-KA-Bangalore-India-SKAV-Seethalakshmi-GESC/IT-Security-Apprentice---AI-Red-Teaming---AI-Risk-Assessment_R247591-1) |
+| EverWatch | Software Engineer, Junior | — | Annapolis Junction, MD | — | 39d | [apply](https://everwatch-everwatchsolutions.icims.com/jobs/3580/software-engineer%2c-junior/job?in_iframe=1) |
+| Irvine Technology | 23499 Junior Developer Onsite 2 3 Roles Las Vegas Nevada | — | Las Vegas, NV | — | 40d | [apply](https://www.irvinetechcorp.com/job/23499-junior-developer-onsite-2-3-roles-las-vegas-nevada/) |
+| Serverfarm | Junior Data Center Technician | — | Covington, GA | — | 40d | [apply](https://jobs.lever.co/serverfarm/84be608e-9f83-4119-88f3-4a63b4484bba) |
+| SBT Global | Jr. AI Developer - Korean Bilingual MUST | — | Plano, TX | — | 41d | [apply](https://jobs.smartrecruiters.com/sbtglobalinc/3743990016165776) |
+| Zantech IT Services | Jr Web Applications Developer - Agile, ASP.Net, OOP | — | Andrews Air Force Base AFB, MD +1 | — | 41d | [apply](https://zantech-it.breezy.hr/p/4e5338c5ae4c-jr-web-applications-developer-agile-asp-net-oop) |
+| Getinge | Bengaluru Apprenticeship Software Engineer | — | Bengaluru, IN | — | 41d | [apply](https://careers.getinge.com/job/Bengaluru-Apprenticeship-Software-Engineer/1447715433/) |
+| Quora | Machine Learning Engineer, New Grad - Quora (Remote) | — | Remote | — | 41d | [apply](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3) |
+| Industrial Tectonics | Quality Engineer Trainee | — | Rancho Dominguez, CA | — | 41d | [apply](https://recruiting.ultipro.com/ROL1001RBCAI/JobBoard/323503a8-be53-4e45-a425-31ab5d011434/OpportunityDetail?opportunityId=d1a6bc84-7053-4cdd-b79d-9a1371a03cb9) |
+| AMERICAN SYSTEMS | Junior Systems Engineer | — | Groton, CT | $80,000–$95,000 | 41d | [apply](https://careers-americansystems.icims.com/jobs/5068/junior-systems-engineer/job?in_iframe=1) |
+| Prime Buchholz | Performance Analyst (entry level) | — | PORTSMOUTH, NH | — | 41d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4549638/e544cddf-7e87-428a-8977-9629e944423b) |
+| 1ST American Imts | Junior Systems Engineer | — | Groton, CT | — | 41d | [apply](https://careers-americansystems.icims.com/jobs/5068/login) |
+| INSPYR Solutions | 26 160001 Junior Net Developer Charlotte Nc | — | Charlotte, NC | — | 42d | [apply](https://www.inspyrsolutions.com/job/26-160001-junior-net-developer-charlotte-nc/) |
+| Peraton | Operations Assurance Analyst Junior | — | Fort Belvoir, VA | — | 42d | [apply](https://careers-peraton.icims.com/jobs/167694/operations-assurance-analyst-junior/job?in_iframe=1) |
+| Aurelian | Software Engineer (New Grad) | — | Seattle, WA | $100,000–$130,000 | 42d | [apply](https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e) |
+| Interclypse | QA/Tester (Junior) | — | Annapolis Junction, MD | — | 42d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4558874/6ea91ea2-804f-462b-9fd7-63453b2902ab) |
+| iLawyerMarketing | Junior WordPress Developer, iLawyer Marketing | — | San Diego, CA | — | 42d | [apply](https://jobs.lever.co/rynoss/99fb30a5-ce87-48ee-b8da-933e53c20928) |
+| SBT Global | Jr. IT Security Admin (Korean Bilingual) | — | Plano, TX | — | 42d | [apply](https://jobs.smartrecruiters.com/sbtglobalinc/3743990016134104) |
+| Vantor | Junior Geospatial Analyst | — | McLean, VA | — | 42d | [apply](https://maxar.wd1.myworkdayjobs.com/Vantor/job/McLean-VA/Junior-Geospatial-Analyst_R24784) |
+| ARA | Junior Software Developer | — | Albuquerque, NM | — | 42d | [apply](https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=4a45b594-2e7f-4042-9976-8a3b808265ca) |
+| BAE Systems | Entry Level Software Engineer | — | Wayne, NJ +1 | — | 42d | [apply](https://jobs.baesystems.com/global/en/job/131372BR/Entry-Level-Software-Engineer) |
+| Cerebras | Supplier Quality Engineer - New Grad | — | Sunnyvale, CA | — | 42d | [apply](https://jobs.ashbyhq.com/cerebras/04ce4198-d9b6-4aae-ad11-97708033f94a) |
+| Peraton | Dev/Sec/Ops Software Engineer (Jr.) - Space Programs | — | Las Cruces, NM | — | 42d | [apply](https://careers-peraton.icims.com/jobs/172371/dev-sec-ops-software-engineer-%28jr.%29---space-programs/job?in_iframe=1) |
+| Rohrer | Mastercam Programmer - Entry-Level | — | Bensenville, IL | — | 42d | [apply](https://recruiting.ultipro.com/ROH1000ROH/JobBoard/57243d86-b5d7-49e6-969a-ead0c23136c3/OpportunityDetail?opportunityId=1c17468e-3746-47b2-822c-39272b343550) |
+| Boeing | Entry Level Software Engineer–Developer (Development) | — | Oklahoma City, OK +1 | — | 42d | [apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522577-1) |
+| Boeing | Entry Level B1 Software Systems Engineer | — | Oklahoma City, OK | — | 42d | [apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-B1-Software-Systems-Engineer_JR2026521428-2) |
+| Waites | Junior Software Engineer | — | Huntsville, AL | — | 43d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4557663/3cf27044-d2e4-413c-b583-29993a7a3b2f) |
+| Best Logistics Group | Junior Developer | — | Kernersville, NC | — | 43d | [apply](https://bestlogisticsgroup.recruitee.com/o/junior-developer) |
+| W-Industries | JUNIOR DEVELOPER - INDUSTRIAL CYBERSECURITY | — | Houston, TX | — | 43d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4527861/1c82e21d-a250-4fb1-aa1f-5ebd0f320eab) |
+| NVIDIA | SoC Software Engineer – New College Graduate 2026 | 2026 | Santa Clara, CA | — | 43d | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1) |
+| NVIDIA | SoC Software Engineer - New College Grad 2027 | 2027 | Santa Clara, CA | — | 43d | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744) |
+| Fannie Mae | Jr. Cloud Automation Engineer | — | Reston, VA | — | 43d | [apply](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Jr-Cloud-Automation-Engineer_JR2956) |
+| RoviSys Building Technologies | Entry Level Engineer/Developer - 2027 | 2027 | Dublin, OH | — | 43d | [apply](https://careers-rovisys.icims.com/jobs/2187/entry-level-engineer-developer---2027/job?in_iframe=1) |
+| Boeing | Entry-Level Software Engineer–Developer | — | USA - Richardson, TX | — | 43d | [apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1) |
+| General Dynamics Mission Systems | Systems Engineer - Entry Level | — | Scottsdale, AZ | — | 44d | [apply](https://careers-gdms.icims.com/jobs/74275/systems-engineer---entry-level/job?in_iframe=1) |
+| Arrow Electronics | Apprentice - AI | — | KA Bangalore India SKAV Seethalakshmi GESC, IN | — | 44d | [apply](https://arrow.wd1.myworkdayjobs.com/AC/job/IN-KA-Bangalore-India-SKAV-Seethalakshmi-GESC/Apprentice---AI_R247433) |
+| Boeing | Entry-Level Software Engineer–Test & Verification | — | USA - Tinker AFB, OK | — | 44d | [apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081) |
+| RBC Lubron Bearing | Quality Engineer Trainee | — | Santa Fe Springs, CA | — | 44d | [apply](https://recruiting.ultipro.com/ROL1001RBCAI/JobBoard/323503a8-be53-4e45-a425-31ab5d011434/OpportunityDetail?opportunityId=2ad5c91c-2586-4e5d-8aa0-988e2187b31f) |
+| General Dynamics Mission Systems | Junior Embedded Software Engineer (cleared) | — | Ft. Wayne, IN +1 | — | 44d | [apply](https://careers-gdms.icims.com/jobs/75505/junior-embedded-software-engineer-%28cleared%29/job?in_iframe=1) |
+| NVIDIA | Deep Learning Software Engineer, TensorRT Performance - New College Grad 2027 | 2027 | Santa Clara, CA | — | 44d | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083) |
+| Freedom Technology Solutions Group | Junior Software Engineer 780 | — | Annapolis Junction, MD | — | 44d | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5248064007) |
+| ELEVI Associates | Jr Level Software Developer | — | Annapolis Junction, MD | — | 44d | [apply](https://job-boards.greenhouse.io/eleviassociates/jobs/8015722003) |
+| Freemotion from iFIT | Junior AI Engineer | — | Remote | — | 44d | [apply](http://www.ifit.com/careers?gh_jid=4438032009) |
+| ASSYST | Full Stack Developer (Entry Level) | — | Sterling, VA | — | 44d | [apply](https://job-boards.greenhouse.io/assystinc/jobs/4436912009) |
+| ASM Research, An Accenture Federal Services | Junior Automation Test Engineer | — | Arlington, VA | — | 47d | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4720595006?gh_jid=4720595006) |
+| Peraton Labs | IT Monitoring Administrator - Junior | — | Atlantic City, NJ | — | 49d | [apply](https://careers-peraton.icims.com/jobs/171932/it-monitoring-administrator/job?in_iframe=1) |
+| Chalk | Software Engineer - New Grad | — | San Francisco, CA | $170,000–$180,000 | 49d | [apply](https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f) |
+| Otter.ai | Software Engineer, Front-End (New Grad) | — | Mountain View, CA | — | 49d | [apply](https://otter.ai/careers?gh_jid=8016078003) |
+| BAE Systems | Systems Engineer New Grad | — | Cedar Rapids, IA | — | 51d | [apply](https://jobs.baesystems.com/global/en/job/131009BR/Systems-Engineer-New-Grad) |
+| ID.me | Software Engineer II, Developer Portal (New Grad / Early Career) | — | Mountain View, CA | — | 51d | [apply](https://job-boards.greenhouse.io/idme/jobs/8011089003) |
+| ID.me | Software Development Engineer II – Life Hub (Super App) (New Grad / Early Career) | — | Mountain View, CA | — | 51d | [apply](https://job-boards.greenhouse.io/idme/jobs/8011095003) |
+| Via Logic | Operations Enhancement Analyst - Junior & Mid-Level [U.S. Citizenship & CBP High Trust Suitability Required] | — | Ashburn, VA | — | 52d | [apply](https://job-boards.greenhouse.io/vialogic/jobs/5442496008) |
+| Pangram Labs | Machine Learning Engineer (Junior) | — | Brooklyn, NY | $135,000–$150,000 | 52d | [apply](https://jobs.ashbyhq.com/pangramlabs/52d3bc99-944f-4ed7-ae61-8ed5333fff1d) |
+| BAE Systems | FAST Labs Systems Engineer Early Career Levels | — | Merrimack, NH | — | 58d | [apply](https://jobs.baesystems.com/global/en/job/130495BR/FAST-Labs-Systems-Engineer-Early-Career-Levels) |
+| BAE Systems | FAST Labs Software Engineer Early Career Levels Top Secret | — | Merrimack, NH | — | 58d | [apply](https://jobs.baesystems.com/global/en/job/130491BR/FAST-Labs-Software-Engineer-Early-Career-Levels-Top-Secret) |
+| BAE Systems | FAST Labs Software Engineer Early Career Levels Secret | — | Merrimack, NH | — | 58d | [apply](https://jobs.baesystems.com/global/en/job/130493BR/FAST-Labs-Software-Engineer-Early-Career-Levels-Secret) |
+| Swarm Aero | Software Engineer, Real-Time Systems (Early Career) 🇺🇸 | — | Remote | $170,000–$220,000 | 58d | [apply](https://jobs.ashbyhq.com/swarmaero/7d3783c5-f98c-4def-8c33-6de907aab30e) |
+| webAI | Jr DevOps Engineer | — | Austin, TX | — | 59d | [apply](https://jobs.ashbyhq.com/webai/5aa2fb29-be71-4135-928c-e7690611b380) |
+| GlobalFoundries | New Product Development Test Engineer (2027 New College Graduate) | 2027 | Richardson, TX | — | 62d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770505930) |
+| General Matter | Software Engineer, New Grad 🇺🇸 | — | Los Angeles, CA | — | 65d | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375987008) |
+| ID.me | Summer 2027- Software Development Engineer - New Grad | Summer 2027 | Mountain View, CA | — | 66d | [apply](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003) |
+| STC, an Arcfield | Entry level Software Engineer | — | Middletown, RI | — | 66d | [apply](https://careers-arcfield1.icims.com/jobs/8643/login) |
+| STC, an Arcfield | Entry Level Systems Engineer | — | Middletown, RI | — | 66d | [apply](https://careers-arcfield1.icims.com/jobs/8645/login) |
+| Forescout Technologies | Jr. Software Engineer | — | Plano, TX | — | 72d | [apply](https://jobs.jobvite.com/forescout/job/oFXKAfwG) |
+| Whole Foods Market | Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026, Amazon Dedicated Cloud (ADC) | 2026 | Seattle, WA | — | 73d | [apply](https://www.amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc) |
+| GlobalFoundries | 3D Heterogeneous Integration Engineer (2026 New College Graduate) | 2026 | Malta, NY | — | 73d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980768882160) |
+| BAE Systems | Junior Software Engineer | — | Greenlawn, NY | — | 74d | [apply](https://jobs.baesystems.com/global/en/job/128932BR/Junior-Software-Engineer) |
+| General Dynamics Mission Systems | Entry Level Software Engineer | — | Scottsdale, AZ | — | 74d | [apply](https://careers-gdms.icims.com/jobs/74823/entry-level-software-engineer/job?in_iframe=1) |
+| Sentry | Software Engineer, New Grad (2027) | 2027 | Remote | $75,000–$80,000 | 74d | [apply](https://jobs.ashbyhq.com/sentry/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2) |
+| Netic | Full-Stack Software Engineer (Product) - New Grad - 2026-2027 | 2026 | San Francisco, CA | $138,000–$160,000 | 75d | [apply](https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3) |
+| Cursor | Software Engineer, New Grad 2027 | 2027 | San Francisco, CA | — | 75d | [apply](https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b) |
+| Notion Islamabad | Software Engineer, Growth (Early Career) | — | San Francisco, CA | — | 75d | [apply](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f) |
+| Valon | Software Engineer New Grad | — | New York, NY | $135,000–$160,000 | 75d | [apply](https://jobs.ashbyhq.com/Valon/e08ad09a-4408-4210-8c1b-da6510f83324) |
+| True Anomaly | Software Engineer I, Spacecraft Simulation (New Grad) | — | Denver, CO | — | 75d | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007) |
+| True Anomaly | Software Engineer I, Data Science (New Grad) | — | Denver, CO | — | 75d | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007) |
+| Amazon Leo | Software Development Engineer, Amazon Leo, Early Career - 2026 | 2026 | Redmond, WA | — | 76d | [apply](https://www.amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026) |
+| Thermo Fisher Scientific | Junior Analyst Digital Solutions Designe | — | Remote | — | 76d | [apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Brazil/Associate-Digital-Solutions-Designe_R-01345532) |
+| Peraton | Jr Software Engineer TS/SCI with Poly | — | Annapolis Junction, MD | — | 76d | [apply](https://careers-peraton.icims.com/jobs/168379/jr-software-engineer-ts-sci-with-poly/job?in_iframe=1) |
+| Peraton | Cloud Software Engineer Jr. - TS/SCI w/Poly | — | Annapolis Junction, MD | — | 76d | [apply](https://careers-peraton.icims.com/jobs/168372/cloud-software-engineer-jr.----ts-sci-w-poly/job?in_iframe=1) |
 
 [← back to the front page](../README.md)
 
