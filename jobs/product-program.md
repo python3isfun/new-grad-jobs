@@ -1,19 +1,18 @@
 # 📋 Product & Program
 
-**6 roles** · updated `2026-11-26 16:23 UTC` · [← all categories](../README.md)
+**5 roles** · updated `2026-11-27 16:23 UTC` · [← all categories](../README.md)
 
-Newest first. A role posted in several cities is listed once, with `+N` for the others (1 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
+Newest first. A role posted in several cities is listed once, with `+N` for the others (0 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
 **Legend:** 🛂 does **not** sponsor visas · 🇺🇸 requires US citizenship · 🌏 sponsorship available — each read from the posting's own text. No marker means neither source says anything.
 
 | Company | Role | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|
-| General Dynamics | Entry Level Engineer- Systems - Hull Planning Yard | — | Groton, CT | — | 31d | [apply](https://careers-gdeb.icims.com/jobs/21160/entry-level-engineer--systems---hull-planning-yard/job?in_iframe=1) |
-| UICGS / Bowhead Family of Companies | Junior Systems/ S&amp;T Engineer | — | Stafford, VA | $75,000–$90,000 | 33d | [apply](https://bowheadcareers-uicalaska.icims.com/jobs/26403/junior-systems--s%26t-engineer/job?in_iframe=1) |
-| Torch Technologies | Missile Defense Systems Engineer/Analyst-Entry Level | — | Huntsville, AL | — | 36d | [apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Missile-Defense-Systems-Engineer-Analyst-Entry-Level_R2071) |
-| MGAC | Data Center Construction- Junior to Mid Project Manager (Cost) | — | Fort Wayne, IN | — | 37d | [apply](https://job-boards.greenhouse.io/mgac/jobs/4458889009) |
-| MGAC | Data Center Construction- Junior to Mid Project Manager | — | Raleigh, NC +1 | — | 40d | [apply](https://job-boards.greenhouse.io/mgac/jobs/4095220009) |
-| Linesight | Cost Engineer (Recent Graduate) | — | Milwaukee, WI | — | 44d | [apply](https://careers-linesight.icims.com/jobs/6337/cost-engineer-%28recent-graduate%29/job?in_iframe=1) |
+| General Dynamics | Entry Level Engineer- Systems - Hull Planning Yard | — | Groton, CT | — | 32d | [apply](https://careers-gdeb.icims.com/jobs/21160/entry-level-engineer--systems---hull-planning-yard/job?in_iframe=1) |
+| UICGS / Bowhead Family of Companies | Junior Systems/ S&amp;T Engineer | — | Stafford, VA | $75,000–$90,000 | 34d | [apply](https://bowheadcareers-uicalaska.icims.com/jobs/26403/junior-systems--s%26t-engineer/job?in_iframe=1) |
+| Torch Technologies | Missile Defense Systems Engineer/Analyst-Entry Level | — | Huntsville, AL | — | 37d | [apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Missile-Defense-Systems-Engineer-Analyst-Entry-Level_R2071) |
+| MGAC | Data Center Construction- Junior to Mid Project Manager (Cost) | — | Fort Wayne, IN | — | 38d | [apply](https://job-boards.greenhouse.io/mgac/jobs/4458889009) |
+| MGAC | Data Center Construction- Junior to Mid Project Manager | — | Raleigh, NC | — | 41d | [apply](https://job-boards.greenhouse.io/mgac/jobs/4095220009) |
 
 [← back to the front page](../README.md)
 
